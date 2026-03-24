@@ -201,4 +201,6 @@ Contributions are welcome. When adding or updating ticker reports:
 
 ## License
 
-This project is open source. Financial data sourced from Yahoo Finance via yfinance. Business descriptions are original research.
+MIT License. See [LICENSE](LICENSE) for details.
+
+Financial data sourced from Yahoo Finance via yfinance. Business descriptions are original research.
