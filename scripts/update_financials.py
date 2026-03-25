@@ -220,10 +220,17 @@ def build_financial_section(data):
     # Valuation snapshot
     v = data.get("valuation", {})
     if v:
+        headers = ["P/E (TTM)", "Forward P/E", "P/S (TTM)", "P/B", "EV/EBITDA"]
+        values = [v.get(h, "N/A") for h in headers]
+        # Compute column widths for alignment
+        widths = [max(len(h), len(val)) for h, val in zip(headers, values)]
+        header_row = "| " + " | ".join(h.rjust(w) for h, w in zip(headers, widths)) + " |"
+        sep_row = "|" + "|".join("-" * (w + 2) for w in widths) + "|"
+        val_row = "| " + " | ".join(val.rjust(w) for val, w in zip(values, widths)) + " |"
         section += "### 估值指標\n"
-        section += "| P/E (TTM) | Forward P/E | P/S (TTM) | P/B | EV/EBITDA |\n"
-        section += "|-----------|-------------|-----------|-----|----------|\n"
-        section += f"| {v.get('P/E (TTM)', 'N/A')} | {v.get('Forward P/E', 'N/A')} | {v.get('P/S (TTM)', 'N/A')} | {v.get('P/B', 'N/A')} | {v.get('EV/EBITDA', 'N/A')} |\n\n"
+        section += header_row + "\n"
+        section += sep_row + "\n"
+        section += val_row + "\n\n"
 
     section += "### 年度關鍵財務數據 (近 3 年)\n"
     if data["annual"] is not None and not data["annual"].empty:
