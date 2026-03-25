@@ -33,7 +33,7 @@ import sys
 import json
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from utils import find_ticker_files, parse_scope_args, PROJECT_ROOT
+from utils import find_ticker_files, parse_scope_args, PROJECT_ROOT, normalize_wikilinks
 
 
 def apply_enrichment(filepath, ticker, data):
@@ -78,6 +78,9 @@ def apply_enrichment(filepath, ticker, data):
             content,
             flags=re.DOTALL,
         )
+
+    # Normalize wikilinks: standardize aliases, collapse duplicates
+    content = normalize_wikilinks(content)
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
