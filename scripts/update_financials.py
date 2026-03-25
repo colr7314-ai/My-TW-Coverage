@@ -173,9 +173,22 @@ def fetch_financials(ticker):
                 else None
             )
 
+            # Valuation multiples
+            valuation = {}
+            for key, label in [
+                ("trailingPE", "P/E (TTM)"),
+                ("forwardPE", "Forward P/E"),
+                ("priceToSalesTrailing12Months", "P/S (TTM)"),
+                ("priceToBook", "P/B"),
+                ("enterpriseToEbitda", "EV/EBITDA"),
+            ]:
+                val = info.get(key)
+                valuation[label] = f"{val:.2f}" if val else "N/A"
+
             return {
                 "annual": df_annual,
                 "quarterly": df_quarterly,
+                "valuation": valuation,
                 "market_cap": market_cap,
                 "enterprise_value": enterprise_value,
                 "sector": info.get("sector", "N/A"),
@@ -203,6 +216,15 @@ def df_to_clean_markdown(df):
 
 def build_financial_section(data):
     section = "## 財務概況 (單位: 百萬台幣, 只有 Margin 為 %)\n"
+
+    # Valuation snapshot
+    v = data.get("valuation", {})
+    if v:
+        section += "### 估值指標\n"
+        section += "| P/E (TTM) | Forward P/E | P/S (TTM) | P/B | EV/EBITDA |\n"
+        section += "|-----------|-------------|-----------|-----|----------|\n"
+        section += f"| {v.get('P/E (TTM)', 'N/A')} | {v.get('Forward P/E', 'N/A')} | {v.get('P/S (TTM)', 'N/A')} | {v.get('P/B', 'N/A')} | {v.get('EV/EBITDA', 'N/A')} |\n\n"
+
     section += "### 年度關鍵財務數據 (近 3 年)\n"
     if data["annual"] is not None and not data["annual"].empty:
         section += df_to_clean_markdown(data["annual"]) + "\n\n"

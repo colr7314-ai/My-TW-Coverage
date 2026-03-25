@@ -152,6 +152,7 @@ Pilot_Reports/{Industry}/{Ticker}_{ChineseName}.md
 | Audit | `python scripts/audit_batch.py <batch> -v` | Quality check (single batch) |
 | Audit All | `python scripts/audit_batch.py --all -v` | Quality check (all completed batches) |
 | Wikilink Index | `python scripts/build_wikilink_index.py` | Rebuild WIKILINKS.md from all reports |
+| Thematic Screens | `python scripts/build_themes.py` | Generate themes/ supply chain maps |
 
 ### Scope Syntax (shared across all scripts)
 ```

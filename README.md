@@ -56,7 +56,12 @@ Each report follows a consistent structure:
 - [[ASML]], [[Tokyo Electron]], [[Shin-Etsu]]...
 
 ## 財務概況
-[Annual (3yr) and Quarterly (4Q) financial tables]
+### 估值指標
+| P/E (TTM) | Forward P/E | P/S (TTM) | P/B | EV/EBITDA |
+[Valuation multiples from yfinance]
+
+### 年度/季度財務數據
+[Annual (3yr) and Quarterly (4Q) financial tables with 14 metrics]
 ```
 
 ### Add a New Ticker
@@ -115,6 +120,16 @@ python scripts/build_wikilink_index.py
 
 Regenerates [WIKILINKS.md](WIKILINKS.md) — a browsable index of all 4,900+ wikilinks categorized by type (Technologies, Materials, Applications, Companies). Run after any enrichment update.
 
+### Generate Thematic Investment Screens
+
+```bash
+python scripts/build_themes.py               # Build all 20 themes
+python scripts/build_themes.py "CoWoS"       # Single theme
+python scripts/build_themes.py --list        # List available themes
+```
+
+Generates [themes/](themes/) — supply chain maps for key investment themes. Each page shows companies grouped by upstream/midstream/downstream role. See [themes/README.md](themes/README.md) for the full index.
+
 ## Using with Claude Code
 
 This project includes [Claude Code](https://claude.ai/claude-code) skill definitions for interactive use:
@@ -157,19 +172,28 @@ The database contains **4,900+ unique wikilinks** across three categories:
 ├── CLAUDE.md                  # Project rules and quality standards
 ├── WIKILINKS.md               # Browsable wikilink index (auto-generated)
 ├── task.md                    # Batch definitions and progress tracking
+├── requirements.txt           # Python dependencies
 ├── README.md
 ├── scripts/
-│   ├── utils.py               # Shared utilities (file discovery, scope parsing)
+│   ├── utils.py               # Shared utilities (file discovery, wikilink normalization)
 │   ├── add_ticker.py          # Generate new ticker reports
-│   ├── update_financials.py   # Refresh financial tables from yfinance
+│   ├── update_financials.py   # Refresh financial tables + valuation multiples
 │   ├── update_enrichment.py   # Update business descriptions from JSON
 │   ├── audit_batch.py         # Quality auditing
+│   ├── fix_batch.py           # Batch enrichment applicator
 │   ├── build_wikilink_index.py # Rebuild WIKILINKS.md index
+│   ├── build_themes.py        # Generate thematic investment screens
 │   └── generators/            # Historical base report generators
 ├── Pilot_Reports/             # 1,735 ticker reports across 99 sectors
 │   ├── Semiconductors/
 │   ├── Electronic Components/
 │   └── ... (99 folders)
+├── themes/                    # Thematic investment screens (auto-generated)
+│   ├── README.md              # Theme index
+│   ├── CoWoS.md               # 39 companies in CoWoS supply chain
+│   ├── AI_伺服器.md            # 148 companies in AI server ecosystem
+│   ├── NVIDIA.md              # 104 companies in NVIDIA supply chain
+│   └── ... (20 themes)
 └── .claude/
     └── skills/                # Claude Code skill definitions
 ```
