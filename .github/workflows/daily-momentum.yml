@@ -10,6 +10,12 @@ on:
         description: "Cap on number of tickers (blank = all)"
         required: false
         default: ""
+  push:
+    # Touch data/.run-now (content = limit, blank = all) to trigger an
+    # immediate snapshot. Lets us kick off runs from any client that can
+    # commit a file (MCP, web editor) without using the Actions UI.
+    paths:
+      - "data/.run-now"
 
 permissions:
   contents: write
@@ -31,12 +37,22 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+      - name: Resolve limit (workflow_dispatch input or data/.run-now content)
+        id: cfg
+        run: |
+          LIMIT="${{ inputs.limit }}"
+          if [ -z "${LIMIT}" ] && [ -f data/.run-now ]; then
+            LIMIT=$(tr -dc '0-9' < data/.run-now | head -c 6)
+          fi
+          echo "limit=${LIMIT}" >> "$GITHUB_OUTPUT"
+          echo "Resolved limit='${LIMIT}'"
+
       - name: Rebuild wikilink index
         run: python -m momentum.cli build-index
 
       - name: Fetch prices + compute momentum
         env:
-          LIMIT: ${{ inputs.limit }}
+          LIMIT: ${{ steps.cfg.outputs.limit }}
         run: |
           if [ -n "${LIMIT}" ]; then
             python -m momentum.cli fetch-prices --limit "${LIMIT}"
