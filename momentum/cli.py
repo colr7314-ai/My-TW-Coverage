@@ -64,13 +64,30 @@ def cmd_compute(_args) -> None:
     metrics_df = momentum.metrics_to_dataframe(metrics_list)
 
     theme_index = themes.load_theme_index()
-    themes_df = themes.aggregate_themes(metrics_df, theme_index)
+    prior = themes.load_snapshot_n_back(5)  # ~1 trading week
+    themes_df = themes.aggregate_themes(metrics_df, theme_index,
+                                        prior_themes_df=prior)
 
     today = date.today().isoformat()
     out_dir = themes.save_daily_snapshot(metrics_df, themes_df, today)
     print(f"Wrote snapshot → {out_dir}")
     print(f"  tickers in snapshot: {len(metrics_df)}")
     print(f"  themes in snapshot:  {len(themes_df)}")
+
+
+def cmd_fetch_fundamentals(_args) -> None:
+    from . import fundamentals
+    df = fundamentals.fetch_monthly()
+    if df.empty:
+        print("No fundamentals fetched (network or upstream issue).")
+        return
+    out = fundamentals.save_monthly(df)
+    print(f"Saved {len(df)} rows -> {out}")
+
+
+def cmd_alert(_args) -> None:
+    from . import alert
+    alert.push_latest_snapshot()
 
 
 def cmd_daily(args) -> None:
@@ -93,6 +110,8 @@ def main() -> None:
     fp.set_defaults(func=cmd_fetch_prices)
 
     sub.add_parser("compute").set_defaults(func=cmd_compute)
+    sub.add_parser("fetch-fundamentals").set_defaults(func=cmd_fetch_fundamentals)
+    sub.add_parser("alert").set_defaults(func=cmd_alert)
 
     d = sub.add_parser("daily")
     d.add_argument("--mock", action="store_true")

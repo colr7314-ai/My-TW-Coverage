@@ -45,12 +45,16 @@ jobs:
           fi
           python -m momentum.cli compute
 
+      - name: Fetch monthly revenue (fundamentals)
+        continue-on-error: true
+        run: python -m momentum.cli fetch-fundamentals
+
       - name: Commit snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/theme_index.json data/ticker_themes.json data/companies.json
-          git add data/daily/
+          git add data/daily/ data/fundamentals/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -58,3 +62,9 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d")
           git commit -m "data: daily momentum snapshot ${DATE}"
           git push
+
+      - name: Push daily alert
+        continue-on-error: true
+        env:
+          MOMENTUM_WEBHOOK_URL: ${{ secrets.MOMENTUM_WEBHOOK_URL }}
+        run: python -m momentum.cli alert

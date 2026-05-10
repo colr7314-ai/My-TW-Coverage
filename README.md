@@ -204,10 +204,17 @@ Daily refresh is automated by `.github/workflows/daily-momentum.yml` (cron 07:30
 | `momentum/indexer.py` | Scan `Pilot_Reports/*.md`, build theme ↔ ticker graph |
 | `momentum/prices.py` | yfinance OHLCV fetcher with `.TW`/`.TWO` fallback + CSV cache |
 | `momentum/momentum.py` | Per-ticker metrics: returns, RS Rating (1–99), volume surge, new highs |
-| `momentum/themes.py` | Per-theme aggregation: median momentum, top/bottom performers |
+| `momentum/themes.py` | Per-theme aggregation + week-over-week rotation score |
+| `momentum/relations.py` | Theme-to-theme Jaccard similarity for the network graph |
+| `momentum/fundamentals.py` | Monthly revenue from TWSE / TPEx open data → YoY acceleration |
+| `momentum/alert.py` | Markdown daily summary + webhook push (Slack/Discord/generic) |
 | `momentum/mock_prices.py` | Synthetic OHLCV for sandboxes without market data access |
-| `app/streamlit_app.py` | Dashboard entry — hot/cold theme ranking |
-| `app/pages/` | Theme browser · Ticker detail (K-line + report) · Daily movers |
+| `app/streamlit_app.py` | Dashboard entry — hot/cold theme ranking with rotation scores |
+| `app/pages/` | Theme browser · Ticker detail · Daily movers · Theme network graph |
+
+### Daily alert
+
+Set the GitHub Actions secret `MOMENTUM_WEBHOOK_URL` to a Slack incoming webhook, Discord webhook, or any endpoint that accepts `{"text": "..."}` POSTs. The workflow's `Push daily alert` step will send the markdown summary after each snapshot. Leave the secret unset to disable.
 
 ## Data Sources
 

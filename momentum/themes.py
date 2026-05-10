@@ -34,13 +34,20 @@ def aggregate_themes(
     min_constituents: int = 3,
     top_n: int = 5,
     type_filter: tuple[str, ...] | None = ("technology", "other", "tw_company"),
+    prior_themes_df: pd.DataFrame | None = None,
 ) -> pd.DataFrame:
     """Roll up per-ticker metrics to per-theme stats.
 
     A theme is included only if it has at least ``min_constituents`` covered
     tickers and its type is in ``type_filter``.
+
+    If ``prior_themes_df`` is given (a snapshot from N days ago), a
+    ``rotation_score`` column is added: ``median_ret_1w(today) - median_ret_1w(prior)``.
     """
     metrics_indexed = metrics_df.set_index("ticker")
+    prior_idx = None
+    if prior_themes_df is not None and not prior_themes_df.empty:
+        prior_idx = prior_themes_df.set_index("theme")
     rows = []
     for theme, info in theme_index.items():
         if type_filter and info["type"] not in type_filter:
@@ -49,6 +56,13 @@ def aggregate_themes(
         if len(tickers) < min_constituents:
             continue
         sub = metrics_indexed.loc[tickers]
+
+        rotation = None
+        if prior_idx is not None and theme in prior_idx.index:
+            prior_med_1w = prior_idx.loc[theme, "median_ret_1w"]
+            cur_med_1w = _med(sub["ret_1w"])
+            if pd.notna(prior_med_1w) and cur_med_1w is not None:
+                rotation = float(cur_med_1w - prior_med_1w)
 
         row = {
             "theme": theme,
@@ -62,6 +76,7 @@ def aggregate_themes(
             "mean_rs_rating": _mean(sub["rs_rating"]),
             "pct_new_high_60d": _pct_true(sub["new_high_60d"]),
             "pct_above_bench_3m": _pct_pos(sub["rs_vs_bench_3m"]),
+            "rotation_score": rotation,
             "top_performers": _top_performers(sub, top_n),
             "bottom_performers": _bottom_performers(sub, top_n),
         }
@@ -123,3 +138,21 @@ def load_latest_snapshot() -> tuple[pd.DataFrame, pd.DataFrame, str] | None:
     metrics = pd.read_csv(d / "ticker_momentum.csv")
     themes = pd.read_json(d / "themes_ranking.json")
     return metrics, themes, latest
+
+
+def load_snapshot_n_back(n_business_days: int) -> pd.DataFrame | None:
+    """Return the themes DataFrame from the snapshot ~``n_business_days`` ago.
+
+    Returns ``None`` if not enough history exists. Picks the snapshot whose
+    date is the largest one strictly older than today by at least N b-days.
+    """
+    if not DAILY_DIR.exists():
+        return None
+    dates = sorted(p.name for p in DAILY_DIR.iterdir() if p.is_dir())
+    if len(dates) < n_business_days + 1:
+        return None
+    target = dates[-(n_business_days + 1)]
+    p = DAILY_DIR / target / "themes_ranking.json"
+    if not p.exists():
+        return None
+    return pd.read_json(p)

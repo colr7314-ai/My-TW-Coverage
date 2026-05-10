@@ -58,13 +58,14 @@ with col_r:
         df["平均 RS"] = df["mean_rs_rating"].round(1)
         df["創 60 日新高 %"] = (df["pct_new_high_60d"] * 100).round(1)
         df["勝大盤 %"] = (df["pct_above_bench_3m"] * 100).round(1)
+        df["週輪動"] = df.get("rotation_score", pd.Series(dtype=float)).apply(format_pct)
         df = df.rename(columns={
             "theme": "題材",
             "type": "類型",
             "n_with_price": "成分股數",
         })
         st.dataframe(
-            df[["題材", "類型", "成分股數", "中位數動能", "平均 RS",
+            df[["題材", "類型", "成分股數", "中位數動能", "週輪動", "平均 RS",
                 "創 60 日新高 %", "勝大盤 %"]],
             hide_index=True,
             width="stretch",
