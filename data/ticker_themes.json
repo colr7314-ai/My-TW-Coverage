@@ -67,7 +67,6 @@
     "sector": "Building Materials",
     "themes": [
       "NICHIHA",
-      "TSMC",
       "利永環球",
       "北醫行愛長照中心",
       "台北",
@@ -114,6 +113,7 @@
     "name": "東泥",
     "sector": "Building Materials",
     "themes": [
+      "Costco",
       "土地開發",
       "好市多",
       "東南米樂",
@@ -144,6 +144,7 @@
       "PE",
       "PP",
       "PVC",
+      "SAP",
       "台塑石化",
       "台塑集團",
       "寶成",
@@ -213,6 +214,7 @@
       "PVC粉",
       "中油",
       "台北",
+      "台塑",
       "台灣氯乙烯",
       "台聚集團",
       "營造",
@@ -286,10 +288,10 @@
     "name": "台苯",
     "sector": "Chemicals",
     "themes": [
-      "TSMC",
       "台北",
       "台橡",
       "台灣中油",
+      "台積電",
       "台達化",
       "奇美實業",
       "林園工業區",
@@ -318,6 +320,7 @@
     "name": "聯成",
     "sector": "Chemicals",
     "themes": [
+      "BASF",
       "南亞塑膠",
       "可塑劑",
       "台北",
@@ -340,6 +343,7 @@
       "丙烯",
       "信昌化",
       "半導體",
+      "台化",
       "台灣中油",
       "土地開發",
       "威京集團",
@@ -380,6 +384,7 @@
       "LKQ",
       "State Farm",
       "Tesla",
+      "Toyota",
       "一汽大眾",
       "中鋼",
       "住友化學",
@@ -597,6 +602,7 @@
     "sector": "Metal Fabrication",
     "themes": [
       "HDPE",
+      "Meta",
       "台電",
       "太陽能",
       "漁電共生"
@@ -612,7 +618,6 @@
       "Gap",
       "Hasbro",
       "IKEA",
-      "Innolux",
       "Kingston",
       "Lululemon",
       "MEG",
@@ -621,6 +626,7 @@
       "PepsiCo",
       "Under Armour",
       "rPET",
+      "群創",
       "遠傳電信",
       "遠東新世紀",
       "遠東集團"
@@ -653,7 +659,7 @@
       "南岩半導體",
       "去中化",
       "導線架",
-      "日月光"
+      "日月光投控"
     ]
   },
   "1413": {
@@ -1290,10 +1296,14 @@
     "name": "士電",
     "sector": "Electrical Equipment & Parts",
     "themes": [
+      "Mitsubishi",
+      "三陽",
       "仰德集團",
+      "光陽",
       "半導體",
       "台北",
       "台積電",
+      "台電",
       "台電強韌電網計畫",
       "綠能",
       "聯電",
@@ -1456,6 +1466,7 @@
       "Alstom",
       "LED",
       "Stellantis",
+      "Toyota",
       "三陽工業",
       "中華汽車",
       "國瑞汽車",
@@ -1604,6 +1615,7 @@
       "GM",
       "John Deere",
       "KNORR-BREMSE",
+      "Meta",
       "Toyota",
       "Yaskawa",
       "ZF",
@@ -1752,12 +1764,10 @@
       "Element Six",
       "Intel",
       "Micron",
-      "TSMC",
       "力積電",
       "半導體",
       "台積電",
       "矽晶圓",
-      "美光",
       "聯電"
     ]
   },
@@ -1803,6 +1813,7 @@
       "Dell",
       "HP",
       "Lenovo",
+      "Meta",
       "中鋼",
       "精元",
       "群光",
@@ -1850,6 +1861,7 @@
       "Lenovo",
       "Sony",
       "SpaceX",
+      "中鋼",
       "低軌衛星",
       "廣達",
       "新北",
@@ -1878,6 +1890,7 @@
     "sector": "Metal Fabrication",
     "themes": [
       "GE Aerospace",
+      "Meta",
       "Rolls-Royce",
       "Safran",
       "台灣鋼鐵集團",
@@ -1895,6 +1908,7 @@
       "BorgWarner",
       "Eaton",
       "Magna",
+      "Meta",
       "Seagate",
       "Tesla",
       "Western Digital",
@@ -1924,6 +1938,7 @@
       "GE",
       "Goldwind",
       "Ingersoll Rand",
+      "Meta",
       "Siemens Gamesa",
       "Vestas",
       "離岸風電"
@@ -1938,12 +1953,12 @@
       "BYD",
       "CATL",
       "Festo",
-      "Foxconn",
       "Luxshare",
       "NOK",
       "SMC",
       "氣動元件",
-      "線性滑軌"
+      "線性滑軌",
+      "鴻海"
     ]
   },
   "1591": {
@@ -2297,6 +2312,7 @@
     "name": "東聯",
     "sector": "Chemicals",
     "themes": [
+      "EUV",
       "Linde",
       "乙二醇",
       "二氧化碳",
@@ -2315,12 +2331,11 @@
       "Adidas",
       "Nike",
       "SpaceX",
-      "TSMC",
       "光阻劑",
       "半導體",
       "台積電",
       "拋光液",
-      "日月光",
+      "日月光投控",
       "景碩",
       "欣興"
     ]
@@ -2347,9 +2362,9 @@
     "name": "國化",
     "sector": "Specialty Chemicals",
     "themes": [
+      "Micron",
       "台積電",
-      "和淞科技",
-      "美光"
+      "和淞科技"
     ]
   },
   "1714": {
@@ -2375,12 +2390,13 @@
       "Allnex",
       "Apple",
       "CoWoS",
+      "DuPont",
       "UV光固化",
       "中石化",
       "乾膜光阻",
       "台塑集團",
       "台積電",
-      "日月光",
+      "日月光投控",
       "旭化成",
       "景碩",
       "杜邦",
@@ -2634,13 +2650,15 @@
     "name": "光洋科",
     "sector": "Metal Fabrication",
     "themes": [
+      "Applied Materials",
+      "Meta",
       "PVD",
       "Seagate",
       "Western Digital",
       "友達",
       "台積電",
       "探針",
-      "日月光",
+      "日月光投控",
       "濺鍍靶材",
       "群創",
       "鍵合線",
@@ -2652,13 +2670,12 @@
     "name": "台玻",
     "sector": "Building Materials",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "NVIDIA",
       "Owens Corning",
       "台北",
       "實聯化工",
-      "日東紡",
-      "營造"
+      "日東紡"
     ]
   },
   "1805": {
@@ -2795,6 +2812,7 @@
       "H型鋼",
       "中鋼構",
       "台積電",
+      "東鋼",
       "鋼筋",
       "長榮鋼",
       "電爐"
@@ -2879,15 +2897,14 @@
     ]
   },
   "2013": {
-    "canonical": "中鋼構",
+    "canonical": "中鋼",
     "name": "中鋼構",
     "sector": "Steel",
     "themes": [
-      "中鋼",
+      "Micron",
       "中龍鋼鐵",
       "台北101",
       "台積電",
-      "美光",
       "聯電",
       "興達海基",
       "離岸風電"
@@ -3018,6 +3035,7 @@
       "Reliance Steel & Aluminum",
       "Ryerson",
       "ThyssenKrupp",
+      "Toyota",
       "台南",
       "大國鋼",
       "華新麗華",
@@ -3149,8 +3167,8 @@
       "NSK",
       "SCREEN",
       "Siemens",
-      "TEL",
       "THK",
+      "Tokyo Electron",
       "Yaskawa",
       "中鋼",
       "人形機器人",
@@ -3186,6 +3204,7 @@
     "name": "風青",
     "sector": "Electrical Equipment & Parts",
     "themes": [
+      "Meta",
       "TIW",
       "漆包線",
       "聚醯亞胺",
@@ -3229,6 +3248,7 @@
     "name": "晉椿",
     "sector": "Steel",
     "themes": [
+      "Meta",
       "不鏽鋼",
       "中鋼",
       "合金鋼",
@@ -3274,6 +3294,7 @@
       "AGCO",
       "Bosch Rexroth",
       "John Deere",
+      "Meta",
       "廢鋼",
       "生鐵"
     ]
@@ -3350,6 +3371,7 @@
     "sector": "Auto Parts",
     "themes": [
       "AS-3EV",
+      "Continental",
       "Tesla",
       "世界明珠",
       "中橡",
@@ -3421,6 +3443,7 @@
     "sector": "Auto Parts",
     "themes": [
       "BMW",
+      "Continental",
       "Ford",
       "GM",
       "Honda",
@@ -3480,6 +3503,7 @@
     "sector": "Auto Parts",
     "themes": [
       "DURO",
+      "Decathlon",
       "Honda",
       "Kawasaki",
       "Vittoria",
@@ -3520,6 +3544,8 @@
     "sector": "Auto Manufacturers",
     "themes": [
       "MIH",
+      "Mitsubishi",
+      "Nissan",
       "中華汽車",
       "日本電產",
       "日產汽車",
@@ -3528,6 +3554,7 @@
       "裕融",
       "裕隆城",
       "裕隆日產",
+      "鴻海",
       "鴻海集團",
       "鴻華先進"
     ]
@@ -3541,11 +3568,13 @@
       "Delica",
       "Eclipse Cross",
       "MG",
+      "Mitsubishi",
       "Outlander",
       "eMOVING",
       "三菱扶桑",
       "三菱汽車",
       "上汽集團",
+      "中華汽車",
       "新竹物流",
       "裕益汽車",
       "裕隆集團"
@@ -3556,6 +3585,7 @@
     "name": "三陽工業",
     "sector": "Auto Manufacturers",
     "themes": [
+      "Hyundai",
       "K-STAR",
       "Lambretta",
       "Peugeot",
@@ -3633,6 +3663,7 @@
     "name": "大甲",
     "sector": "Steel",
     "themes": [
+      "HP",
       "MIE",
       "不鏽鋼",
       "力積電",
@@ -3652,6 +3683,7 @@
       "ARIYA",
       "Infiniti",
       "KICKS",
+      "Nissan",
       "Nissan SAKURA",
       "X-TRAIL",
       "日產汽車",
@@ -3797,6 +3829,7 @@
       "AITO",
       "Audi",
       "BMW",
+      "BYD",
       "Mercedes-Benz",
       "TATA",
       "吉利",
@@ -3981,6 +4014,7 @@
       "Google",
       "HP",
       "IGBT",
+      "Infineon",
       "Lite-On Technology",
       "MLCC",
       "MOSFET",
@@ -3988,14 +4022,13 @@
       "Microsoft",
       "NVIDIA",
       "Nintendo",
+      "ON Semiconductor",
       "Sony",
       "SpaceX",
       "Starlink",
       "Supermicro",
       "低軌衛星",
-      "安森美",
-      "碳化矽",
-      "英飛凌"
+      "碳化矽"
     ]
   },
   "2302": {
@@ -4023,13 +4056,22 @@
     "sector": "Semiconductors",
     "themes": [
       "5G",
-      "IoT",
+      "ASML",
+      "Applied Materials",
+      "Lam Research",
       "MCU",
+      "Qualcomm",
+      "SUMCO",
+      "Texas Instruments",
+      "Tokyo Electron",
       "台積電",
       "新竹",
       "物聯網",
+      "瑞昱",
+      "環球晶",
       "矽晶圓",
       "聯發科",
+      "聯詠",
       "記憶體"
     ]
   },
@@ -4056,11 +4098,11 @@
       "MOSFET",
       "Microsoft",
       "NVIDIA",
-      "SiC",
       "交換式電源供應器",
       "伺服器電源",
       "光寶科技",
       "工業自動化",
+      "碳化矽",
       "綠能",
       "群光",
       "變壓器",
@@ -4133,7 +4175,7 @@
     "name": "楠梓電",
     "sector": "Electronic Components",
     "themes": [
-      "印刷電路板",
+      "PCB",
       "工業控制",
       "敬鵬",
       "消費電子",
@@ -4173,9 +4215,9 @@
     "sector": "Communication Equipment",
     "themes": [
       "IIoT",
-      "IoT",
       "慈濟",
       "東元電機",
+      "物聯網",
       "電動車"
     ]
   },
@@ -4206,22 +4248,22 @@
     "themes": [
       "AI 伺服器",
       "AMD",
-      "Acer",
       "Compal Electronics",
       "Dell",
       "Intel",
-      "IoT",
       "Lenovo",
+      "Micron",
       "NVIDIA",
       "SK 海力士",
+      "Samsung",
       "Toshiba",
-      "三星",
       "友達",
       "和碩",
+      "宏碁",
       "廣達",
       "液冷",
+      "物聯網",
       "緯創",
-      "美光",
       "群創",
       "英業達"
     ]
@@ -4279,18 +4321,28 @@
     "themes": [
       "AI",
       "AMD",
+      "ASML",
       "Apple",
+      "Applied Materials",
+      "Arm",
+      "Broadcom",
+      "Cadence",
       "EUV",
       "Intel",
-      "IoT",
+      "Lam Research",
       "NVIDIA",
+      "Qualcomm",
+      "SUMCO",
+      "Shin-Etsu",
       "Sony",
-      "TSMC",
+      "Synopsys",
+      "Tokyo Electron",
       "半導體",
       "微影",
       "新竹",
       "消費性電子",
       "物聯網",
+      "環球晶",
       "矽晶圓",
       "聯發科",
       "蝕刻"
@@ -4340,8 +4392,10 @@
     "themes": [
       "5G",
       "ADAS",
+      "Infineon",
       "NAND",
       "NVIDIA",
+      "Qualcomm",
       "半導體",
       "新竹",
       "消費性電子",
@@ -4423,12 +4477,14 @@
       "DRAM",
       "Dell",
       "HP",
+      "Micron",
       "NAND",
       "Samsung",
       "台中",
       "工業電腦",
       "消費性電子",
       "物聯網",
+      "環球晶",
       "矽晶圓",
       "網通",
       "記憶體"
@@ -4470,8 +4526,6 @@
     "themes": [
       "AI 伺服器",
       "AMD",
-      "ASUS",
-      "Acer",
       "Apple",
       "Cisco",
       "Dell",
@@ -4483,7 +4537,9 @@
       "Microsoft",
       "Samsung",
       "Seagate",
-      "WD"
+      "WD",
+      "宏碁",
+      "華碩"
     ]
   },
   "2348": {
@@ -4504,6 +4560,7 @@
     "themes": [
       "Blu-ray",
       "HP",
+      "Meta",
       "OLED",
       "PSS",
       "Philips",
@@ -4522,9 +4579,10 @@
       "AI 伺服器",
       "IC 導線架",
       "IGBT",
+      "Infineon",
       "LED 導線架",
+      "Meta",
       "Shinko Electric",
-      "Sumitomo Metal Mining",
       "VCM",
       "一詮",
       "三菱伸銅",
@@ -4534,7 +4592,6 @@
       "日月光投控",
       "界霖",
       "矽品",
-      "英飛凌",
       "蝕刻",
       "電動車"
     ]
@@ -4556,29 +4613,28 @@
     ]
   },
   "2353": {
-    "canonical": "宏��",
-    "name": "宏��",
+    "canonical": "宏碁",
+    "name": "宏碁",
     "sector": "Computer Hardware",
     "themes": [
       "AI",
       "AMD",
-      "Acer",
       "Amazon",
       "Chromebook",
       "Google",
       "Intel",
       "LG Display",
+      "Micron",
       "NVIDIA",
       "Qualcomm",
       "SK 海力士",
-      "三星",
+      "Samsung",
       "仁寶",
       "佳世達",
       "友達",
       "宏碁資訊",
       "廣達",
       "緯創",
-      "美光",
       "群創",
       "電動自行車"
     ]
@@ -4634,22 +4690,22 @@
       "5G",
       "AI 伺服器",
       "AMD",
-      "Acer",
       "HBM",
       "HP",
       "HP Enterprise",
       "Intel",
       "Inventec Corporation",
+      "Micron",
       "NVIDIA",
       "SK 海力士",
+      "Samsung",
       "Toshiba",
-      "三星",
       "仁寶",
       "友達",
       "和碩",
+      "宏碁",
       "廣達",
       "緯創",
-      "美光",
       "群創"
     ]
   },
@@ -4665,12 +4721,12 @@
       "Amazon",
       "Intel",
       "LG Display",
+      "Micron",
       "NVIDIA",
       "SK 海力士",
-      "三星",
+      "Samsung",
       "友達",
       "和碩",
-      "美光",
       "群創"
     ]
   },
@@ -4765,8 +4821,8 @@
       "5G",
       "Apple",
       "HDI",
+      "PCB",
       "低軌衛星",
-      "印刷電路板",
       "欣興",
       "臻鼎-KY",
       "華通",
@@ -4780,10 +4836,10 @@
     "sector": "Electronic Components",
     "themes": [
       "AI 伺服器",
+      "PCB",
       "UBB",
       "伺服器",
       "健鼎",
-      "印刷電路板",
       "台光電",
       "欣興",
       "華通",
@@ -4853,13 +4909,13 @@
     "name": "佳能",
     "sector": "Electronic Components",
     "themes": [
-      "IoT",
       "ODM",
       "OEM",
       "安防監控",
       "智慧家庭",
       "智慧駕駛",
       "機器視覺",
+      "物聯網",
       "車載影像",
       "雲端"
     ]
@@ -4890,11 +4946,11 @@
       "Gigabyte Technology",
       "HBM",
       "Intel",
+      "Micron",
       "NVIDIA",
       "SK 海力士",
-      "三星",
+      "Samsung",
       "液冷",
-      "美光",
       "電動自行車"
     ]
   },
@@ -4907,10 +4963,10 @@
       "AMD",
       "Intel",
       "Micro-Star International",
+      "Micron",
       "NVIDIA",
       "SK 海力士",
-      "三星",
-      "美光"
+      "Samsung"
     ]
   },
   "2379": {
@@ -4923,11 +4979,11 @@
       "HP",
       "Lenovo",
       "NVIDIA",
-      "TSMC",
       "半導體",
       "台積電",
       "新竹",
-      "日月光",
+      "日月光投控",
+      "矽品",
       "聯電"
     ]
   },
@@ -4957,7 +5013,6 @@
       "AI 伺服器",
       "AMD",
       "AR",
-      "Acer",
       "Amazon",
       "Apple",
       "Dell",
@@ -4965,19 +5020,20 @@
       "HBM",
       "HP",
       "Intel",
-      "IoT",
       "LG Display",
       "Lenovo",
       "Meta",
+      "Micron",
       "Microsoft",
       "NVIDIA",
       "Quanta Computer",
       "SK 海力士",
+      "Samsung",
       "VR",
-      "三星",
       "友達",
+      "宏碁",
       "液冷",
-      "美光",
+      "物聯網",
       "群創"
     ]
   },
@@ -5022,17 +5078,17 @@
     "name": "精元",
     "sector": "Computer Hardware",
     "themes": [
-      "ASUS",
-      "Acer",
       "Bluetooth",
       "Dell",
       "HP",
       "Lenovo",
       "Sunrex Technology",
       "仁寶",
+      "宏碁",
       "廣達",
       "緯創",
-      "英業達"
+      "英業達",
+      "華碩"
     ]
   },
   "2388": {
@@ -5043,8 +5099,8 @@
       "AI 加速",
       "AIoT",
       "SK 海力士",
+      "Samsung",
       "x86",
-      "三星",
       "台積電",
       "威鋒電子",
       "嵌入式系統",
@@ -5154,7 +5210,6 @@
     "themes": [
       "ADAS",
       "MCU",
-      "TSMC",
       "台積電",
       "新竹",
       "聯電"
@@ -5184,10 +5239,10 @@
     "sector": "Engineering & Construction",
     "themes": [
       "ASML",
+      "Micron",
       "台積電",
       "大金工業",
       "漢唐集成",
-      "美光",
       "聯發科"
     ]
   },
@@ -5210,7 +5265,7 @@
     "name": "國碩",
     "sector": "Solar",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "EPC",
       "LONGi",
       "PV Ribbon",
@@ -5229,9 +5284,13 @@
     "name": "南亞科",
     "sector": "Semiconductors",
     "themes": [
+      "ASML",
+      "Applied Materials",
       "DRAM",
       "Dell",
       "HP",
+      "Lam Research",
+      "台塑",
       "工業電腦",
       "新北",
       "矽晶圓"
@@ -5271,6 +5330,7 @@
       "Microsoft Azure",
       "Nokia",
       "Samsung",
+      "中華電信",
       "是方電訊",
       "物聯網",
       "資料中心",
@@ -5297,14 +5357,14 @@
     "sector": "Computer Hardware",
     "themes": [
       "AIDC",
-      "ASUS",
-      "Acer",
       "Apple",
       "Epson",
       "HP",
       "RFID",
       "Unitech Computer",
-      "精聯電子"
+      "宏碁",
+      "聯電",
+      "華碩"
     ]
   },
   "2415": {
@@ -5316,6 +5376,7 @@
       "Bose",
       "Harman",
       "JBL",
+      "Meta",
       "Panasonic",
       "Pioneer",
       "富鑫證券"
@@ -5351,7 +5412,7 @@
       "PON",
       "Qualcomm",
       "Wi-Fi 7",
-      "明基友達集團",
+      "友達",
       "明泰科技",
       "聯發科"
     ]
@@ -5487,12 +5548,13 @@
     "name": "銘旺科",
     "sector": "Electronic Components",
     "themes": [
-      "EV",
       "NAND",
       "ODM",
       "OEM",
       "SSD",
+      "友達",
       "桃園",
+      "群創",
       "記憶體",
       "電動車"
     ]
@@ -5502,8 +5564,6 @@
     "name": "燦坤",
     "sector": "Specialty Retail",
     "themes": [
-      "ASUS",
-      "Acer",
       "Apple",
       "Dyson",
       "HP",
@@ -5511,7 +5571,9 @@
       "Lenovo",
       "Panasonic",
       "Samsung",
-      "Sony"
+      "Sony",
+      "宏碁",
+      "華碩"
     ]
   },
   "2431": {
@@ -5535,7 +5597,6 @@
     "sector": "Computer Hardware",
     "themes": [
       "AI",
-      "Acer",
       "Acer Gadget",
       "Bluetooth",
       "Taipei Cycle",
@@ -5585,7 +5646,6 @@
     "sector": "Semiconductors",
     "themes": [
       "ADAS",
-      "TSMC",
       "伺服器",
       "台積電",
       "台達電",
@@ -5622,10 +5682,10 @@
       "Bose",
       "Logitech",
       "PCB",
-      "Realtek",
       "Sonos",
       "iPhone",
       "助聽器",
+      "瑞昱",
       "耳機",
       "達發",
       "電聲元件",
@@ -5689,7 +5749,6 @@
       "Amazon",
       "DRAM",
       "HBM",
-      "IoT",
       "Kingston",
       "Powerline",
       "SK Hynix",
@@ -5700,6 +5759,7 @@
       "光通訊",
       "創見",
       "威剛",
+      "物聯網",
       "瑞昱",
       "資料中心"
     ]
@@ -5710,12 +5770,8 @@
     "sector": "Semiconductors",
     "themes": [
       "5G",
-      "AI 晶片",
       "Advantest",
       "Analog Devices",
-      "HPC",
-      "Himax",
-      "IC 測試",
       "Marvell",
       "Microchip",
       "NVIDIA",
@@ -5725,17 +5781,14 @@
       "Teradyne",
       "中華精測",
       "台積電",
-      "封裝",
+      "奇景光電",
       "導線架",
       "探針卡",
       "旺矽科技",
       "東琳精密",
-      "測試",
       "聯發科",
       "聯詠",
-      "車用電子",
-      "韋爾股份",
-      "預燒"
+      "韋爾股份"
     ]
   },
   "2450": {
@@ -5743,14 +5796,14 @@
     "name": "神腦",
     "sector": "Electronics & Computer Distribution",
     "themes": [
-      "ASUS",
       "Apple",
       "Dyson",
       "OPPO",
       "Panasonic",
       "Samsung",
       "Sony",
-      "中華電信"
+      "中華電信",
+      "華碩"
     ]
   },
   "2451": {
@@ -5760,13 +5813,13 @@
     "themes": [
       "5G",
       "Amazon",
+      "Micron",
       "SK 海力士",
       "SSD",
+      "Samsung",
       "Transcend Information",
-      "三星",
       "工業電腦",
       "慧榮",
-      "美光",
       "群聯",
       "鎧俠"
     ]
@@ -5800,14 +5853,13 @@
       "5G",
       "AI",
       "ASIC",
-      "ASUS",
-      "Acer",
       "Arm",
       "Cadence",
       "Deutsche Telekom",
       "HP",
       "IC 設計",
       "LG",
+      "Lenovo",
       "OPPO",
       "Samsung",
       "Siemens EDA",
@@ -5819,17 +5871,17 @@
       "Wi-Fi 7",
       "realme",
       "vivo",
-      "三星",
       "京元電子",
       "傳音",
       "台積電",
       "天璣",
+      "宏碁",
       "小米",
       "日月光投控",
       "生成式 AI",
       "矽品",
-      "聯想",
       "聯華電子",
+      "華碩",
       "車用晶片"
     ]
   },
@@ -5861,7 +5913,6 @@
     "themes": [
       "Audi",
       "Cisco",
-      "GaN",
       "Honeywell",
       "Infineon",
       "Jaguar",
@@ -5870,8 +5921,9 @@
       "Nokia",
       "Onsemi",
       "Shell",
-      "SiC",
       "Volvo",
+      "氮化鎵",
+      "碳化矽",
       "電動車",
       "馳諾瓦",
       "鴻海"
@@ -5882,20 +5934,20 @@
     "name": "義隆",
     "sector": "Semiconductors",
     "themes": [
-      "ASUS",
-      "Acer",
       "Dell",
       "HP",
       "Lenovo",
       "Microsoft",
       "Samsung",
-      "TSMC",
-      "UMC",
       "VIS",
       "Xiaomi",
       "人機介面",
+      "台積電",
+      "宏碁",
       "指紋辨識",
       "新竹",
+      "聯電",
+      "華碩",
       "觸控板"
     ]
   },
@@ -5960,7 +6012,7 @@
     "sector": "Consumer Electronics",
     "themes": [
       "Amazon",
-      "EV",
+      "Dyson",
       "HP",
       "Low-Earth Orbit Satellite",
       "Microsoft",
@@ -5976,16 +6028,18 @@
     "name": "盟立",
     "sector": "Specialty Industrial Machinery",
     "themes": [
-      "ASE",
-      "AUO",
       "CoWoS",
-      "Innolux",
-      "SPIL",
-      "TSMC",
-      "UMC",
+      "Micron",
+      "PChome",
       "半導體",
+      "友達",
+      "台積電",
       "新竹",
+      "日月光投控",
       "機器人",
+      "矽品",
+      "群創",
+      "聯電",
       "自動化"
     ]
   },
@@ -6012,10 +6066,8 @@
     "sector": "Electronic Components",
     "themes": [
       "Chicony",
-      "Delta",
-      "EV",
-      "Lite-On",
       "MOSFET",
+      "光寶",
       "台北",
       "台達電",
       "導線架",
@@ -6031,7 +6083,7 @@
       "南亞電路板",
       "友達",
       "台積電",
-      "日月光",
+      "日月光投控",
       "欣興",
       "矽品",
       "群創"
@@ -6058,14 +6110,14 @@
     "sector": "Information Technology Services",
     "themes": [
       "AI",
-      "ASE",
       "Microsoft",
       "Oracle",
       "SWIFT",
-      "TSMC",
-      "UMC",
-      "Unimicron",
       "台北",
+      "台積電",
+      "日月光投控",
+      "欣興",
+      "聯電",
       "雲端服務"
     ]
   },
@@ -6077,15 +6129,17 @@
       "5G",
       "AI Server",
       "BYD",
-      "Delta",
+      "Bosch",
+      "Continental",
       "Ericsson",
       "Huawei",
-      "Lite-On",
       "Liton",
       "Nokia",
       "Tesla",
       "ZTE",
+      "光寶",
       "台中",
+      "台達電",
       "車用電子"
     ]
   },
@@ -6100,6 +6154,7 @@
       "Fanuc",
       "HP",
       "Lenovo",
+      "Meta",
       "Microsoft",
       "半導體",
       "鴻海"
@@ -6198,8 +6253,8 @@
       "碳化矽",
       "統懋",
       "綠能",
+      "聯電",
       "蕭特基二極體",
-      "赫聯電子",
       "車用電子",
       "鴻海"
     ]
@@ -6310,12 +6365,12 @@
     "name": "瑞軒",
     "sector": "Electrical Equipment & Parts",
     "themes": [
-      "ASUS",
       "Gigabyte",
       "LG Display",
       "MSI",
       "ODM",
       "OEM",
+      "OLED",
       "Samsung",
       "Sharp",
       "Vizio",
@@ -6323,7 +6378,8 @@
       "友達",
       "小米",
       "群創",
-      "華星光電"
+      "華星光電",
+      "華碩"
     ]
   },
   "2491": {
@@ -6348,12 +6404,10 @@
       "AI 伺服器",
       "BYD",
       "Caiden",
-      "Delta",
-      "EV",
-      "Lite-On",
       "MLCC",
       "Sinoceramics",
       "Tesla",
+      "光寶",
       "台達電",
       "桃園",
       "車用電子",
@@ -6435,6 +6489,7 @@
       "AI",
       "Elan",
       "Google",
+      "Meta",
       "Microsoft",
       "Qualcomm",
       "VIA Labs",
@@ -6464,14 +6519,16 @@
     "sector": "Building Materials",
     "themes": [
       "CarbonCure",
-      "TSMC",
+      "亞泥",
       "亞洲水泥",
       "力晶科技",
       "台北",
+      "台泥",
       "台灣水泥",
       "台積電",
       "台達電",
       "國泰建設",
+      "潤泰集團",
       "營造",
       "華碩",
       "華邦電"
@@ -6772,6 +6829,7 @@
     "sector": "Engineering & Construction",
     "themes": [
       "ASML",
+      "Micron",
       "亞洲水泥",
       "冠德建設",
       "冠德集團",
@@ -6779,7 +6837,6 @@
       "台積電",
       "東和鋼鐵",
       "根基營造",
-      "美光",
       "聯發科",
       "豐興鋼鐵"
     ]
@@ -6850,6 +6907,7 @@
       "台灣國際造船",
       "榮運倉儲",
       "長榮國際儲運",
+      "長榮海運",
       "長榮鋼鐵"
     ]
   },
@@ -6914,7 +6972,8 @@
       "ONE",
       "交通部",
       "台灣國際造船",
-      "現代重工"
+      "現代重工",
+      "陽明海運"
     ]
   },
   "2610": {
@@ -7083,6 +7142,7 @@
       "長榮空廚",
       "長榮航勤",
       "長榮航太",
+      "長榮航空",
       "長榮集團",
       "韓亞航空"
     ]
@@ -7248,7 +7308,7 @@
     "name": "捷迅",
     "sector": "Integrated Freight & Logistics",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "Nintendo",
       "Sony",
       "中華航空",
@@ -7907,12 +7967,12 @@
     "name": "床的世界",
     "sector": "Furnishings, Fixtures & Appliances",
     "themes": [
-      "IoT",
       "PChome",
       "Simmons",
       "momo購物網",
       "中鋼",
       "德泰彈簧",
+      "物聯網",
       "睡眠王國",
       "老K牌彈簧床"
     ]
@@ -7996,8 +8056,8 @@
     "themes": [
       "AI 伺服器",
       "CSP",
-      "IoT",
       "PDU",
+      "物聯網",
       "資料中心"
     ]
   },
@@ -8098,6 +8158,7 @@
       "CMP",
       "DuPont",
       "JSR",
+      "Micron",
       "PCB",
       "TOK",
       "住友培科",
@@ -8109,7 +8170,6 @@
       "欣興",
       "氖氣",
       "研磨液",
-      "美光",
       "群創",
       "聯電"
     ]
@@ -8174,13 +8234,13 @@
     "themes": [
       "80 PLUS",
       "ATX 3.1",
-      "GaN",
       "IEC 60601-1",
       "MOSFET",
       "伺服器",
       "儲能",
       "勤誠興業",
       "工業電腦",
+      "氮化鎵",
       "研華"
     ]
   },
@@ -8491,7 +8551,6 @@
     "name": "智原",
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
-      "ARM",
       "ASIC",
       "Arm",
       "Cadence",
@@ -8513,6 +8572,7 @@
       "Apple",
       "Broadcom",
       "Future Electronics",
+      "MOSFET",
       "Marvell",
       "ON Semiconductor",
       "Renesas",
@@ -8535,6 +8595,7 @@
       "ABF 載板",
       "AI 伺服器",
       "AMD",
+      "Ajinomoto",
       "Apple",
       "CCL",
       "CoWoS",
@@ -8548,7 +8609,6 @@
       "台光電",
       "台燿",
       "台積電",
-      "味之素",
       "玻纖布",
       "聯茂",
       "聯電",
@@ -8953,7 +9013,6 @@
     "name": "僑威",
     "sector": "Electrical Equipment & Parts",
     "themes": [
-      "ASUS",
       "ATX 3.1",
       "Cooler Master",
       "Corsair",
@@ -8967,7 +9026,8 @@
       "Thermaltake",
       "國巨",
       "日電貿",
-      "海康威視"
+      "海康威視",
+      "華碩"
     ]
   },
   "3081": {
@@ -8978,16 +9038,15 @@
       "CPO",
       "CVD",
       "EML",
-      "GaAs",
       "II-VI",
       "III-V 族",
       "LED",
       "Lumentum",
       "VCSEL",
       "光通訊",
-      "共封裝光學",
       "化合物半導體",
       "矽光子",
+      "砷化鎵",
       "磊晶",
       "磷化銦",
       "資料中心",
@@ -9071,7 +9130,7 @@
       "PCB",
       "TKK",
       "Yamaha",
-      "日月光",
+      "日月光投控",
       "景碩",
       "欣興",
       "華通",
@@ -9086,10 +9145,10 @@
       "Ethernet",
       "IC 設計",
       "Microchip",
-      "Realtek",
       "嵌入式系統",
       "工業控制",
       "物聯網",
+      "瑞昱",
       "網路設備",
       "聯華電子"
     ]
@@ -9255,6 +9314,7 @@
       "DRAM",
       "IPC",
       "Micron",
+      "SK Hynix",
       "Samsung",
       "伺服器",
       "工業電腦",
@@ -9287,6 +9347,7 @@
     "name": "晶宏",
     "sector": "Semiconductors",
     "themes": [
+      "AMOLED",
       "Epson",
       "STN 驅動 IC",
       "元太科技",
@@ -9307,6 +9368,7 @@
     "themes": [
       "2330_台積電|台積電",
       "AI",
+      "Cisco",
       "Dell",
       "Microsoft",
       "伺服器",
@@ -9420,7 +9482,7 @@
       "CoWoS",
       "NVIDIA",
       "台積電",
-      "日月光",
+      "日月光投控",
       "景碩",
       "欣興"
     ]
@@ -9499,6 +9561,7 @@
     "themes": [
       "ABF 載板",
       "AMD",
+      "Ajinomoto",
       "Apple",
       "BGA",
       "BT 載板",
@@ -9507,18 +9570,17 @@
       "Ibiden",
       "Micron",
       "NVIDIA",
+      "Qualcomm",
       "Samsung",
       "Shinko Electric",
       "TI",
       "南亞電路板",
-      "味之素",
       "和碩",
       "晶碩",
       "欣興",
       "聯發科",
       "覆晶封裝",
-      "銅箔",
-      "高通"
+      "銅箔"
     ]
   },
   "3191": {
@@ -9562,6 +9624,7 @@
     "themes": [
       "AI",
       "Arm 安謀",
+      "Broadcom",
       "Broadcom 博通",
       "Infineon 英飛凌",
       "Nvidia 輝達",
@@ -9571,6 +9634,7 @@
       "明泰",
       "智邦",
       "網通",
+      "聯發科",
       "資料中心",
       "鴻海"
     ]
@@ -9581,7 +9645,6 @@
     "sector": "Electrical Equipment & Parts",
     "themes": [
       "AI 伺服器",
-      "ASUS",
       "ATL",
       "Apple",
       "BBU",
@@ -9596,6 +9659,7 @@
       "加百裕",
       "台達電",
       "新普",
+      "華碩",
       "資料中心"
     ]
   },
@@ -9604,11 +9668,11 @@
     "name": "茂訊",
     "sector": "Computer Hardware",
     "themes": [
-      "ASUS",
       "Intel",
       "Lenovo",
       "MSI",
-      "MilDef Crete"
+      "MilDef Crete",
+      "華碩"
     ]
   },
   "3217": {
@@ -9670,6 +9734,7 @@
     "themes": [
       "CellSeed",
       "Hitachi",
+      "Meta",
       "連接器"
     ]
   },
@@ -9777,7 +9842,6 @@
       "NVIDIA",
       "SK Hynix",
       "Samsung",
-      "Wistron",
       "宏碁",
       "緯穎"
     ]
@@ -9788,12 +9852,12 @@
     "sector": "Electronics & Computer Distribution",
     "themes": [
       "ADAS",
-      "IoT",
       "Kyocera",
       "MCU",
       "MOSFET",
       "OMRON",
       "Renesas",
+      "物聯網",
       "電動車"
     ]
   },
@@ -9804,9 +9868,7 @@
     "themes": [
       "3D 感測",
       "5G",
-      "GaAs",
       "II-VI",
-      "InP",
       "Lumentum",
       "MOCVD",
       "TRUMPF",
@@ -9814,7 +9876,9 @@
       "ams-OSRAM",
       "光偵測器",
       "光纖通訊",
+      "砷化鎵",
       "磊晶",
+      "磷化銦",
       "資料中心"
     ]
   },
@@ -10023,7 +10087,7 @@
       "Amazon",
       "Gamdias",
       "Newegg",
-      "Realtek",
+      "瑞昱",
       "連接器"
     ]
   },
@@ -10089,11 +10153,11 @@
     "themes": [
       "Belkin",
       "Home Depot",
-      "IoT",
       "PCB",
       "PDU",
       "Walmart",
-      "智慧插座"
+      "智慧插座",
+      "物聯網"
     ]
   },
   "3297": {
@@ -10135,7 +10199,7 @@
       "力成",
       "千住金屬",
       "廣達",
-      "日月光",
+      "日月光投控",
       "緯創",
       "英業達",
       "華碩",
@@ -10161,8 +10225,8 @@
     "themes": [
       "Dell",
       "HP",
-      "IoT",
-      "MOSFET"
+      "MOSFET",
+      "物聯網"
     ]
   },
   "3310": {
@@ -10293,7 +10357,6 @@
     "themes": [
       "AI",
       "AMD",
-      "ASUS",
       "Amazon",
       "Auras Technology",
       "CSP",
@@ -10305,6 +10368,7 @@
       "NVIDIA",
       "Supermicro",
       "廣達",
+      "華碩",
       "資料中心",
       "鴻海"
     ]
@@ -10314,9 +10378,9 @@
     "name": "旭品",
     "sector": "Electronics & Computer Distribution",
     "themes": [
-      "ASUS",
       "Corsair",
-      "伺服器"
+      "伺服器",
+      "華碩"
     ]
   },
   "3332": {
@@ -10326,10 +10390,10 @@
     "themes": [
       "AC-DC 電源供應器",
       "DC-DC 轉換器",
-      "GaN",
       "IEC 60601-1",
       "MOSFET",
-      "SiC"
+      "氮化鎵",
+      "碳化矽"
     ]
   },
   "3338": {
@@ -10339,6 +10403,7 @@
     "themes": [
       "5G",
       "AI 伺服器",
+      "BYD",
       "CSP",
       "Inspur",
       "Lenovo",
@@ -10432,6 +10497,7 @@
       "ADAS",
       "AI",
       "AI 伺服器",
+      "BYD",
       "Tesla",
       "伺服器",
       "網通"
@@ -10454,13 +10520,13 @@
     "sector": "Electronic Components",
     "themes": [
       "ADAS",
-      "ASUS",
       "Ability Opto",
       "Apple",
       "Dell",
       "HP",
       "Lenovo",
-      "Volvo"
+      "Volvo",
+      "華碩"
     ]
   },
   "3363": {
@@ -10470,6 +10536,7 @@
     "themes": [
       "2330_台積電|台積電",
       "AI",
+      "Broadcom",
       "CPO",
       "Nvidia 輝達",
       "伺服器",
@@ -10565,6 +10632,7 @@
       "Realtek 瑞昱",
       "Tesla 特斯拉",
       "友訊 D-Link",
+      "友達",
       "網通",
       "車聯網"
     ]
@@ -10575,7 +10643,7 @@
     "sector": "Specialty Chemicals",
     "themes": [
       "AI 伺服器",
-      "信越化學",
+      "Shin-Etsu",
       "化妝品",
       "半導體",
       "崇越",
@@ -10608,18 +10676,16 @@
     "name": "漢科",
     "sector": "Specialty Industrial Machinery",
     "themes": [
-      "AUO",
-      "Innolux",
       "Micron",
       "Nanya",
-      "TSMC",
-      "UMC",
       "Vanguard",
       "不鏽鋼管",
       "半導體",
+      "友達",
       "台積電",
       "泵浦",
       "監控儀表",
+      "群創",
       "聯電",
       "閥件"
     ]
@@ -10633,7 +10699,9 @@
       "LG",
       "Meta",
       "Sony",
-      "VR"
+      "VR",
+      "大立光",
+      "鴻海"
     ]
   },
   "3413": {
@@ -10795,9 +10863,9 @@
       "Google",
       "InFO",
       "Microsoft",
-      "TSMC",
+      "SK Hynix",
       "台積電",
-      "日月光",
+      "日月光投控",
       "網通"
     ]
   },
@@ -10844,7 +10912,6 @@
       "EML",
       "VCSEL",
       "光通訊",
-      "共封裝光學",
       "矽光子",
       "磊晶",
       "聯亞光電",
@@ -10880,7 +10947,7 @@
       "南電",
       "友達",
       "工業電腦",
-      "日月光",
+      "日月光投控",
       "景碩",
       "欣興",
       "矽品",
@@ -10909,11 +10976,11 @@
     "sector": "Communication Equipment",
     "themes": [
       "Broadcom",
-      "MediaTek",
       "Skardin",
       "低軌衛星",
       "儲能",
-      "太陽能"
+      "太陽能",
+      "聯發科"
     ]
   },
   "3467": {
@@ -10948,6 +11015,7 @@
       "CPU/晶片組",
       "Intel",
       "ODM",
+      "仁寶",
       "被動元件",
       "記憶體",
       "面板"
@@ -10961,7 +11029,6 @@
       "BMW",
       "FOPLP",
       "GM",
-      "Innolux",
       "Pioneer",
       "SpaceX",
       "TFT-LCD",
@@ -10979,11 +11046,11 @@
     "sector": "Electronics & Computer Distribution",
     "themes": [
       "AI 伺服器",
-      "ASUS",
       "Dell",
       "HP",
       "Lenovo",
       "Samsung",
+      "華碩",
       "資料中心",
       "銅材",
       "馬達"
@@ -10995,17 +11062,17 @@
     "sector": "Electrical Equipment & Parts",
     "themes": [
       "Bosch",
-      "Delta",
-      "EV",
       "GE",
       "Makita",
       "Techtronic",
       "Tesla",
       "Whirlpool",
+      "台達電",
       "塑膠粒",
       "連接器",
       "銀點",
       "銅材",
+      "電動車",
       "電子元件"
     ]
   },
@@ -11209,6 +11276,7 @@
     "sector": "Computer Hardware",
     "themes": [
       "AMD",
+      "Amazon",
       "CSP",
       "DRAM",
       "IPC",
@@ -11216,6 +11284,7 @@
       "NVIDIA",
       "PCB",
       "伺服器",
+      "和碩",
       "自動化",
       "華碩"
     ]
@@ -11284,7 +11353,6 @@
       "BYD",
       "CATL",
       "Dell",
-      "EV",
       "Google",
       "Inspur",
       "Meta",
@@ -11300,7 +11368,6 @@
     "name": "聚積",
     "sector": "Semiconductors",
     "themes": [
-      "IoT",
       "LED",
       "Micro LED",
       "Mini LED",
@@ -11308,6 +11375,7 @@
       "台積電",
       "日月光投控",
       "洲明科技",
+      "物聯網",
       "艾比森"
     ]
   },
@@ -11378,6 +11446,7 @@
       "HBM",
       "SUMCO",
       "Shin-Etsu",
+      "台塑",
       "台塑集團",
       "台積電",
       "合晶科技",
@@ -11418,10 +11487,12 @@
       "3D 封裝",
       "CoWoS",
       "Favite",
+      "Micro LED",
+      "OLED",
       "京東方",
       "友達",
       "台積電",
-      "日月光",
+      "日月光投控",
       "群創"
     ]
   },
@@ -11533,7 +11604,6 @@
       "CVD",
       "Lam Research",
       "PVD",
-      "TSMC",
       "京東方",
       "台積電",
       "群創",
@@ -11615,6 +11685,7 @@
     "sector": "Communication Equipment",
     "themes": [
       "Broadcom 博通",
+      "Cisco",
       "Intel",
       "Intel 英特爾",
       "ODM",
@@ -11732,7 +11803,7 @@
       "CoWoS",
       "FOPLP",
       "台積電",
-      "日月光",
+      "日月光投控",
       "群創"
     ]
   },
@@ -11746,7 +11817,7 @@
       "京元電",
       "力成",
       "探針卡",
-      "日月光",
+      "日月光投控",
       "旺宏",
       "矽品",
       "華邦電",
@@ -11780,6 +11851,7 @@
       "Intel",
       "PCB",
       "半導體",
+      "欣興",
       "玻纖布",
       "聯電",
       "銅箔"
@@ -11877,10 +11949,11 @@
       "AI",
       "CoWoS",
       "FOPLP",
+      "OLED",
       "力成",
       "半導體",
       "台積電",
-      "日月光"
+      "日月光投控"
     ]
   },
   "3596": {
@@ -12106,6 +12179,7 @@
       "HP",
       "LG",
       "Samsung SDI",
+      "Walmart",
       "伺服器",
       "機器人",
       "資料中心"
@@ -12116,12 +12190,13 @@
     "name": "盈正",
     "sector": "Electrical Equipment & Parts",
     "themes": [
+      "IGBT",
       "PCB",
-      "SiC",
       "中華電信",
       "伺服器",
       "半導體",
       "台電",
+      "碳化矽",
       "資料中心"
     ]
   },
@@ -12148,6 +12223,7 @@
     "themes": [
       "EMS",
       "HAL",
+      "Meta",
       "PCB",
       "SMT",
       "和碩",
@@ -12195,7 +12271,7 @@
       "台郡",
       "嘉聯益",
       "散熱",
-      "日月光",
+      "日月光投控",
       "臻鼎",
       "銅箔"
     ]
@@ -12222,7 +12298,8 @@
       "Qualcomm",
       "RFID",
       "Walmart",
-      "unitech"
+      "unitech",
+      "聯電"
     ]
   },
   "3653": {
@@ -12267,8 +12344,8 @@
     "sector": "Semiconductors",
     "themes": [
       "AI",
-      "ARM",
       "Amazon",
+      "Arm",
       "CoWoS",
       "Google",
       "Intel",
@@ -12283,10 +12360,15 @@
     "name": "鑫科",
     "sector": "Metal Fabrication",
     "themes": [
+      "FOPLP",
+      "Meta",
+      "OLED",
+      "Target",
+      "中鋼",
       "低軌衛星",
       "半導體",
       "友達",
-      "日月光",
+      "日月光投控",
       "群創"
     ]
   },
@@ -12295,13 +12377,15 @@
     "name": "安瑞-KY",
     "sector": "Communication Equipment",
     "themes": [
+      "Arm",
       "大宇資",
       "工業電腦",
       "揚智",
       "樺漢",
       "物聯網",
       "瑞祺電通",
-      "資料中心"
+      "資料中心",
+      "鴻海"
     ]
   },
   "3665": {
@@ -12311,11 +12395,14 @@
     "themes": [
       "AI",
       "Amazon",
+      "Applied Materials",
       "Bosch",
       "Dell",
-      "EV",
+      "Dyson",
+      "GE",
       "Google",
       "HP",
+      "KLA",
       "Lam Research",
       "Microsoft",
       "NVIDIA",
@@ -12364,12 +12451,12 @@
     "themes": [
       "CTS",
       "FTTx",
-      "Realtek",
       "SFP",
       "SMT",
       "康全電訊",
       "正文",
-      "物聯網"
+      "物聯網",
+      "瑞昱"
     ]
   },
   "3673": {
@@ -12379,6 +12466,7 @@
     "themes": [
       "AI",
       "Apple",
+      "Mercedes-Benz",
       "Tesla",
       "奕力-KY",
       "機器人"
@@ -12436,11 +12524,14 @@
     "sector": "Semiconductors",
     "themes": [
       "AI",
+      "ASML",
       "CoWoS",
       "EUV",
+      "GE",
       "Intel",
+      "Micron",
+      "SK Hynix",
       "Samsung",
-      "TSMC",
       "半導體",
       "台積電"
     ]
@@ -12504,6 +12595,7 @@
       "AI",
       "AI 伺服器",
       "CSP",
+      "Cisco",
       "Google",
       "LG",
       "Meta",
@@ -12526,7 +12618,7 @@
     "name": "碩禾",
     "sector": "Solar",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "HJT",
       "LECO",
       "LONGi",
@@ -12567,10 +12659,12 @@
     "sector": "Communication Equipment",
     "themes": [
       "Broadcom 博通",
-      "IoT",
+      "Infineon",
       "LG",
+      "NXP",
       "OmniVision",
       "Sony",
+      "和碩",
       "機器人",
       "物聯網",
       "研華",
@@ -12612,6 +12706,7 @@
       "NXP",
       "Renesas",
       "TI",
+      "Texas Instruments",
       "世平",
       "友尚",
       "品佳",
@@ -12625,6 +12720,7 @@
     "name": "欣陸",
     "sector": "Engineering & Construction",
     "themes": [
+      "Continental",
       "亞洲水泥",
       "台北捷運",
       "台灣水泥",
@@ -12683,8 +12779,7 @@
     "name": "漢磊",
     "sector": "Semiconductors",
     "themes": [
-      "GaN",
-      "SiC",
+      "Infineon",
       "半導體",
       "台積電",
       "新竹",
@@ -12719,7 +12814,6 @@
     "sector": "Electronics & Computer Distribution",
     "themes": [
       "AMD",
-      "ASUS",
       "Gigabyte",
       "Intel",
       "Kingston",
@@ -12727,7 +12821,8 @@
       "NVIDIA",
       "Seagate",
       "WD",
-      "大聯大"
+      "大聯大",
+      "華碩"
     ]
   },
   "3710": {
@@ -12745,7 +12840,7 @@
     ]
   },
   "3711": {
-    "canonical": "日月光",
+    "canonical": "日月光投控",
     "name": "日月光投控",
     "sector": "Semiconductors",
     "themes": [
@@ -12753,10 +12848,14 @@
       "AI",
       "AMD",
       "Apple",
+      "Broadcom",
       "CoWoS",
       "Dell",
       "NVIDIA",
+      "Qualcomm",
+      "力成",
       "台積電",
+      "矽品",
       "聯電",
       "高雄"
     ]
@@ -12786,7 +12885,8 @@
       "元晶",
       "半導體",
       "台電",
-      "聯合再生"
+      "聯合再生",
+      "聯電"
     ]
   },
   "3714": {
@@ -12794,18 +12894,25 @@
     "name": "富采",
     "sector": "Electronic Components",
     "themes": [
+      "Aixtron",
       "Apple",
       "CVD",
+      "Dell",
+      "HP",
       "LED",
       "Micro LED",
       "Mini LED",
+      "Samsung",
+      "Veeco",
       "先進通訊",
+      "友達",
       "封裝",
       "感測元件",
       "晶粒",
       "晶電",
       "模組",
       "磊晶片",
+      "群創",
       "背光模組",
       "車用電子",
       "隆達",
@@ -12817,10 +12924,12 @@
     "name": "定穎投控",
     "sector": "Electronic Components",
     "themes": [
-      "EV",
+      "Bosch",
+      "Continental",
       "HDI",
       "PCB",
       "Tesla",
+      "Valeo",
       "伺服器",
       "多層板",
       "汽車電子",
@@ -13330,6 +13439,7 @@
     "sector": "Metal Fabrication",
     "themes": [
       "Ford",
+      "Meta",
       "Nissan",
       "Subaru",
       "Suzuki",
@@ -13508,6 +13618,7 @@
       "Bosch",
       "Höganäs",
       "Makita",
+      "Meta",
       "Milwaukee",
       "Stanley Black & Decker",
       "TTI",
@@ -13565,6 +13676,7 @@
     "name": "大詠城",
     "sector": "Metal Fabrication",
     "themes": [
+      "Meta",
       "亞崴機電",
       "友嘉實業",
       "台中精機",
@@ -13650,6 +13762,7 @@
     "name": "銘鈺",
     "sector": "Metal Fabrication",
     "themes": [
+      "Meta",
       "Seagate",
       "Western Digital",
       "散熱",
@@ -13695,7 +13808,7 @@
       "NVIDIA",
       "中國醫藥大學",
       "晟德大藥廠",
-      "群聯電子",
+      "聯電",
       "長佳智能"
     ]
   },
@@ -13712,6 +13825,7 @@
       "Continental",
       "Cummins",
       "Delphi",
+      "EUV",
       "Stellantis",
       "Tesla",
       "ZF"
@@ -13747,6 +13861,7 @@
       "Jaguar Land Rover",
       "KTM",
       "Mercedes-Benz",
+      "Meta",
       "鋁合金鍛造"
     ]
   },
@@ -13788,7 +13903,7 @@
     "themes": [
       "台水",
       "台積電",
-      "日月光",
+      "日月光投控",
       "聯電",
       "超純水"
     ]
@@ -13863,6 +13978,7 @@
     "themes": [
       "CNC",
       "DISCO",
+      "Meta",
       "NSK",
       "PCB",
       "SKF",
@@ -13976,6 +14092,7 @@
       "Continental",
       "Fabrinet",
       "Lam Research",
+      "Meta",
       "Seagate",
       "Western Digital",
       "水冷"
@@ -14069,13 +14186,13 @@
     "name": "捷流閥業",
     "sector": "Specialty Industrial Machinery",
     "themes": [
+      "Micron",
       "中鋼",
       "台塑",
       "台灣中油",
       "台積電",
       "台電",
       "奇美實業",
-      "美光",
       "長榮海運"
     ]
   },
@@ -14351,12 +14468,12 @@
     "themes": [
       "Getac",
       "ITO",
-      "IoT",
       "Mildex Optical",
       "OCA",
       "PC",
       "Panasonic",
       "凌華",
+      "物聯網",
       "研華"
     ]
   },
@@ -14416,7 +14533,7 @@
       "友達",
       "台積電",
       "微影",
-      "日月光",
+      "日月光投控",
       "群創"
     ]
   },
@@ -14558,10 +14675,10 @@
       "CVD",
       "EUV",
       "Micro LED",
+      "Micron",
       "TGV",
       "台積電",
       "微影",
-      "美光",
       "聯電",
       "蝕刻"
     ]
@@ -14574,10 +14691,10 @@
       "3M",
       "Chemours",
       "Daikin",
+      "Micron",
       "PTFE",
       "台積電",
       "巴斯夫",
-      "美光",
       "聯電",
       "長春集團",
       "關東鑫林"
@@ -14590,11 +14707,11 @@
     "themes": [
       "AHF",
       "CVD",
+      "Texas Instruments",
       "世界先進",
       "中美晶",
       "台積電",
       "大立光",
-      "德州儀器",
       "環球晶圓",
       "矽乙烷"
     ]
@@ -14648,6 +14765,7 @@
       "新世紀資通",
       "物聯網",
       "聯光通",
+      "遠傳電信",
       "遠東集團"
     ]
   },
@@ -14659,10 +14777,11 @@
       "Broadcom",
       "G.fast",
       "PON",
-      "Realtek",
       "TAINET",
       "展達",
-      "康聯訊"
+      "康聯訊",
+      "瑞昱",
+      "聯電"
     ]
   },
   "4906": {
@@ -14777,6 +14896,7 @@
       "HP",
       "ODM",
       "OEM",
+      "Tesla",
       "物聯網"
     ]
   },
@@ -14807,11 +14927,11 @@
       "MOSFET",
       "ODM",
       "Panasonic",
-      "TSMC",
       "伺服器",
       "半導體",
+      "台積電",
       "廣達",
-      "日月光",
+      "日月光投控",
       "緯創",
       "電動車"
     ]
@@ -14825,6 +14945,7 @@
       "HP",
       "MOSFET",
       "世界先進",
+      "仁寶",
       "廣達",
       "緯創"
     ]
@@ -14835,9 +14956,9 @@
     "sector": "Computer Hardware",
     "themes": [
       "Covestro",
-      "Pegatron",
       "SABIC",
-      "Wistron"
+      "和碩",
+      "緯創"
     ]
   },
   "4925": {
@@ -14847,12 +14968,12 @@
     "themes": [
       "Corsair",
       "IC 設計",
-      "IoT",
       "JMicron",
       "OCZ",
       "PCIe",
       "Transcend",
       "USB",
+      "物聯網",
       "瑞昱",
       "祥碩",
       "華碩"
@@ -14908,7 +15029,7 @@
     "name": "新盛力",
     "sector": "Electrical Equipment & Parts",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "AWS",
       "Amazon",
       "BBU",
@@ -14952,7 +15073,6 @@
       "5G",
       "EPC",
       "EVA",
-      "SiC",
       "中美晶",
       "廣運",
       "盛新材料",
@@ -14981,8 +15101,8 @@
     "name": "和碩",
     "sector": "Computer Hardware",
     "themes": [
+      "AMD",
       "Apple",
-      "EV",
       "Intel",
       "Microsoft",
       "NB",
@@ -14996,7 +15116,8 @@
       "台積電",
       "景碩",
       "華碩",
-      "鎧勝-KY"
+      "鎧勝-KY",
+      "電動車"
     ]
   },
   "4939": {
@@ -15030,6 +15151,7 @@
       "HP",
       "Lenovo",
       "中光電",
+      "中鋼",
       "伺服器",
       "友達",
       "工業電腦",
@@ -15045,6 +15167,7 @@
     "sector": "Electronic Components",
     "themes": [
       "Apple",
+      "Volkswagen",
       "歌爾聲學",
       "瑞聲科技",
       "連接器"
@@ -15113,8 +15236,9 @@
     "themes": [
       "AI",
       "AWS",
+      "Alibaba",
       "Azure",
-      "IoT",
+      "物聯網",
       "緯創",
       "電動車"
     ]
@@ -15125,6 +15249,7 @@
     "sector": "Electronic Components",
     "themes": [
       "Apple",
+      "Micro LED",
       "億光",
       "宏齊",
       "榮創",
@@ -15140,14 +15265,18 @@
       "ABF 載板",
       "AI 伺服器",
       "AMD",
+      "Amazon",
       "Apple",
       "BT 載板",
       "CCL",
       "FPC",
+      "Google",
+      "Microsoft",
       "Nvidia",
       "SLP",
       "台光電",
       "台燿",
+      "和碩",
       "尖點",
       "聯茂",
       "銅箔",
@@ -15199,6 +15328,7 @@
       "PCIe",
       "Samsung",
       "台積電",
+      "聯詠",
       "聯電"
     ]
   },
@@ -15207,6 +15337,7 @@
     "name": "十銓",
     "sector": "Computer Hardware",
     "themes": [
+      "Amazon",
       "IPC",
       "Micron",
       "SK Hynix",
@@ -15244,6 +15375,9 @@
     "sector": "Semiconductors",
     "themes": [
       "CVD",
+      "Intel",
+      "Qorvo",
+      "Skyworks",
       "光通訊",
       "半導體",
       "磊晶",
@@ -15276,6 +15410,7 @@
       "IPC",
       "Kioxia",
       "Micron",
+      "PChome",
       "SK Hynix",
       "Samsung",
       "南亞科",
@@ -15345,6 +15480,7 @@
       "5G",
       "AI",
       "CSP",
+      "Marvell",
       "光通訊",
       "桃園",
       "磊晶",
@@ -15360,11 +15496,14 @@
       "AR",
       "Bluetooth",
       "Epson",
-      "IoT",
+      "Micro LED",
       "ODM",
+      "OLED",
+      "Qualcomm",
       "Qualcomm 高通",
       "Sony",
       "Vuzix",
+      "中鋼",
       "物聯網",
       "鴻海",
       "鴻海 (2317)"
@@ -15439,11 +15578,9 @@
     "name": "晶達",
     "sector": "Electronic Components",
     "themes": [
-      "AUO",
       "Aristocrat",
       "IGT",
       "IPC",
-      "Innolux",
       "京東方",
       "友達",
       "工業電腦",
@@ -15456,7 +15593,6 @@
     "sector": "Tools & Accessories",
     "themes": [
       "AI 伺服器",
-      "ASUS",
       "Dell",
       "HP",
       "Lenovo",
@@ -15466,6 +15602,7 @@
       "廣達",
       "緯創",
       "英業達",
+      "華碩",
       "資料中心"
     ]
   },
@@ -15517,7 +15654,7 @@
     "sector": "Electrical Equipment & Parts",
     "themes": [
       "Nippon Steel",
-      "三星",
+      "Samsung",
       "中鋼",
       "半導體",
       "台積電",
@@ -15723,6 +15860,7 @@
       "Dell",
       "HP",
       "Lenovo",
+      "Mini LED",
       "精元",
       "群光",
       "達方"
@@ -15749,7 +15887,6 @@
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
       "5G",
-      "GaN",
       "低軌衛星",
       "半導體",
       "氮化鎵",
@@ -15762,6 +15899,7 @@
     "sector": "Metal Fabrication",
     "themes": [
       "Apple",
+      "Meta",
       "伺服器",
       "台達電",
       "建準",
@@ -15834,11 +15972,12 @@
     "name": "達興材料",
     "sector": "Specialty Chemicals",
     "themes": [
+      "CoWoS",
       "Everlight",
       "Nissan Chemical",
       "Sumitomo",
-      "TSMC",
       "友達",
+      "台積電",
       "群創"
     ]
   },
@@ -15851,9 +15990,11 @@
       "HP",
       "Lenovo",
       "ODM",
+      "仁寶",
       "台積電",
       "廣達",
       "新竹",
+      "瑞昱",
       "聯電"
     ]
   },
@@ -15875,7 +16016,6 @@
     "sector": "Electronic Components",
     "themes": [
       "AI",
-      "Foxconn",
       "Sony",
       "SpaceX",
       "Tesla",
@@ -15891,15 +16031,16 @@
     "sector": "Electronic Components",
     "themes": [
       "5G",
-      "ASUS",
       "Hella",
       "MSI",
+      "Mini LED",
       "Valeo",
       "半導體",
       "導線架",
       "東海理化",
       "物聯網",
-      "網通"
+      "網通",
+      "華碩"
     ]
   },
   "5245": {
@@ -15907,9 +16048,11 @@
     "name": "智晶",
     "sector": "Semiconductors",
     "themes": [
+      "AMOLED",
       "AR",
       "Cisco",
       "Fitbit",
+      "OLED",
       "Solomon Systech",
       "網通"
     ]
@@ -16041,6 +16184,7 @@
     "themes": [
       "ADAS",
       "ROKA",
+      "仁寶",
       "工業電腦",
       "廣達",
       "連接器"
@@ -16052,12 +16196,12 @@
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
       "CMOS",
-      "IoT",
       "LNB",
       "RF IC",
       "SRD",
       "無線滑鼠",
       "無線鍵盤",
+      "物聯網",
       "衛星電視"
     ]
   },
@@ -16074,6 +16218,7 @@
       "Microsoft",
       "ODM",
       "Panasonic",
+      "Renesas",
       "伺服器",
       "台積電",
       "廣達",
@@ -16136,11 +16281,12 @@
     "name": "界霖",
     "sector": "Semiconductors",
     "themes": [
-      "EV",
+      "Infineon",
+      "Mitsubishi",
       "ON Semi",
       "半導體",
       "導線架",
-      "日月光",
+      "日月光投控",
       "電動車",
       "高雄"
     ]
@@ -16164,7 +16310,7 @@
     "name": "豐祥-KY",
     "sector": "Conglomerates",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "Ducati",
       "Ford",
       "Harley-Davidson",
@@ -16222,11 +16368,11 @@
     "themes": [
       "Micron",
       "Nanya",
-      "TSMC",
-      "UMC",
       "半導體",
       "友達",
-      "群創"
+      "台積電",
+      "群創",
+      "聯電"
     ]
   },
   "5299": {
@@ -16241,7 +16387,7 @@
       "廣達",
       "微星",
       "技嘉",
-      "日月光",
+      "日月光投控",
       "朋程",
       "消費性電子",
       "漢磊",
@@ -16369,7 +16515,7 @@
     "sector": "Textile Manufacturing",
     "themes": [
       "5G",
-      "AI伺服器",
+      "AI 伺服器",
       "AMD",
       "CCL",
       "NVIDIA",
@@ -16403,11 +16549,11 @@
     "sector": "Electronic Components",
     "themes": [
       "BMS",
-      "IoT",
       "MCU",
       "MLCC",
       "MOSFET",
       "營造",
+      "物聯網",
       "鋰電池"
     ]
   },
@@ -16490,6 +16636,7 @@
     "themes": [
       "Gia Tzoong",
       "MCPCB",
+      "Meta",
       "PCB",
       "友達",
       "小米",
@@ -16523,8 +16670,10 @@
       "LG",
       "Samsung",
       "VR",
+      "友達",
       "新竹",
-      "機器人"
+      "機器人",
+      "群創"
     ]
   },
   "5381": {
@@ -16546,6 +16695,8 @@
     "themes": [
       "AI",
       "DRAM",
+      "HBM",
+      "Micron",
       "伺服器",
       "資料中心"
     ]
@@ -16564,7 +16715,6 @@
       "DOCSIS",
       "Deutsche Telekom",
       "Harmonic",
-      "IoT",
       "Liberty Global",
       "Microsoft Azure",
       "PON",
@@ -16575,6 +16725,7 @@
       "Verizon",
       "Vodafone",
       "光收發模組",
+      "物聯網",
       "聯發科"
     ]
   },
@@ -16644,12 +16795,14 @@
     "name": "台半",
     "sector": "Semiconductors",
     "themes": [
+      "BYD",
       "Bosch",
       "Continental",
       "MOSFET",
       "ON Semi",
       "Samsung",
       "Sony",
+      "Valeo",
       "台達電",
       "新北",
       "消費性電子",
@@ -16665,6 +16818,7 @@
     "themes": [
       "AI 伺服器",
       "GB200",
+      "Meta",
       "中鋼",
       "伺服器",
       "凌華",
@@ -16691,9 +16845,11 @@
     "name": "崇越",
     "sector": "Electronics & Computer Distribution",
     "themes": [
+      "Micron",
+      "Shin-Etsu",
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
       "聯電",
       "記憶體"
     ]
@@ -16718,6 +16874,8 @@
     "name": "高技",
     "sector": "Electronic Components",
     "themes": [
+      "Ford",
+      "GM",
       "Tesla",
       "台達電",
       "工業電腦",
@@ -16734,10 +16892,12 @@
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
       "CoWoS",
-      "TSMC",
+      "力成",
       "半導體",
+      "友達",
       "台積電",
-      "日月光",
+      "日月光投控",
+      "群創",
       "自動化"
     ]
   },
@@ -16766,6 +16926,7 @@
       "HP",
       "LOTTE",
       "Lenovo",
+      "Mitsubishi",
       "PLA",
       "SABIC",
       "三菱工程塑膠",
@@ -16810,6 +16971,7 @@
     "name": "同協",
     "sector": "Metal Fabrication",
     "themes": [
+      "Meta",
       "中磊",
       "友訊",
       "合勤控股",
@@ -16825,7 +16987,6 @@
     "themes": [
       "PCB",
       "凌華",
-      "印刷電路板",
       "台光電",
       "工業電腦",
       "研華",
@@ -16854,7 +17015,6 @@
     "sector": "Semiconductors",
     "themes": [
       "Advantest",
-      "KYEC",
       "RF IC",
       "Teradyne",
       "京元電子",
@@ -16873,7 +17033,9 @@
       "Microsoft",
       "PCB",
       "Sony",
+      "仁寶",
       "伺服器",
+      "南亞",
       "廣達",
       "玻纖布",
       "緯創",
@@ -16889,7 +17051,6 @@
       "Dell",
       "HP",
       "MCU",
-      "TSMC",
       "半導體",
       "台積電",
       "聯電",
@@ -16919,7 +17080,7 @@
     "themes": [
       "5G",
       "6G",
-      "AI伺服器",
+      "AI 伺服器",
       "CCL",
       "NVIDIA",
       "PCB",
@@ -17386,7 +17547,7 @@
     "name": "遠雄港",
     "sector": "Specialty Business Services",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "ASML",
       "NVIDIA",
       "廣達",
@@ -17415,7 +17576,7 @@
     "sector": "Integrated Freight & Logistics",
     "themes": [
       "AI",
-      "AI伺服器",
+      "AI 伺服器",
       "Maersk",
       "中華航空",
       "長榮海運",
@@ -17763,7 +17924,6 @@
     "sector": "Semiconductors",
     "themes": [
       "EMS",
-      "TSMC",
       "半導體",
       "台積電",
       "工業電腦",
@@ -17779,10 +17939,10 @@
     "sector": "Semiconductors",
     "themes": [
       "AI",
+      "Arm",
       "Dell",
       "HP",
       "PCIe",
-      "TSMC",
       "Type-C",
       "台積電",
       "聯電"
@@ -17819,6 +17979,7 @@
     "themes": [
       "AI",
       "CSP",
+      "Cisco",
       "Dell",
       "Google"
     ]
@@ -17829,9 +17990,9 @@
     "sector": "Semiconductors",
     "themes": [
       "EMS",
-      "IoT",
       "MCU",
       "ODM",
+      "STMicroelectronics",
       "半導體",
       "消費性電子",
       "物聯網",
@@ -17872,13 +18033,13 @@
     "name": "彩晶",
     "sector": "Electronic Components",
     "themes": [
-      "Acer",
       "Dell",
       "HP",
       "HannStar Display",
       "Sony",
       "TFT-LCD",
       "Toshiba",
+      "宏碁",
       "康寧",
       "聯詠",
       "華新麗華"
@@ -17918,6 +18079,7 @@
     "name": "達運",
     "sector": "Electronic Components",
     "themes": [
+      "AMOLED",
       "Avocor",
       "Darwin Precisions",
       "FMM",
@@ -18007,6 +18169,7 @@
     "name": "信音",
     "sector": "Electronic Components",
     "themes": [
+      "BMW",
       "Dell",
       "HP",
       "機器人",
@@ -18066,6 +18229,8 @@
       "PCB",
       "伺服器",
       "低軌衛星",
+      "力成",
+      "台塑",
       "廣達",
       "網通",
       "連接器"
@@ -18141,11 +18306,12 @@
     "sector": "Engineering & Construction",
     "themes": [
       "CoWoS",
+      "Micron",
       "亞翔工程",
       "南亞科技",
       "台積電",
       "大金工業",
-      "美光",
+      "群創",
       "群創光電"
     ]
   },
@@ -18155,8 +18321,10 @@
     "sector": "Electronics & Computer Distribution",
     "themes": [
       "AI",
+      "Cisco",
       "Dell",
       "HP",
+      "中油",
       "伺服器",
       "台積電",
       "聯發科"
@@ -18306,6 +18474,7 @@
     "themes": [
       "DirecTV",
       "GPON",
+      "Google",
       "Google TV",
       "Netflix",
       "Wi-Fi",
@@ -18324,6 +18493,7 @@
       "Apple",
       "CPO",
       "EMS",
+      "仁寶",
       "廣達",
       "消費性電子",
       "矽光子",
@@ -18335,11 +18505,11 @@
     "name": "順發",
     "sector": "Electronics & Computer Distribution",
     "themes": [
-      "ASUS",
-      "Acer",
       "Apple",
       "Gigabyte",
-      "MSI"
+      "MSI",
+      "宏碁",
+      "華碩"
     ]
   },
   "6155": {
@@ -18467,13 +18637,14 @@
       "AMD",
       "IPC",
       "Intel",
-      "IoT",
       "NVIDIA",
       "PCB",
       "伺服器",
+      "友達",
       "工業電腦",
       "機器人",
       "物聯網",
+      "聯發科",
       "自動化",
       "記憶體",
       "鴻海"
@@ -18484,6 +18655,7 @@
     "name": "久正",
     "sector": "Electronic Components",
     "themes": [
+      "Arm",
       "NXP",
       "PCB",
       "POWERTIP",
@@ -18535,10 +18707,10 @@
     "themes": [
       "5G",
       "EMS",
-      "EV",
       "MLCC",
       "伺服器",
       "網通",
+      "華新科",
       "電動車"
     ]
   },
@@ -18590,6 +18762,7 @@
       "E Ink",
       "Inkron",
       "LG",
+      "Meta",
       "NIL Technology",
       "Nanocomp",
       "Radiant Opto-Electronics",
@@ -18632,9 +18805,9 @@
     "name": "合晶",
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
-      "EV",
-      "GaN",
-      "TSMC",
+      "Infineon",
+      "NXP",
+      "Shin-Etsu",
       "半導體",
       "台積電",
       "氮化鎵",
@@ -18703,11 +18876,13 @@
     "sector": "Specialty Industrial Machinery",
     "themes": [
       "AI",
-      "TSMC",
+      "CoWoS",
+      "FOPLP",
       "半導體",
       "台積電",
       "散熱",
-      "日月光",
+      "日月光投控",
+      "矽品",
       "自動化"
     ]
   },
@@ -18720,6 +18895,7 @@
       "EMS",
       "NAND",
       "NVIDIA",
+      "Toyota",
       "伺服器",
       "半導體",
       "廣達",
@@ -18799,7 +18975,6 @@
     "themes": [
       "5G",
       "EMS",
-      "IoT",
       "PCB",
       "伺服器",
       "工業電腦",
@@ -18828,9 +19003,10 @@
     "name": "帆宣",
     "sector": "Electronic Components",
     "themes": [
+      "ASML",
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
       "自動化",
       "記憶體",
       "鴻海"
@@ -18847,6 +19023,7 @@
       "CSP",
       "Meta",
       "NVIDIA",
+      "Oracle",
       "PCIe",
       "伺服器",
       "光通訊",
@@ -18907,7 +19084,7 @@
       "伺服器",
       "半導體",
       "散熱",
-      "日月光",
+      "日月光投控",
       "消費性電子",
       "聯電"
     ]
@@ -18935,9 +19112,9 @@
       "Alps Alpine",
       "Behringer",
       "Bourns",
-      "IoT",
       "Taiwan Alpha",
-      "Yamaha"
+      "Yamaha",
+      "物聯網"
     ]
   },
   "6205": {
@@ -18982,10 +19159,11 @@
       "CoWoS",
       "EMS",
       "NVIDIA",
-      "TSMC",
       "伺服器",
       "半導體",
-      "台積電"
+      "台積電",
+      "國巨",
+      "華新科"
     ]
   },
   "6208": {
@@ -19009,7 +19187,6 @@
       "AI",
       "AR",
       "Amazon",
-      "IoT",
       "Sony",
       "VR",
       "物聯網"
@@ -19058,6 +19235,7 @@
       "PCB",
       "伺服器",
       "半導體",
+      "欣興",
       "消費性電子",
       "玻纖布",
       "網通",
@@ -19135,6 +19313,7 @@
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
       "5G",
+      "Micro LED",
       "半導體",
       "台積電",
       "網通"
@@ -19205,6 +19384,7 @@
     "themes": [
       "AI",
       "AMD",
+      "Broadcom",
       "NVIDIA",
       "PCB",
       "半導體",
@@ -19220,6 +19400,7 @@
     "sector": "Electronic Components",
     "themes": [
       "AI",
+      "Henkel",
       "IGBT",
       "半導體",
       "散熱",
@@ -19317,6 +19498,7 @@
       "水冷",
       "網通",
       "緯創",
+      "英業達",
       "資料中心",
       "鴻海"
     ]
@@ -19328,6 +19510,7 @@
     "themes": [
       "AI",
       "AMD",
+      "Arm",
       "Dell",
       "Google",
       "HP",
@@ -19335,6 +19518,7 @@
       "NVIDIA",
       "ODM",
       "OEM",
+      "Qualcomm",
       "伺服器",
       "廣達",
       "物聯網",
@@ -19348,7 +19532,6 @@
     "sector": "Semiconductors",
     "themes": [
       "ADAS",
-      "TSMC",
       "伺服器",
       "半導體",
       "台積電",
@@ -19381,6 +19564,8 @@
     "sector": "Metal Fabrication",
     "themes": [
       "5G",
+      "BYD",
+      "Meta",
       "ODM",
       "OEM",
       "Tesla",
@@ -19409,7 +19594,7 @@
       "AI",
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
       "消費性電子",
       "聯電"
     ]
@@ -19424,12 +19609,15 @@
       "DRAM",
       "FOPLP",
       "HBM",
+      "Micron",
       "NAND",
       "NVIDIA",
+      "SK Hynix",
       "伺服器",
       "半導體",
       "台積電",
       "導線架",
+      "欣興",
       "消費性電子",
       "自動化",
       "記憶體",
@@ -19475,6 +19663,7 @@
       "AI",
       "MCU",
       "ODM",
+      "仁寶",
       "半導體",
       "廣達",
       "消費性電子"
@@ -19485,6 +19674,7 @@
     "name": "茂迪",
     "sector": "Solar",
     "themes": [
+      "DuPont",
       "EPC",
       "EVA",
       "TOPCon",
@@ -19590,12 +19780,14 @@
     "sector": "Communication Equipment",
     "themes": [
       "Broadcom",
-      "Realtek",
+      "GE",
       "台聯電",
       "正能量智能",
       "物聯網",
+      "瑞昱",
       "盛達",
-      "網通"
+      "網通",
+      "聯電"
     ]
   },
   "6264": {
@@ -19648,6 +19840,7 @@
       "CPO",
       "CSP",
       "EMS",
+      "Meta",
       "NVIDIA",
       "伺服器",
       "低軌衛星",
@@ -19667,10 +19860,10 @@
       "DRAM",
       "IGBT",
       "MOSFET",
-      "SiC",
       "半導體",
       "機器人",
       "消費性電子",
+      "環球晶",
       "矽晶圓",
       "碳化矽",
       "記憶體",
@@ -19701,7 +19894,7 @@
     "sector": "Electronic Components",
     "themes": [
       "AI",
-      "AI伺服器",
+      "AI 伺服器",
       "GPU",
       "NVIDIA",
       "ODM",
@@ -19737,7 +19930,6 @@
     "name": "元山",
     "sector": "Consumer Electronics",
     "themes": [
-      "ASUS",
       "BMW",
       "BYD",
       "Geely",
@@ -19749,6 +19941,7 @@
       "VW",
       "散熱模組",
       "散熱風扇",
+      "華碩",
       "資料中心"
     ]
   },
@@ -19787,6 +19980,8 @@
       "Apple",
       "DRAM",
       "EMS",
+      "Micron",
+      "Mini LED",
       "PCB",
       "半導體",
       "友達",
@@ -19803,7 +19998,6 @@
     "name": "全國電",
     "sector": "Specialty Retail",
     "themes": [
-      "ASUS",
       "Apple",
       "Bosch",
       "Dyson",
@@ -19812,7 +20006,8 @@
       "LG",
       "Panasonic",
       "Samsung",
-      "Xiaomi"
+      "Xiaomi",
+      "華碩"
     ]
   },
   "6282": {
@@ -19822,16 +20017,17 @@
     "themes": [
       "5G",
       "CSP",
-      "EV",
       "IBM",
+      "IGBT",
+      "Infineon",
+      "MOSFET",
       "NXP",
       "PCB",
-      "SiC",
       "伺服器",
       "半導體",
       "消費性電子",
+      "碳化矽",
       "網通",
-      "英飛凌",
       "車用電子",
       "雲端服務",
       "電動車"
@@ -19860,7 +20056,6 @@
       "5G",
       "Apple",
       "EMS",
-      "IoT",
       "ODM",
       "PSA華科事業群",
       "Wi-Fi 6",
@@ -19894,7 +20089,7 @@
     "sector": "Electrical Equipment & Parts",
     "themes": [
       "AI",
-      "AI伺服器",
+      "AI 伺服器",
       "Amazon",
       "Apple",
       "CSP",
@@ -19912,7 +20107,7 @@
     "sector": "Semiconductors",
     "themes": [
       "AI",
-      "AI伺服器",
+      "AI 伺服器",
       "EMS",
       "光通訊",
       "半導體",
@@ -19939,6 +20134,7 @@
     "sector": "Electronic Components",
     "themes": [
       "AI",
+      "OLED",
       "半導體",
       "友達",
       "散熱",
@@ -19954,6 +20150,7 @@
     "themes": [
       "5G",
       "PCB",
+      "大立光",
       "智慧型手機",
       "消費性電子",
       "華為",
@@ -19965,9 +20162,11 @@
     "name": "旭隼",
     "sector": "Electrical Equipment & Parts",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "AWS",
+      "IGBT",
       "MCU",
+      "MOSFET",
       "ODM",
       "伺服器",
       "半導體",
@@ -19981,7 +20180,7 @@
     "sector": "Semiconductors",
     "themes": [
       "AI PC",
-      "AI伺服器",
+      "AI 伺服器",
       "EMS",
       "ODM",
       "PCIe",
@@ -19998,10 +20197,10 @@
     "name": "群電",
     "sector": "Electrical Equipment & Parts",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "Dell",
-      "GaN",
       "HP",
+      "MOSFET",
       "Microsoft",
       "NXP",
       "PCB",
@@ -20009,6 +20208,7 @@
       "伺服器",
       "低軌衛星",
       "半導體",
+      "氮化鎵",
       "群光"
     ]
   },
@@ -20038,7 +20238,7 @@
     "sector": "Semiconductors",
     "themes": [
       "AI PC",
-      "AI伺服器",
+      "AI 伺服器",
       "ODM",
       "OEM",
       "Samsung",
@@ -20059,8 +20259,8 @@
       "AWS",
       "Google",
       "Intel",
-      "IoT",
       "樺漢",
+      "物聯網",
       "雲端服務",
       "鴻海"
     ]
@@ -20087,8 +20287,7 @@
     "sector": "Electronic Components",
     "themes": [
       "5G",
-      "AI伺服器",
-      "EV",
+      "AI 伺服器",
       "Type-C",
       "伺服器",
       "消費性電子",
@@ -20128,7 +20327,7 @@
     "name": "易發",
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "CoWoS",
       "IPC",
       "伺服器",
@@ -20152,6 +20351,9 @@
       "Amazon",
       "Google",
       "Iridian Spectral Technologies",
+      "Meta",
+      "Microsoft",
+      "Oracle",
       "低軌衛星",
       "光通訊",
       "波若威",
@@ -20196,7 +20398,7 @@
     "sector": "Semiconductors",
     "themes": [
       "AI PC",
-      "AI伺服器",
+      "AI 伺服器",
       "IGBT",
       "MOSFET",
       "伺服器",
@@ -20217,12 +20419,11 @@
     "themes": [
       "ABF",
       "PCB",
-      "TSMC",
       "半導體",
       "南電",
       "台積電",
       "台達電",
-      "日月光",
+      "日月光投控",
       "欣興",
       "自動化"
     ]
@@ -20310,6 +20511,7 @@
     "themes": [
       "AR",
       "Apple",
+      "OLED",
       "VR",
       "消費性電子",
       "群創",
@@ -20448,11 +20650,9 @@
     "sector": "Semiconductors",
     "themes": [
       "Apple",
-      "GaN",
       "Intel",
+      "Micron",
       "Samsung",
-      "SiC",
-      "TSMC",
       "中美晶",
       "半導體",
       "台積電",
@@ -20485,8 +20685,10 @@
     "themes": [
       "5G",
       "AI",
-      "EV",
+      "BYD",
+      "GM",
       "Tesla",
+      "Toyota",
       "導線架",
       "機器人",
       "矽光子",
@@ -20509,7 +20711,7 @@
     ]
   },
   "6505": {
-    "canonical": "台塑化",
+    "canonical": "台塑",
     "name": "台塑化",
     "sector": "Oil & Gas Refining & Marketing",
     "themes": [
@@ -20521,7 +20723,6 @@
       "全國加油站",
       "南亞塑膠",
       "台化",
-      "台塑",
       "台塑集團",
       "台橡",
       "台灣中油",
@@ -20571,7 +20772,8 @@
     "themes": [
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
+      "永豐餘",
       "電動車"
     ]
   },
@@ -20586,6 +20788,7 @@
       "Apple",
       "NVIDIA",
       "PCB",
+      "Qualcomm",
       "半導體",
       "台積電",
       "探針卡",
@@ -20603,6 +20806,7 @@
       "NVIDIA",
       "ODM",
       "OEM",
+      "中鋼",
       "伺服器",
       "散熱",
       "資料中心",
@@ -20616,6 +20820,7 @@
     "themes": [
       "AI",
       "AMD",
+      "Advantest",
       "CPO",
       "CSP",
       "CoWoS",
@@ -20625,7 +20830,7 @@
       "半導體",
       "台積電",
       "探針卡",
-      "日月光"
+      "日月光投控"
     ]
   },
   "6516": {
@@ -20634,6 +20839,7 @@
     "sector": "Scientific & Technical Instruments",
     "themes": [
       "ADAS",
+      "BMW",
       "Google",
       "OEM",
       "中華電信",
@@ -20660,10 +20866,8 @@
     "name": "捷敏-KY",
     "sector": "Semiconductors",
     "themes": [
-      "GaN",
       "IGBT",
       "MOSFET",
-      "SiC",
       "伺服器",
       "半導體",
       "導線架",
@@ -20681,13 +20885,13 @@
       "Airoha",
       "BES",
       "Bluetooth",
-      "IoT",
       "Qualcomm",
-      "Realtek",
       "SoC",
       "TWS",
       "Wi-Fi",
       "台積電",
+      "物聯網",
+      "瑞昱",
       "聯發科"
     ]
   },
@@ -20719,13 +20923,12 @@
       "CSP",
       "CoWoS",
       "Intel",
-      "IoT",
       "NVIDIA",
       "伺服器",
       "力積電",
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
       "物聯網",
       "矽晶圓",
       "網通",
@@ -20739,13 +20942,14 @@
     "name": "瑞耘",
     "sector": "Semiconductor Equipment & Materials",
     "themes": [
+      "Applied Materials",
       "CMP",
       "CVD",
       "OEM",
       "PVD",
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
       "蝕刻"
     ]
   },
@@ -20757,12 +20961,15 @@
       "5G",
       "AI",
       "CSP",
-      "IoT",
+      "Cadence",
       "Meta",
       "OEM",
+      "Renesas",
+      "Synopsys",
       "台積電",
       "物聯網",
       "聯發科",
+      "聯詠",
       "自動化"
     ]
   },
@@ -20799,10 +21006,10 @@
     "themes": [
       "5G",
       "Broadcom",
-      "Realtek",
       "Synaptics",
       "樺漢",
       "消費性電子",
+      "瑞昱",
       "研華",
       "網通",
       "醫療器材"
@@ -20813,12 +21020,13 @@
     "name": "長科",
     "sector": "Semiconductors",
     "themes": [
-      "GaN",
-      "SiC",
+      "Infineon",
       "伺服器",
       "半導體",
       "導線架",
       "散熱",
+      "氮化鎵",
+      "碳化矽",
       "蝕刻",
       "銅箔",
       "電動車"
@@ -20870,6 +21078,8 @@
       "OEM",
       "Sony",
       "明基佳世達",
+      "瑞昱",
+      "聯詠",
       "記憶體"
     ]
   },
@@ -20937,7 +21147,6 @@
     "themes": [
       "AI",
       "AWS",
-      "IoT",
       "Microsoft Azure",
       "物聯網",
       "鴻海"
@@ -20952,7 +21161,7 @@
       "光通訊",
       "半導體",
       "台積電",
-      "日月光",
+      "日月光投控",
       "矽晶圓",
       "聯電",
       "自動化",
@@ -20965,6 +21174,7 @@
     "sector": "Computer Hardware",
     "themes": [
       "AMD",
+      "CoWoS",
       "Intel",
       "半導體",
       "工業電腦",
@@ -20990,12 +21200,12 @@
     "name": "勁豐",
     "sector": "Electronic Components",
     "themes": [
-      "IoT",
       "Peloton",
       "Promate Solutions",
       "UL",
       "友達",
       "工業電腦",
+      "物聯網",
       "群創",
       "記憶體",
       "豐藝電子"
@@ -21176,6 +21386,7 @@
       "Jetwell Logistics",
       "中華航空",
       "佳世達",
+      "力成",
       "台達電",
       "國泰航空",
       "大聯大",
@@ -21235,10 +21446,10 @@
     "name": "朋億",
     "sector": "Specialty Industrial Machinery",
     "themes": [
+      "Micron",
       "力積電",
       "友達",
       "台積電",
-      "美光",
       "聖暉工程"
     ]
   },
@@ -21341,6 +21552,7 @@
     "themes": [
       "Amazon",
       "Ring",
+      "Sony",
       "大立光",
       "樺漢",
       "玉晶光",
@@ -21394,10 +21606,10 @@
       "AEC-Q200",
       "Bourns",
       "IATF 16949",
-      "IoT",
       "Littelfuse",
       "PPTC",
       "功率半導體",
+      "物聯網",
       "車用電子"
     ]
   },
@@ -21495,7 +21707,7 @@
       "Intel",
       "南亞電路板",
       "台積電",
-      "日月光",
+      "日月光投控",
       "欣興",
       "玻璃基板"
     ]
@@ -21505,11 +21717,11 @@
     "name": "信紘科",
     "sector": "Specialty Industrial Machinery",
     "themes": [
+      "Micron",
       "力積電",
       "友達",
       "台積電",
       "環球晶圓",
-      "美光",
       "華邦電"
     ]
   },
@@ -21539,6 +21751,7 @@
       "HBM",
       "Intel",
       "Meta",
+      "Micron",
       "Microsoft",
       "NVIDIA",
       "OCP",
@@ -21548,7 +21761,6 @@
       "液冷",
       "緯創",
       "緯穎科技",
-      "美光",
       "資料中心"
     ]
   },
@@ -21688,11 +21900,11 @@
     "themes": [
       "IC 設計",
       "PCIe",
-      "Realtek",
       "USB",
       "USB4",
       "實體層介面",
       "工業控制",
+      "瑞昱",
       "祥碩"
     ]
   },
@@ -21708,7 +21920,7 @@
       "Microsoft",
       "Oracle",
       "SAP",
-      "微軟"
+      "Salesforce"
     ]
   },
   "6690": {
@@ -21802,10 +22014,10 @@
       "AWS",
       "ERP",
       "Google",
-      "IoT",
       "Microsoft",
       "SAP",
       "東元電機",
+      "物聯網",
       "研華",
       "資安"
     ]
@@ -21819,6 +22031,7 @@
       "ASML",
       "FOPLP",
       "FineMat",
+      "OLED",
       "京東方",
       "台積電",
       "和輝光電",
@@ -21864,7 +22077,7 @@
       "GM",
       "Mars Semiconductor",
       "台積電",
-      "日月光",
+      "日月光投控",
       "聯電",
       "金麗科"
     ]
@@ -21880,6 +22093,8 @@
       "Lenovo",
       "NVIDIA",
       "SpaceX",
+      "VCSEL",
+      "力成",
       "嘉澤"
     ]
   },
@@ -21903,13 +22118,13 @@
     "name": "力智",
     "sector": "Semiconductors",
     "themes": [
-      "GaN",
       "Infineon",
       "MOSFET",
       "MPS",
       "PMIC",
       "Renesas",
       "uPI Semiconductor",
+      "氮化鎵",
       "電源管理 IC"
     ]
   },
@@ -21948,13 +22163,13 @@
     "sector": "Pollution & Treatment Controls",
     "themes": [
       "AMC",
+      "Micron",
       "RTO",
       "VOCs",
       "友達",
       "台燿",
       "台積電",
       "漢唐",
-      "美光",
       "群創",
       "聯茂",
       "聯電"
@@ -22053,12 +22268,12 @@
     "themes": [
       "Dell",
       "HP",
-      "IoT",
       "Lenovo",
       "Logitech",
       "MCU",
       "Microsoft",
-      "PCB"
+      "PCB",
+      "物聯網"
     ]
   },
   "6738": {
@@ -22101,6 +22316,7 @@
       "SaaS",
       "iCHEF",
       "全家便利商店",
+      "全聯",
       "綠界科技"
     ]
   },
@@ -22132,10 +22348,10 @@
       "OEM",
       "PCB",
       "Qualcomm",
-      "Realtek",
       "SteelSeries",
       "TWS",
       "Turtle Beach",
+      "瑞昱",
       "電競耳機"
     ]
   },
@@ -22503,9 +22719,9 @@
     "sector": "Electronic Components",
     "themes": [
       "5G",
-      "IoT",
       "Johanson Technology",
       "低軌衛星",
+      "物聯網",
       "達方電子",
       "鈦酸鋇",
       "銅箔"
@@ -22591,7 +22807,7 @@
       "台達電",
       "台電",
       "富威電力",
-      "日月光",
+      "日月光投控",
       "正崴精密",
       "鴻海"
     ]
@@ -22686,12 +22902,12 @@
       "5G",
       "Apple",
       "Broadcom",
-      "IoT",
       "LinkCom",
       "Microchip",
       "Tesla",
       "Texas Instruments",
       "和碩",
+      "物聯網",
       "緯創",
       "電動車",
       "鴻海"
@@ -22715,7 +22931,7 @@
     "name": "和暢科技",
     "sector": "Computer Hardware",
     "themes": [
-      "ARM",
+      "Arm",
       "Intel",
       "Jetson",
       "NVIDIA",
@@ -22780,6 +22996,7 @@
     "name": "金鼎科",
     "sector": "Textile Manufacturing",
     "themes": [
+      "Meta",
       "不鏽鋼",
       "伯恩光學",
       "曲面玻璃",
@@ -22855,6 +23072,7 @@
       "Apple",
       "Meta",
       "MicroLED",
+      "OLED",
       "PlayNitride",
       "磊晶"
     ]
@@ -22891,6 +23109,7 @@
       "AR",
       "Apple",
       "Carl Zeiss",
+      "Meta",
       "Nikon",
       "VR",
       "大立光",
@@ -22933,7 +23152,7 @@
       "台普威能源",
       "台電",
       "天能綠電",
-      "日月光",
+      "日月光投控",
       "玉山金控"
     ]
   },
@@ -23060,7 +23279,6 @@
     "name": "海柏特",
     "sector": "Computer Hardware",
     "themes": [
-      "ASUS",
       "Canon",
       "Dell",
       "Epson",
@@ -23069,7 +23287,8 @@
       "Lenovo",
       "Nintendo",
       "Sony",
-      "宏碁"
+      "宏碁",
+      "華碩"
     ]
   },
   "6887": {
@@ -23190,7 +23409,7 @@
     "name": "巨漢",
     "sector": "Engineering & Construction",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "CoWoS",
       "亞翔",
       "京元電子",
@@ -23226,6 +23445,7 @@
       "Bharti Airtel",
       "Google",
       "Indosat",
+      "Intel",
       "Saudi Telecom",
       "Singtel",
       "Telkomsel",
@@ -23282,6 +23502,7 @@
     "name": "華凌",
     "sector": "Electronic Components",
     "themes": [
+      "OLED",
       "PMOLED",
       "Winstar Display",
       "友達",
@@ -23299,11 +23520,11 @@
       "AI 伺服器",
       "C2iM",
       "FOPLP",
-      "GaN",
       "XQFN",
       "先進封裝",
       "導線架",
       "朋程",
+      "氮化鎵",
       "第三代半導體"
     ]
   },
@@ -23455,12 +23676,12 @@
     "name": "兆聯實業",
     "sector": "Pollution & Treatment Controls",
     "themes": [
+      "Micron",
       "PCB",
       "RO逆滲透膜",
       "南亞科技",
       "台積電",
       "東麗",
-      "美光",
       "超純水"
     ]
   },
@@ -23668,7 +23889,7 @@
       "台灣證券交易所",
       "台達電",
       "台電",
-      "日月光",
+      "日月光投控",
       "森崴能源",
       "正崴精密",
       "鴻海"
@@ -23681,6 +23902,7 @@
     "themes": [
       "AI",
       "AWS",
+      "Amazon",
       "Google",
       "Microsoft",
       "資安",
@@ -23812,6 +24034,7 @@
     "themes": [
       "Alconix",
       "Apple",
+      "Meta",
       "Tesla",
       "三菱商事",
       "住友商事",
@@ -23831,6 +24054,7 @@
     "sector": "Metal Fabrication",
     "themes": [
       "CIP",
+      "Meta",
       "wpd",
       "世紀鋼",
       "中鋼",
@@ -23962,6 +24186,7 @@
       "AI PC",
       "ASIC",
       "DENSO",
+      "Intel",
       "NVIDIA",
       "Nintendo Switch 2",
       "任天堂",
@@ -24055,11 +24280,11 @@
       "5G",
       "6G",
       "AESA",
-      "GaAs",
       "Phased Array Antenna",
       "TMYTEK",
       "mmWave",
       "低軌衛星",
+      "砷化鎵",
       "穩懋半導體",
       "聯茂電子",
       "英業達"
@@ -24139,7 +24364,6 @@
     "sector": "Electronic Components",
     "themes": [
       "AI 伺服器",
-      "ASUS",
       "Amazon",
       "Bellwether Electronic",
       "Dell",
@@ -24151,6 +24375,7 @@
       "廣達",
       "緯創",
       "緯穎",
+      "華碩",
       "鴻海"
     ]
   },
@@ -24221,14 +24446,14 @@
     "name": "鈦昇",
     "sector": "Specialty Industrial Machinery",
     "themes": [
+      "Broadcom",
       "FOPLP",
       "FPC",
       "Intel",
       "Manz",
-      "博通",
+      "STMicroelectronics",
       "台積電",
-      "意法半導體",
-      "日月光",
+      "日月光投控",
       "玻璃基板",
       "群創",
       "群翊"
@@ -24308,6 +24533,7 @@
     "sector": "Electronic Components",
     "themes": [
       "Apple",
+      "DuPont",
       "Nvidia",
       "Tesla",
       "健鼎",
@@ -24382,10 +24608,10 @@
       "Comcast",
       "DOCSIS 4.0",
       "GPON",
-      "GaN",
       "HFC",
       "MaxLinear",
-      "Twoway Communications"
+      "Twoway Communications",
+      "氮化鎵"
     ]
   },
   "8046": {
@@ -24393,12 +24619,26 @@
     "name": "南電",
     "sector": "Electronic Components",
     "themes": [
+      "ABF",
+      "ABF 載板",
+      "AI 伺服器",
       "AMD",
+      "Ajinomoto",
       "Apple",
+      "BT 載板",
+      "Bosch",
       "Broadcom",
-      "Nvidia",
+      "CCL",
+      "Continental",
+      "Intel",
+      "NVIDIA",
+      "南亞電路板",
       "台塑",
-      "味之素",
+      "台積電",
+      "日月光投控",
+      "景碩",
+      "欣興",
+      "玻纖布",
       "銅箔"
     ]
   },
@@ -24447,6 +24687,7 @@
       "AIoT",
       "AMD",
       "AMR",
+      "Arm",
       "Cisco",
       "IBASE Technology",
       "Intel",
@@ -24461,13 +24702,13 @@
     "sector": "Computer Hardware",
     "themes": [
       "AI 伺服器",
-      "ARM",
       "ASIC",
       "Alcor Micro",
+      "Arm",
       "HPC",
       "IP",
-      "IoT",
       "台積電",
+      "物聯網",
       "神盾",
       "聯電"
     ]
@@ -24478,15 +24719,15 @@
     "sector": "Communication Equipment",
     "themes": [
       "5G",
+      "Broadcom",
       "Cable Modem",
       "CableLabs",
       "CastleNet Technology",
       "DOCSIS",
       "DOCSIS 3.1",
-      "IoT",
       "Mesh Wi-Fi",
       "Wi-Fi 6",
-      "博通"
+      "物聯網"
     ]
   },
   "8064": {
@@ -24562,6 +24803,7 @@
       "Hanshow",
       "Kobo",
       "VusionGroup",
+      "Walmart",
       "京東方",
       "天鈺",
       "永豐餘",
@@ -24589,7 +24831,7 @@
       "天正國際",
       "導線架",
       "新應材",
-      "日月光",
+      "日月光投控",
       "易華電子",
       "矽品",
       "矽格",
@@ -24644,13 +24886,13 @@
     "name": "伍豐",
     "sector": "Computer Hardware",
     "themes": [
-      "ARM",
+      "Arm",
       "DRAM",
       "FEC Technologies",
       "Intel",
-      "IoT",
       "NFC",
-      "台灣彩券"
+      "台灣彩券",
+      "物聯網"
     ]
   },
   "8080": {
@@ -24747,10 +24989,10 @@
     "sector": "Computer Hardware",
     "themes": [
       "DRAM",
+      "Micron",
       "Panram International",
       "SK 海力士",
       "三星電子",
-      "美光",
       "金士頓"
     ]
   },
@@ -24793,9 +25035,9 @@
     "name": "建暐",
     "sector": "Specialty Industrial Machinery",
     "themes": [
+      "Texas Instruments",
       "南茂科技",
-      "德州儀器",
-      "日月光",
+      "日月光投控",
       "福懋科技",
       "華泰電子"
     ]
@@ -24835,11 +25077,11 @@
       "5G",
       "ATW Technology",
       "GPON",
-      "IoT",
       "SMT",
       "VDSL",
       "Wi-Fi 6",
       "台灣科技大學",
+      "物聯網",
       "瑞昱",
       "聯發科"
     ]
@@ -24872,9 +25114,9 @@
     "themes": [
       "AIoT",
       "Arima Communications",
-      "IoT",
-      "聯發科",
-      "高通"
+      "Qualcomm",
+      "物聯網",
+      "聯發科"
     ]
   },
   "8102": {
@@ -25041,6 +25283,7 @@
       "力成",
       "南亞科技",
       "南茂",
+      "台塑",
       "台塑集團",
       "威剛",
       "日月光投控",
@@ -25063,7 +25306,6 @@
     "name": "南茂",
     "sector": "Semiconductors",
     "themes": [
-      "ChipMOS",
       "LCD",
       "Micron",
       "NASDAQ",
@@ -25088,6 +25330,7 @@
       "Intel",
       "PCB",
       "Supermicro",
+      "仁寶",
       "台光電",
       "探針卡",
       "聯茂",
@@ -25099,12 +25342,12 @@
     "name": "微矽電子-創",
     "sector": "Semiconductors",
     "themes": [
-      "GaN",
       "MOSFET",
       "世界先進",
       "京元電子",
       "探針卡",
       "欣銓",
+      "氮化鎵",
       "漢磊",
       "電源管理 IC"
     ]
@@ -25138,13 +25381,13 @@
     "themes": [
       "5G",
       "AIoT",
+      "Qualcomm",
       "RF",
       "Wi-Fi",
       "Wi-Fi 6",
       "Z-Com",
       "中華電信",
-      "聯發科",
-      "高通"
+      "聯發科"
     ]
   },
   "8182": {
@@ -25270,10 +25513,10 @@
       "AIoT",
       "AMD",
       "Intel",
-      "IoT",
       "Jetson",
       "NEXCOM International",
-      "NVIDIA"
+      "NVIDIA",
+      "物聯網"
     ]
   },
   "8240": {
@@ -25409,7 +25652,8 @@
       "SSD",
       "UFS",
       "eMMC",
-      "慧榮科技"
+      "慧榮科技",
+      "聯電"
     ]
   },
   "8341": {
@@ -25551,7 +25795,7 @@
     "name": "金益鼎",
     "sector": "Waste Management",
     "themes": [
-      "AI伺服器",
+      "AI 伺服器",
       "OEM",
       "PCB",
       "半導體",
@@ -25705,7 +25949,7 @@
       "一詮",
       "半導體",
       "導線架",
-      "日月光",
+      "日月光投控",
       "長華科技"
     ]
   },
@@ -26211,6 +26455,7 @@
       "Macy's",
       "OPPO",
       "SBS",
+      "Shell",
       "TP-Link",
       "Target",
       "Toyota",
@@ -26609,6 +26854,7 @@
     "sector": "Other Industrial Metals & Mining",
     "themes": [
       "LME",
+      "Meta",
       "廣隆光電",
       "氧化鉛",
       "統一工業",
@@ -26650,10 +26896,14 @@
     "sector": "Building Materials",
     "themes": [
       "中國鋼鐵",
+      "中鋼",
+      "中鴻",
       "中鴻鋼鐵",
       "中龍鋼鐵",
+      "亞泥",
       "亞洲水泥",
       "台北101",
+      "台泥",
       "台灣水泥",
       "國產建材實業",
       "東南水泥",
@@ -26718,6 +26968,7 @@
     "sector": "Specialty Retail",
     "themes": [
       "EV 充電",
+      "Shell",
       "中油",
       "台塑化",
       "殼牌",
@@ -26746,7 +26997,9 @@
     "name": "宏全",
     "sector": "Packaging & Containers",
     "themes": [
+      "Coca-Cola",
       "PET",
+      "PepsiCo",
       "可口可樂",
       "台塑",
       "台灣菸酒",
@@ -26879,6 +27132,7 @@
     "sector": "Metal Fabrication",
     "themes": [
       "CIP",
+      "Meta",
       "wpd",
       "世紀風電",
       "中鋼",

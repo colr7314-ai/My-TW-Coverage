@@ -931,7 +931,7 @@
   },
   "2013": {
     "name": "中鋼構",
-    "canonical": "中鋼構",
+    "canonical": "中鋼",
     "sector": "Steel"
   },
   "2014": {
@@ -1440,8 +1440,8 @@
     "sector": "Computer Hardware"
   },
   "2353": {
-    "name": "宏��",
-    "canonical": "宏��",
+    "name": "宏碁",
+    "canonical": "宏碁",
     "sector": "Computer Hardware"
   },
   "2354": {
@@ -3951,7 +3951,7 @@
   },
   "3711": {
     "name": "日月光投控",
-    "canonical": "日月光",
+    "canonical": "日月光投控",
     "sector": "Semiconductors"
   },
   "3712": {
@@ -6456,7 +6456,7 @@
   },
   "6505": {
     "name": "台塑化",
-    "canonical": "台塑化",
+    "canonical": "台塑",
     "sector": "Oil & Gas Refining & Marketing"
   },
   "6506": {
