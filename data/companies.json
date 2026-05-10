@@ -1,0 +1,8667 @@
+{
+  "1101": {
+    "name": "台泥",
+    "canonical": "台泥",
+    "sector": "Building Materials"
+  },
+  "1102": {
+    "name": "亞泥",
+    "canonical": "亞泥",
+    "sector": "Building Materials"
+  },
+  "1103": {
+    "name": "嘉泥",
+    "canonical": "嘉泥",
+    "sector": "Building Materials"
+  },
+  "1104": {
+    "name": "環泥",
+    "canonical": "環泥",
+    "sector": "Building Materials"
+  },
+  "1108": {
+    "name": "幸福",
+    "canonical": "幸福",
+    "sector": "Building Materials"
+  },
+  "1109": {
+    "name": "信大",
+    "canonical": "信大",
+    "sector": "Building Materials"
+  },
+  "1110": {
+    "name": "東泥",
+    "canonical": "東泥",
+    "sector": "Building Materials"
+  },
+  "1240": {
+    "name": "茂生農經",
+    "canonical": "茂生農經",
+    "sector": "Farm Products"
+  },
+  "1301": {
+    "name": "台塑",
+    "canonical": "台塑",
+    "sector": "Specialty Chemicals"
+  },
+  "1303": {
+    "name": "南亞",
+    "canonical": "南亞",
+    "sector": "Specialty Chemicals"
+  },
+  "1304": {
+    "name": "台聚",
+    "canonical": "台聚",
+    "sector": "Specialty Chemicals"
+  },
+  "1305": {
+    "name": "華夏",
+    "canonical": "華夏",
+    "sector": "Specialty Chemicals"
+  },
+  "1307": {
+    "name": "三芳",
+    "canonical": "三芳",
+    "sector": "Textile Manufacturing"
+  },
+  "1308": {
+    "name": "亞聚",
+    "canonical": "亞聚",
+    "sector": "Specialty Chemicals"
+  },
+  "1309": {
+    "name": "台達化",
+    "canonical": "台達化",
+    "sector": "Specialty Chemicals"
+  },
+  "1310": {
+    "name": "台苯",
+    "canonical": "台苯",
+    "sector": "Chemicals"
+  },
+  "1312": {
+    "name": "國喬",
+    "canonical": "國喬",
+    "sector": "Chemicals"
+  },
+  "1313": {
+    "name": "聯成",
+    "canonical": "聯成",
+    "sector": "Chemicals"
+  },
+  "1314": {
+    "name": "中石化",
+    "canonical": "中石化",
+    "sector": "Specialty Chemicals"
+  },
+  "1315": {
+    "name": "達新",
+    "canonical": "達新",
+    "sector": "Apparel Manufacturing"
+  },
+  "1316": {
+    "name": "上曜",
+    "canonical": "上曜",
+    "sector": "Real Estate Services"
+  },
+  "1319": {
+    "name": "東陽",
+    "canonical": "東陽",
+    "sector": "Auto Parts"
+  },
+  "1321": {
+    "name": "大洋",
+    "canonical": "大洋",
+    "sector": "Specialty Chemicals"
+  },
+  "1323": {
+    "name": "永裕",
+    "canonical": "永裕",
+    "sector": "Packaging & Containers"
+  },
+  "1324": {
+    "name": "地球",
+    "canonical": "地球",
+    "sector": "Business Equipment & Supplies"
+  },
+  "1325": {
+    "name": "恆大",
+    "canonical": "恆大",
+    "sector": "Textile Manufacturing"
+  },
+  "1326": {
+    "name": "台化",
+    "canonical": "台化",
+    "sector": "Chemicals"
+  },
+  "1336": {
+    "name": "台翰",
+    "canonical": "台翰",
+    "sector": "Auto Parts"
+  },
+  "1337": {
+    "name": "再生-KY",
+    "canonical": "再生-KY",
+    "sector": "Specialty Chemicals"
+  },
+  "1338": {
+    "name": "廣華-KY",
+    "canonical": "廣華-KY",
+    "sector": "Auto Parts"
+  },
+  "1339": {
+    "name": "昭輝",
+    "canonical": "昭輝",
+    "sector": "Auto Parts"
+  },
+  "1340": {
+    "name": "勝悅-KY",
+    "canonical": "勝悅-KY",
+    "sector": "Footwear & Accessories"
+  },
+  "1341": {
+    "name": "富林-KY",
+    "canonical": "富林-KY",
+    "sector": "Textile Manufacturing"
+  },
+  "1342": {
+    "name": "八貫",
+    "canonical": "八貫",
+    "sector": "Textile Manufacturing"
+  },
+  "1343": {
+    "name": "旭東環保",
+    "canonical": "旭東環保",
+    "sector": "Metal Fabrication"
+  },
+  "1402": {
+    "name": "遠東新",
+    "canonical": "遠東新",
+    "sector": "Textile Manufacturing"
+  },
+  "1409": {
+    "name": "新纖",
+    "canonical": "新纖",
+    "sector": "Textile Manufacturing"
+  },
+  "1410": {
+    "name": "南染",
+    "canonical": "南染",
+    "sector": "Textile Manufacturing"
+  },
+  "1413": {
+    "name": "宏洲",
+    "canonical": "宏洲",
+    "sector": "Textile Manufacturing"
+  },
+  "1414": {
+    "name": "東和",
+    "canonical": "東和",
+    "sector": "Textile Manufacturing"
+  },
+  "1416": {
+    "name": "廣豐",
+    "canonical": "廣豐",
+    "sector": "Information Technology Services"
+  },
+  "1417": {
+    "name": "嘉裕",
+    "canonical": "嘉裕",
+    "sector": "Apparel Retail"
+  },
+  "1418": {
+    "name": "東華",
+    "canonical": "東華",
+    "sector": "Textile Manufacturing"
+  },
+  "1419": {
+    "name": "新紡",
+    "canonical": "新紡",
+    "sector": "Textile Manufacturing"
+  },
+  "1423": {
+    "name": "利華",
+    "canonical": "利華",
+    "sector": "Textile Manufacturing"
+  },
+  "1432": {
+    "name": "大魯閣",
+    "canonical": "大魯閣",
+    "sector": "Leisure"
+  },
+  "1434": {
+    "name": "福懋",
+    "canonical": "福懋",
+    "sector": "Textile Manufacturing"
+  },
+  "1435": {
+    "name": "中福",
+    "canonical": "中福",
+    "sector": "Conglomerates"
+  },
+  "1436": {
+    "name": "華友聯",
+    "canonical": "華友聯",
+    "sector": "Real Estate - Development"
+  },
+  "1437": {
+    "name": "勤益控",
+    "canonical": "勤益控",
+    "sector": "Real Estate Services"
+  },
+  "1438": {
+    "name": "三地開發",
+    "canonical": "三地開發",
+    "sector": "Real Estate - Diversified"
+  },
+  "1439": {
+    "name": "雋揚",
+    "canonical": "雋揚",
+    "sector": "Textile Manufacturing"
+  },
+  "1440": {
+    "name": "南紡",
+    "canonical": "南紡",
+    "sector": "Textile Manufacturing"
+  },
+  "1441": {
+    "name": "大東",
+    "canonical": "大東",
+    "sector": "Textile Manufacturing"
+  },
+  "1442": {
+    "name": "名軒",
+    "canonical": "名軒",
+    "sector": "Real Estate - Development"
+  },
+  "1443": {
+    "name": "立益物流",
+    "canonical": "立益物流",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "1444": {
+    "name": "力麗",
+    "canonical": "力麗",
+    "sector": "Textile Manufacturing"
+  },
+  "1445": {
+    "name": "大宇",
+    "canonical": "大宇",
+    "sector": "Textile Manufacturing"
+  },
+  "1446": {
+    "name": "宏和",
+    "canonical": "宏和",
+    "sector": "Textile Manufacturing"
+  },
+  "1447": {
+    "name": "力鵬",
+    "canonical": "力鵬",
+    "sector": "Textile Manufacturing"
+  },
+  "1449": {
+    "name": "佳和",
+    "canonical": "佳和",
+    "sector": "Textile Manufacturing"
+  },
+  "1451": {
+    "name": "年興",
+    "canonical": "年興",
+    "sector": "Textile Manufacturing"
+  },
+  "1452": {
+    "name": "宏益",
+    "canonical": "宏益",
+    "sector": "Textile Manufacturing"
+  },
+  "1453": {
+    "name": "大將",
+    "canonical": "大將",
+    "sector": "Textile Manufacturing"
+  },
+  "1454": {
+    "name": "台富",
+    "canonical": "台富",
+    "sector": "Textile Manufacturing"
+  },
+  "1455": {
+    "name": "集盛",
+    "canonical": "集盛",
+    "sector": "Textile Manufacturing"
+  },
+  "1456": {
+    "name": "怡華",
+    "canonical": "怡華",
+    "sector": "Real Estate Services"
+  },
+  "1457": {
+    "name": "宜進",
+    "canonical": "宜進",
+    "sector": "Textile Manufacturing"
+  },
+  "1459": {
+    "name": "聯發",
+    "canonical": "聯發",
+    "sector": "Textile Manufacturing"
+  },
+  "1460": {
+    "name": "宏遠",
+    "canonical": "宏遠",
+    "sector": "Textile Manufacturing"
+  },
+  "1463": {
+    "name": "強盛新",
+    "canonical": "強盛新",
+    "sector": "Textile Manufacturing"
+  },
+  "1464": {
+    "name": "得力",
+    "canonical": "得力",
+    "sector": "Textile Manufacturing"
+  },
+  "1465": {
+    "name": "偉全",
+    "canonical": "偉全",
+    "sector": "Textile Manufacturing"
+  },
+  "1466": {
+    "name": "聚隆",
+    "canonical": "聚隆",
+    "sector": "Textile Manufacturing"
+  },
+  "1467": {
+    "name": "南緯",
+    "canonical": "南緯",
+    "sector": "Apparel Manufacturing"
+  },
+  "1468": {
+    "name": "昶和",
+    "canonical": "昶和",
+    "sector": "Textile Manufacturing"
+  },
+  "1470": {
+    "name": "大統新創",
+    "canonical": "大統新創",
+    "sector": "Textile Manufacturing"
+  },
+  "1471": {
+    "name": "首利",
+    "canonical": "首利",
+    "sector": "Computer Hardware"
+  },
+  "1472": {
+    "name": "三洋實業",
+    "canonical": "三洋實業",
+    "sector": "Engineering & Construction"
+  },
+  "1473": {
+    "name": "台南",
+    "canonical": "台南",
+    "sector": "Apparel Manufacturing"
+  },
+  "1474": {
+    "name": "弘裕",
+    "canonical": "弘裕",
+    "sector": "Textile Manufacturing"
+  },
+  "1475": {
+    "name": "業旺",
+    "canonical": "業旺",
+    "sector": "Textile Manufacturing"
+  },
+  "1476": {
+    "name": "儒鴻",
+    "canonical": "儒鴻",
+    "sector": "Apparel Manufacturing"
+  },
+  "1477": {
+    "name": "聚陽",
+    "canonical": "聚陽",
+    "sector": "Apparel Manufacturing"
+  },
+  "1503": {
+    "name": "士電",
+    "canonical": "士電",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1504": {
+    "name": "東元",
+    "canonical": "東元",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1506": {
+    "name": "正道",
+    "canonical": "正道",
+    "sector": "Auto Parts"
+  },
+  "1512": {
+    "name": "瑞利",
+    "canonical": "瑞利",
+    "sector": "Auto Parts"
+  },
+  "1513": {
+    "name": "中興電",
+    "canonical": "中興電",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1514": {
+    "name": "亞力",
+    "canonical": "亞力",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1515": {
+    "name": "力山",
+    "canonical": "力山",
+    "sector": "Leisure"
+  },
+  "1516": {
+    "name": "川飛",
+    "canonical": "川飛",
+    "sector": "Thermal Coal"
+  },
+  "1517": {
+    "name": "利奇",
+    "canonical": "利奇",
+    "sector": "Recreational Vehicles"
+  },
+  "1519": {
+    "name": "華城",
+    "canonical": "華城",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1521": {
+    "name": "大億",
+    "canonical": "大億",
+    "sector": "Auto Parts"
+  },
+  "1522": {
+    "name": "堤維西",
+    "canonical": "堤維西",
+    "sector": "Auto Parts"
+  },
+  "1524": {
+    "name": "耿鼎",
+    "canonical": "耿鼎",
+    "sector": "Auto Parts"
+  },
+  "1525": {
+    "name": "江申",
+    "canonical": "江申",
+    "sector": "Auto Parts"
+  },
+  "1526": {
+    "name": "日馳",
+    "canonical": "日馳",
+    "sector": "Leisure"
+  },
+  "1527": {
+    "name": "鑽全",
+    "canonical": "鑽全",
+    "sector": "Tools & Accessories"
+  },
+  "1528": {
+    "name": "恩德",
+    "canonical": "恩德",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1529": {
+    "name": "樂事綠能",
+    "canonical": "樂事綠能",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1530": {
+    "name": "亞崴",
+    "canonical": "亞崴",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1531": {
+    "name": "高林股",
+    "canonical": "高林股",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1532": {
+    "name": "勤美",
+    "canonical": "勤美",
+    "sector": "Metal Fabrication"
+  },
+  "1533": {
+    "name": "車王電",
+    "canonical": "車王電",
+    "sector": "Auto Parts"
+  },
+  "1535": {
+    "name": "中宇",
+    "canonical": "中宇",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "1536": {
+    "name": "和大",
+    "canonical": "和大",
+    "sector": "Auto Parts"
+  },
+  "1537": {
+    "name": "廣隆",
+    "canonical": "廣隆",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1538": {
+    "name": "正峰",
+    "canonical": "正峰",
+    "sector": "Tools & Accessories"
+  },
+  "1539": {
+    "name": "巨庭",
+    "canonical": "巨庭",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1540": {
+    "name": "喬福",
+    "canonical": "喬福",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1541": {
+    "name": "錩泰",
+    "canonical": "錩泰",
+    "sector": "Tools & Accessories"
+  },
+  "1558": {
+    "name": "伸興",
+    "canonical": "伸興",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "1560": {
+    "name": "中砂",
+    "canonical": "中砂",
+    "sector": "Tools & Accessories"
+  },
+  "1563": {
+    "name": "巧新",
+    "canonical": "巧新",
+    "sector": "Auto Parts"
+  },
+  "1568": {
+    "name": "倉佑",
+    "canonical": "倉佑",
+    "sector": "Auto Parts"
+  },
+  "1569": {
+    "name": "濱川",
+    "canonical": "濱川",
+    "sector": "Metal Fabrication"
+  },
+  "1570": {
+    "name": "力肯",
+    "canonical": "力肯",
+    "sector": "Tools & Accessories"
+  },
+  "1580": {
+    "name": "新麥",
+    "canonical": "新麥",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1582": {
+    "name": "信錦",
+    "canonical": "信錦",
+    "sector": "Electronic Components"
+  },
+  "1583": {
+    "name": "程泰",
+    "canonical": "程泰",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1584": {
+    "name": "精剛",
+    "canonical": "精剛",
+    "sector": "Metal Fabrication"
+  },
+  "1586": {
+    "name": "和勤",
+    "canonical": "和勤",
+    "sector": "Metal Fabrication"
+  },
+  "1587": {
+    "name": "吉茂",
+    "canonical": "吉茂",
+    "sector": "Auto Parts"
+  },
+  "1589": {
+    "name": "永冠-KY",
+    "canonical": "永冠-KY",
+    "sector": "Metal Fabrication"
+  },
+  "1590": {
+    "name": "亞德客-KY",
+    "canonical": "亞德客-KY",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1591": {
+    "name": "駿吉-KY",
+    "canonical": "駿吉-KY",
+    "sector": "Tools & Accessories"
+  },
+  "1593": {
+    "name": "祺驊",
+    "canonical": "祺驊",
+    "sector": "Leisure"
+  },
+  "1594": {
+    "name": "日高",
+    "canonical": "日高",
+    "sector": "Engineering & Construction"
+  },
+  "1595": {
+    "name": "川寶",
+    "canonical": "川寶",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "1597": {
+    "name": "直得",
+    "canonical": "直得",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1598": {
+    "name": "岱宇",
+    "canonical": "岱宇",
+    "sector": "Leisure"
+  },
+  "1599": {
+    "name": "宏佳騰",
+    "canonical": "宏佳騰",
+    "sector": "Auto Manufacturers"
+  },
+  "1603": {
+    "name": "華電",
+    "canonical": "華電",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "1604": {
+    "name": "聲寶",
+    "canonical": "聲寶",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "1605": {
+    "name": "華新",
+    "canonical": "華新",
+    "sector": "Steel"
+  },
+  "1608": {
+    "name": "華榮",
+    "canonical": "華榮",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1609": {
+    "name": "大亞",
+    "canonical": "大亞",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1611": {
+    "name": "中電",
+    "canonical": "中電",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "1612": {
+    "name": "宏泰",
+    "canonical": "宏泰",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1614": {
+    "name": "三洋電",
+    "canonical": "三洋電",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "1615": {
+    "name": "大山",
+    "canonical": "大山",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1616": {
+    "name": "億泰",
+    "canonical": "億泰",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1617": {
+    "name": "榮星",
+    "canonical": "榮星",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1618": {
+    "name": "合機",
+    "canonical": "合機",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "1623": {
+    "name": "大東電",
+    "canonical": "大東電",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "1626": {
+    "name": "艾美特-KY",
+    "canonical": "艾美特-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "1708": {
+    "name": "東鹼",
+    "canonical": "東鹼",
+    "sector": "Chemicals"
+  },
+  "1709": {
+    "name": "和益",
+    "canonical": "和益",
+    "sector": "Chemicals"
+  },
+  "1710": {
+    "name": "東聯",
+    "canonical": "東聯",
+    "sector": "Chemicals"
+  },
+  "1711": {
+    "name": "永光",
+    "canonical": "永光",
+    "sector": "Specialty Chemicals"
+  },
+  "1712": {
+    "name": "興農",
+    "canonical": "興農",
+    "sector": "Agricultural Inputs"
+  },
+  "1713": {
+    "name": "國化",
+    "canonical": "國化",
+    "sector": "Specialty Chemicals"
+  },
+  "1714": {
+    "name": "和桐",
+    "canonical": "和桐",
+    "sector": "Chemicals"
+  },
+  "1717": {
+    "name": "長興",
+    "canonical": "長興",
+    "sector": "Specialty Chemicals"
+  },
+  "1718": {
+    "name": "中纖",
+    "canonical": "中纖",
+    "sector": "Specialty Chemicals"
+  },
+  "1721": {
+    "name": "三晃",
+    "canonical": "三晃",
+    "sector": "Chemicals"
+  },
+  "1722": {
+    "name": "台肥",
+    "canonical": "台肥",
+    "sector": "Agricultural Inputs"
+  },
+  "1723": {
+    "name": "中碳",
+    "canonical": "中碳",
+    "sector": "Chemicals"
+  },
+  "1725": {
+    "name": "元禎",
+    "canonical": "元禎",
+    "sector": "Specialty Chemicals"
+  },
+  "1726": {
+    "name": "永記",
+    "canonical": "永記",
+    "sector": "Specialty Chemicals"
+  },
+  "1727": {
+    "name": "中華化",
+    "canonical": "中華化",
+    "sector": "Chemicals"
+  },
+  "1730": {
+    "name": "花仙子",
+    "canonical": "花仙子",
+    "sector": "Household & Personal Products"
+  },
+  "1732": {
+    "name": "毛寶",
+    "canonical": "毛寶",
+    "sector": "Household & Personal Products"
+  },
+  "1735": {
+    "name": "日勝化",
+    "canonical": "日勝化",
+    "sector": "Chemicals"
+  },
+  "1736": {
+    "name": "喬山",
+    "canonical": "喬山",
+    "sector": "Leisure"
+  },
+  "1742": {
+    "name": "台蠟",
+    "canonical": "台蠟",
+    "sector": "Specialty Chemicals"
+  },
+  "1773": {
+    "name": "勝一",
+    "canonical": "勝一",
+    "sector": "Chemicals"
+  },
+  "1776": {
+    "name": "展宇",
+    "canonical": "展宇",
+    "sector": "Chemicals"
+  },
+  "1785": {
+    "name": "光洋科",
+    "canonical": "光洋科",
+    "sector": "Metal Fabrication"
+  },
+  "1802": {
+    "name": "台玻",
+    "canonical": "台玻",
+    "sector": "Building Materials"
+  },
+  "1805": {
+    "name": "寶徠",
+    "canonical": "寶徠",
+    "sector": "Real Estate - Development"
+  },
+  "1806": {
+    "name": "冠軍",
+    "canonical": "冠軍",
+    "sector": "Building Products & Equipment"
+  },
+  "1808": {
+    "name": "潤隆",
+    "canonical": "潤隆",
+    "sector": "Real Estate - Development"
+  },
+  "1809": {
+    "name": "中釉",
+    "canonical": "中釉",
+    "sector": "Building Products & Equipment"
+  },
+  "1810": {
+    "name": "和成",
+    "canonical": "和成",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "1815": {
+    "name": "富喬",
+    "canonical": "富喬",
+    "sector": "Electronic Components"
+  },
+  "1817": {
+    "name": "凱撒衛",
+    "canonical": "凱撒衛",
+    "sector": "Household & Personal Products"
+  },
+  "2002": {
+    "name": "中鋼",
+    "canonical": "中鋼",
+    "sector": "Steel"
+  },
+  "2006": {
+    "name": "東和鋼鐵",
+    "canonical": "東和鋼鐵",
+    "sector": "Steel"
+  },
+  "2007": {
+    "name": "燁興",
+    "canonical": "燁興",
+    "sector": "Steel"
+  },
+  "2008": {
+    "name": "高興昌",
+    "canonical": "高興昌",
+    "sector": "Steel"
+  },
+  "2009": {
+    "name": "第一銅",
+    "canonical": "第一銅",
+    "sector": "Copper"
+  },
+  "2010": {
+    "name": "春源",
+    "canonical": "春源",
+    "sector": "Steel"
+  },
+  "2012": {
+    "name": "春雨",
+    "canonical": "春雨",
+    "sector": "Steel"
+  },
+  "2013": {
+    "name": "中鋼構",
+    "canonical": "中鋼構",
+    "sector": "Steel"
+  },
+  "2014": {
+    "name": "中鴻",
+    "canonical": "中鴻",
+    "sector": "Steel"
+  },
+  "2015": {
+    "name": "豐興",
+    "canonical": "豐興",
+    "sector": "Steel"
+  },
+  "2017": {
+    "name": "官田鋼",
+    "canonical": "官田鋼",
+    "sector": "Steel"
+  },
+  "2020": {
+    "name": "美亞",
+    "canonical": "美亞",
+    "sector": "Steel"
+  },
+  "2022": {
+    "name": "聚亨",
+    "canonical": "聚亨",
+    "sector": "Tools & Accessories"
+  },
+  "2023": {
+    "name": "燁輝",
+    "canonical": "燁輝",
+    "sector": "Steel"
+  },
+  "2024": {
+    "name": "志聯",
+    "canonical": "志聯",
+    "sector": "Steel"
+  },
+  "2025": {
+    "name": "千興",
+    "canonical": "千興",
+    "sector": "Steel"
+  },
+  "2027": {
+    "name": "大成鋼",
+    "canonical": "大成鋼",
+    "sector": "Steel"
+  },
+  "2028": {
+    "name": "威致",
+    "canonical": "威致",
+    "sector": "Steel"
+  },
+  "2029": {
+    "name": "盛餘",
+    "canonical": "盛餘",
+    "sector": "Steel"
+  },
+  "2030": {
+    "name": "彰源",
+    "canonical": "彰源",
+    "sector": "Steel"
+  },
+  "2031": {
+    "name": "新光鋼",
+    "canonical": "新光鋼",
+    "sector": "Steel"
+  },
+  "2032": {
+    "name": "新鋼",
+    "canonical": "新鋼",
+    "sector": "Steel"
+  },
+  "2033": {
+    "name": "佳大",
+    "canonical": "佳大",
+    "sector": "Steel"
+  },
+  "2034": {
+    "name": "允強",
+    "canonical": "允強",
+    "sector": "Steel"
+  },
+  "2035": {
+    "name": "唐榮",
+    "canonical": "唐榮",
+    "sector": "Steel"
+  },
+  "2038": {
+    "name": "海光",
+    "canonical": "海光",
+    "sector": "Steel"
+  },
+  "2049": {
+    "name": "上銀",
+    "canonical": "上銀",
+    "sector": "Tools & Accessories"
+  },
+  "2059": {
+    "name": "川湖",
+    "canonical": "川湖",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "2061": {
+    "name": "風青",
+    "canonical": "風青",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2062": {
+    "name": "橋椿",
+    "canonical": "橋椿",
+    "sector": "Building Products & Equipment"
+  },
+  "2063": {
+    "name": "世鎧",
+    "canonical": "世鎧",
+    "sector": "Tools & Accessories"
+  },
+  "2064": {
+    "name": "晉椿",
+    "canonical": "晉椿",
+    "sector": "Steel"
+  },
+  "2065": {
+    "name": "世豐",
+    "canonical": "世豐",
+    "sector": "Tools & Accessories"
+  },
+  "2066": {
+    "name": "世德",
+    "canonical": "世德",
+    "sector": "Tools & Accessories"
+  },
+  "2067": {
+    "name": "嘉鋼",
+    "canonical": "嘉鋼",
+    "sector": "Metal Fabrication"
+  },
+  "2069": {
+    "name": "運錩",
+    "canonical": "運錩",
+    "sector": "Steel"
+  },
+  "2070": {
+    "name": "精湛",
+    "canonical": "精湛",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2071": {
+    "name": "震南鐵",
+    "canonical": "震南鐵",
+    "sector": "Tools & Accessories"
+  },
+  "2072": {
+    "name": "世紀風電",
+    "canonical": "世紀風電",
+    "sector": "Engineering & Construction"
+  },
+  "2073": {
+    "name": "雄順",
+    "canonical": "雄順",
+    "sector": "Steel"
+  },
+  "2101": {
+    "name": "南港",
+    "canonical": "南港",
+    "sector": "Auto Parts"
+  },
+  "2102": {
+    "name": "泰豐",
+    "canonical": "泰豐",
+    "sector": "Auto Parts"
+  },
+  "2103": {
+    "name": "台橡",
+    "canonical": "台橡",
+    "sector": "Specialty Chemicals"
+  },
+  "2104": {
+    "name": "國際中橡",
+    "canonical": "國際中橡",
+    "sector": "Specialty Chemicals"
+  },
+  "2105": {
+    "name": "正新",
+    "canonical": "正新",
+    "sector": "Auto Parts"
+  },
+  "2106": {
+    "name": "建大",
+    "canonical": "建大",
+    "sector": "Auto Parts"
+  },
+  "2107": {
+    "name": "厚生",
+    "canonical": "厚生",
+    "sector": "Specialty Chemicals"
+  },
+  "2108": {
+    "name": "南帝",
+    "canonical": "南帝",
+    "sector": "Specialty Chemicals"
+  },
+  "2109": {
+    "name": "華豐",
+    "canonical": "華豐",
+    "sector": "Auto Parts"
+  },
+  "2114": {
+    "name": "鑫永銓",
+    "canonical": "鑫永銓",
+    "sector": "Auto Parts"
+  },
+  "2115": {
+    "name": "六暉-KY",
+    "canonical": "六暉-KY",
+    "sector": "Auto Parts"
+  },
+  "2201": {
+    "name": "裕隆",
+    "canonical": "裕隆",
+    "sector": "Auto Manufacturers"
+  },
+  "2204": {
+    "name": "中華",
+    "canonical": "中華",
+    "sector": "Auto Manufacturers"
+  },
+  "2206": {
+    "name": "三陽工業",
+    "canonical": "三陽工業",
+    "sector": "Auto Manufacturers"
+  },
+  "2207": {
+    "name": "和泰車",
+    "canonical": "和泰車",
+    "sector": "Auto & Truck Dealerships"
+  },
+  "2208": {
+    "name": "台船",
+    "canonical": "台船",
+    "sector": "Aerospace & Defense"
+  },
+  "2211": {
+    "name": "長榮鋼",
+    "canonical": "長榮鋼",
+    "sector": "Steel"
+  },
+  "2221": {
+    "name": "大甲",
+    "canonical": "大甲",
+    "sector": "Steel"
+  },
+  "2227": {
+    "name": "裕日車",
+    "canonical": "裕日車",
+    "sector": "Auto Manufacturers"
+  },
+  "2228": {
+    "name": "劍麟",
+    "canonical": "劍麟",
+    "sector": "Auto Parts"
+  },
+  "2230": {
+    "name": "泰茂",
+    "canonical": "泰茂",
+    "sector": "Auto Parts"
+  },
+  "2231": {
+    "name": "為升",
+    "canonical": "為升",
+    "sector": "Auto Parts"
+  },
+  "2233": {
+    "name": "宇隆",
+    "canonical": "宇隆",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2235": {
+    "name": "謚源",
+    "canonical": "謚源",
+    "sector": "Auto Parts"
+  },
+  "2236": {
+    "name": "百達-KY",
+    "canonical": "百達-KY",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2237": {
+    "name": "華德動能",
+    "canonical": "華德動能",
+    "sector": "Auto Manufacturers"
+  },
+  "2239": {
+    "name": "英利-KY",
+    "canonical": "英利-KY",
+    "sector": "Auto Parts"
+  },
+  "2241": {
+    "name": "艾姆勒",
+    "canonical": "艾姆勒",
+    "sector": "Auto Parts"
+  },
+  "2243": {
+    "name": "宏旭-KY",
+    "canonical": "宏旭-KY",
+    "sector": "Auto Parts"
+  },
+  "2245": {
+    "name": "詠勝昌",
+    "canonical": "詠勝昌",
+    "sector": "Auto Parts"
+  },
+  "2247": {
+    "name": "汎德永業",
+    "canonical": "汎德永業",
+    "sector": "Auto & Truck Dealerships"
+  },
+  "2248": {
+    "name": "華勝-KY",
+    "canonical": "華勝-KY",
+    "sector": "Auto Parts"
+  },
+  "2249": {
+    "name": "湧盛",
+    "canonical": "湧盛",
+    "sector": "Auto Parts"
+  },
+  "2250": {
+    "name": "IKKA-KY",
+    "canonical": "IKKA-KY",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2252": {
+    "name": "為昇科",
+    "canonical": "為昇科",
+    "sector": "Auto Parts"
+  },
+  "2254": {
+    "name": "巨鎧精密-創",
+    "canonical": "巨鎧精密-創",
+    "sector": "Auto Parts"
+  },
+  "2255": {
+    "name": "凱銳光電",
+    "canonical": "凱銳光電",
+    "sector": "Auto Parts"
+  },
+  "2256": {
+    "name": "歐特明",
+    "canonical": "歐特明",
+    "sector": "Auto Parts"
+  },
+  "2258": {
+    "name": "鴻華先進-創",
+    "canonical": "鴻華先進-創",
+    "sector": "Auto Manufacturers"
+  },
+  "2301": {
+    "name": "光寶科",
+    "canonical": "光寶科",
+    "sector": "Computer Hardware"
+  },
+  "2302": {
+    "name": "麗正",
+    "canonical": "麗正",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2303": {
+    "name": "聯電",
+    "canonical": "聯電",
+    "sector": "Semiconductors"
+  },
+  "2305": {
+    "name": "全友",
+    "canonical": "全友",
+    "sector": "Computer Hardware"
+  },
+  "2308": {
+    "name": "台達電",
+    "canonical": "台達電",
+    "sector": "Electronic Components"
+  },
+  "2312": {
+    "name": "金寶",
+    "canonical": "金寶",
+    "sector": "Computer Hardware"
+  },
+  "2313": {
+    "name": "華通",
+    "canonical": "華通",
+    "sector": "Electronic Components"
+  },
+  "2314": {
+    "name": "台揚",
+    "canonical": "台揚",
+    "sector": "Communication Equipment"
+  },
+  "2316": {
+    "name": "楠梓電",
+    "canonical": "楠梓電",
+    "sector": "Electronic Components"
+  },
+  "2317": {
+    "name": "鴻海",
+    "canonical": "鴻海",
+    "sector": "Electronic Components"
+  },
+  "2321": {
+    "name": "東訊",
+    "canonical": "東訊",
+    "sector": "Communication Equipment"
+  },
+  "2323": {
+    "name": "中環",
+    "canonical": "中環",
+    "sector": "Computer Hardware"
+  },
+  "2324": {
+    "name": "仁寶",
+    "canonical": "仁寶",
+    "sector": "Computer Hardware"
+  },
+  "2327": {
+    "name": "國巨",
+    "canonical": "國巨",
+    "sector": "Electronic Components"
+  },
+  "2328": {
+    "name": "廣宇",
+    "canonical": "廣宇",
+    "sector": "Electronic Components"
+  },
+  "2329": {
+    "name": "華泰",
+    "canonical": "華泰",
+    "sector": "Semiconductors"
+  },
+  "2330": {
+    "name": "台積電",
+    "canonical": "台積電",
+    "sector": "Semiconductors"
+  },
+  "2331": {
+    "name": "精英",
+    "canonical": "精英",
+    "sector": "Computer Hardware"
+  },
+  "2332": {
+    "name": "友訊",
+    "canonical": "友訊",
+    "sector": "Communication Equipment"
+  },
+  "2337": {
+    "name": "旺宏",
+    "canonical": "旺宏",
+    "sector": "Semiconductors"
+  },
+  "2338": {
+    "name": "光罩",
+    "canonical": "光罩",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2340": {
+    "name": "台亞",
+    "canonical": "台亞",
+    "sector": "Semiconductors"
+  },
+  "2342": {
+    "name": "茂矽",
+    "canonical": "茂矽",
+    "sector": "Semiconductors"
+  },
+  "2344": {
+    "name": "華邦電",
+    "canonical": "華邦電",
+    "sector": "Semiconductors"
+  },
+  "2345": {
+    "name": "智邦",
+    "canonical": "智邦",
+    "sector": "Communication Equipment"
+  },
+  "2347": {
+    "name": "聯強",
+    "canonical": "聯強",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "2348": {
+    "name": "海悅",
+    "canonical": "海悅",
+    "sector": "Real Estate Services"
+  },
+  "2349": {
+    "name": "錸德",
+    "canonical": "錸德",
+    "sector": "Computer Hardware"
+  },
+  "2351": {
+    "name": "順德",
+    "canonical": "順德",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2352": {
+    "name": "佳世達",
+    "canonical": "佳世達",
+    "sector": "Computer Hardware"
+  },
+  "2353": {
+    "name": "宏��",
+    "canonical": "宏��",
+    "sector": "Computer Hardware"
+  },
+  "2354": {
+    "name": "鴻準",
+    "canonical": "鴻準",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "2355": {
+    "name": "敬鵬",
+    "canonical": "敬鵬",
+    "sector": "Electronic Components"
+  },
+  "2356": {
+    "name": "英業達",
+    "canonical": "英業達",
+    "sector": "Computer Hardware"
+  },
+  "2357": {
+    "name": "華碩",
+    "canonical": "華碩",
+    "sector": "Computer Hardware"
+  },
+  "2359": {
+    "name": "所羅門",
+    "canonical": "所羅門",
+    "sector": "Electronic Components"
+  },
+  "2360": {
+    "name": "致茂",
+    "canonical": "致茂",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "2362": {
+    "name": "藍天",
+    "canonical": "藍天",
+    "sector": "Computer Hardware"
+  },
+  "2363": {
+    "name": "矽統",
+    "canonical": "矽統",
+    "sector": "Semiconductors"
+  },
+  "2364": {
+    "name": "倫飛",
+    "canonical": "倫飛",
+    "sector": "Computer Hardware"
+  },
+  "2365": {
+    "name": "昆盈",
+    "canonical": "昆盈",
+    "sector": "Computer Hardware"
+  },
+  "2367": {
+    "name": "燿華",
+    "canonical": "燿華",
+    "sector": "Electronic Components"
+  },
+  "2368": {
+    "name": "金像電",
+    "canonical": "金像電",
+    "sector": "Electronic Components"
+  },
+  "2369": {
+    "name": "菱生",
+    "canonical": "菱生",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2371": {
+    "name": "大同",
+    "canonical": "大同",
+    "sector": "Conglomerates"
+  },
+  "2373": {
+    "name": "震旦行",
+    "canonical": "震旦行",
+    "sector": "Industrial Distribution"
+  },
+  "2374": {
+    "name": "佳能",
+    "canonical": "佳能",
+    "sector": "Electronic Components"
+  },
+  "2375": {
+    "name": "凱美",
+    "canonical": "凱美",
+    "sector": "Electronic Components"
+  },
+  "2376": {
+    "name": "技嘉",
+    "canonical": "技嘉",
+    "sector": "Computer Hardware"
+  },
+  "2377": {
+    "name": "微星",
+    "canonical": "微星",
+    "sector": "Computer Hardware"
+  },
+  "2379": {
+    "name": "瑞昱",
+    "canonical": "瑞昱",
+    "sector": "Semiconductors"
+  },
+  "2380": {
+    "name": "虹光",
+    "canonical": "虹光",
+    "sector": "Computer Hardware"
+  },
+  "2382": {
+    "name": "廣達",
+    "canonical": "廣達",
+    "sector": "Computer Hardware"
+  },
+  "2383": {
+    "name": "台光電",
+    "canonical": "台光電",
+    "sector": "Electronic Components"
+  },
+  "2385": {
+    "name": "群光",
+    "canonical": "群光",
+    "sector": "Computer Hardware"
+  },
+  "2387": {
+    "name": "精元",
+    "canonical": "精元",
+    "sector": "Computer Hardware"
+  },
+  "2388": {
+    "name": "威盛",
+    "canonical": "威盛",
+    "sector": "Semiconductors"
+  },
+  "2390": {
+    "name": "云辰",
+    "canonical": "云辰",
+    "sector": "Security & Protection Services"
+  },
+  "2392": {
+    "name": "正崴",
+    "canonical": "正崴",
+    "sector": "Electronic Components"
+  },
+  "2393": {
+    "name": "億光",
+    "canonical": "億光",
+    "sector": "Electronic Components"
+  },
+  "2395": {
+    "name": "研華",
+    "canonical": "研華",
+    "sector": "Computer Hardware"
+  },
+  "2397": {
+    "name": "友通",
+    "canonical": "友通",
+    "sector": "Computer Hardware"
+  },
+  "2399": {
+    "name": "映泰",
+    "canonical": "映泰",
+    "sector": "Computer Hardware"
+  },
+  "2401": {
+    "name": "凌陽",
+    "canonical": "凌陽",
+    "sector": "Semiconductors"
+  },
+  "2402": {
+    "name": "毅嘉",
+    "canonical": "毅嘉",
+    "sector": "Electronic Components"
+  },
+  "2404": {
+    "name": "漢唐",
+    "canonical": "漢唐",
+    "sector": "Engineering & Construction"
+  },
+  "2405": {
+    "name": "輔信",
+    "canonical": "輔信",
+    "sector": "Computer Hardware"
+  },
+  "2406": {
+    "name": "國碩",
+    "canonical": "國碩",
+    "sector": "Solar"
+  },
+  "2408": {
+    "name": "南亞科",
+    "canonical": "南亞科",
+    "sector": "Semiconductors"
+  },
+  "2409": {
+    "name": "友達",
+    "canonical": "友達",
+    "sector": "Electronic Components"
+  },
+  "2412": {
+    "name": "中華電",
+    "canonical": "中華電",
+    "sector": "Telecom Services"
+  },
+  "2413": {
+    "name": "環科",
+    "canonical": "環科",
+    "sector": "Electronic Components"
+  },
+  "2414": {
+    "name": "精技",
+    "canonical": "精技",
+    "sector": "Computer Hardware"
+  },
+  "2415": {
+    "name": "錩新",
+    "canonical": "錩新",
+    "sector": "Metal Fabrication"
+  },
+  "2417": {
+    "name": "圓剛",
+    "canonical": "圓剛",
+    "sector": "Computer Hardware"
+  },
+  "2419": {
+    "name": "仲琦",
+    "canonical": "仲琦",
+    "sector": "Communication Equipment"
+  },
+  "2420": {
+    "name": "新巨",
+    "canonical": "新巨",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2421": {
+    "name": "建準",
+    "canonical": "建準",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2423": {
+    "name": "固緯",
+    "canonical": "固緯",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "2424": {
+    "name": "隴華",
+    "canonical": "隴華",
+    "sector": "Consumer Electronics"
+  },
+  "2425": {
+    "name": "承啟",
+    "canonical": "承啟",
+    "sector": "Computer Hardware"
+  },
+  "2426": {
+    "name": "鼎元",
+    "canonical": "鼎元",
+    "sector": "Semiconductors"
+  },
+  "2427": {
+    "name": "三商電",
+    "canonical": "三商電",
+    "sector": "Business Equipment & Supplies"
+  },
+  "2428": {
+    "name": "興勤",
+    "canonical": "興勤",
+    "sector": "Electronic Components"
+  },
+  "2429": {
+    "name": "銘旺科",
+    "canonical": "銘旺科",
+    "sector": "Electronic Components"
+  },
+  "2430": {
+    "name": "燦坤",
+    "canonical": "燦坤",
+    "sector": "Specialty Retail"
+  },
+  "2431": {
+    "name": "聯昌",
+    "canonical": "聯昌",
+    "sector": "Electronic Components"
+  },
+  "2432": {
+    "name": "倚天酷��-創",
+    "canonical": "倚天酷��-創",
+    "sector": "Computer Hardware"
+  },
+  "2433": {
+    "name": "互盛電",
+    "canonical": "互盛電",
+    "sector": "Business Equipment & Supplies"
+  },
+  "2434": {
+    "name": "統懋",
+    "canonical": "統懋",
+    "sector": "Semiconductors"
+  },
+  "2436": {
+    "name": "偉詮電",
+    "canonical": "偉詮電",
+    "sector": "Semiconductors"
+  },
+  "2438": {
+    "name": "翔耀",
+    "canonical": "翔耀",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2439": {
+    "name": "美律",
+    "canonical": "美律",
+    "sector": "Consumer Electronics"
+  },
+  "2440": {
+    "name": "太空梭",
+    "canonical": "太空梭",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2441": {
+    "name": "超豐",
+    "canonical": "超豐",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2442": {
+    "name": "新美齊",
+    "canonical": "新美齊",
+    "sector": "Real Estate - Development"
+  },
+  "2444": {
+    "name": "兆勁",
+    "canonical": "兆勁",
+    "sector": "Communication Equipment"
+  },
+  "2449": {
+    "name": "京元電子",
+    "canonical": "京元電子",
+    "sector": "Semiconductors"
+  },
+  "2450": {
+    "name": "神腦",
+    "canonical": "神腦",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "2451": {
+    "name": "創見",
+    "canonical": "創見",
+    "sector": "Computer Hardware"
+  },
+  "2453": {
+    "name": "凌群",
+    "canonical": "凌群",
+    "sector": "Information Technology Services"
+  },
+  "2454": {
+    "name": "聯發科",
+    "canonical": "聯發科",
+    "sector": "Semiconductors"
+  },
+  "2455": {
+    "name": "全新",
+    "canonical": "全新",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2457": {
+    "name": "飛宏",
+    "canonical": "飛宏",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2458": {
+    "name": "義隆",
+    "canonical": "義隆",
+    "sector": "Semiconductors"
+  },
+  "2459": {
+    "name": "敦吉",
+    "canonical": "敦吉",
+    "sector": "Electronic Components"
+  },
+  "2460": {
+    "name": "建通",
+    "canonical": "建通",
+    "sector": "Electronic Components"
+  },
+  "2461": {
+    "name": "光群雷",
+    "canonical": "光群雷",
+    "sector": "Packaging & Containers"
+  },
+  "2462": {
+    "name": "良得電",
+    "canonical": "良得電",
+    "sector": "Consumer Electronics"
+  },
+  "2464": {
+    "name": "盟立",
+    "canonical": "盟立",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2465": {
+    "name": "麗臺",
+    "canonical": "麗臺",
+    "sector": "Computer Hardware"
+  },
+  "2466": {
+    "name": "冠西電",
+    "canonical": "冠西電",
+    "sector": "Electronic Components"
+  },
+  "2467": {
+    "name": "志聖",
+    "canonical": "志聖",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2468": {
+    "name": "華經",
+    "canonical": "華經",
+    "sector": "Information Technology Services"
+  },
+  "2471": {
+    "name": "資通",
+    "canonical": "資通",
+    "sector": "Information Technology Services"
+  },
+  "2472": {
+    "name": "立隆電",
+    "canonical": "立隆電",
+    "sector": "Electronic Components"
+  },
+  "2474": {
+    "name": "可成",
+    "canonical": "可成",
+    "sector": "Metal Fabrication"
+  },
+  "2476": {
+    "name": "鉅祥",
+    "canonical": "鉅祥",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "2477": {
+    "name": "美隆電",
+    "canonical": "美隆電",
+    "sector": "Consumer Electronics"
+  },
+  "2478": {
+    "name": "大毅",
+    "canonical": "大毅",
+    "sector": "Electronic Components"
+  },
+  "2480": {
+    "name": "敦陽科",
+    "canonical": "敦陽科",
+    "sector": "Computer Hardware"
+  },
+  "2481": {
+    "name": "強茂",
+    "canonical": "強茂",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2482": {
+    "name": "連宇",
+    "canonical": "連宇",
+    "sector": "Business Equipment & Supplies"
+  },
+  "2483": {
+    "name": "百容",
+    "canonical": "百容",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2484": {
+    "name": "希華",
+    "canonical": "希華",
+    "sector": "Electronic Components"
+  },
+  "2485": {
+    "name": "兆赫",
+    "canonical": "兆赫",
+    "sector": "Communication Equipment"
+  },
+  "2486": {
+    "name": "一詮",
+    "canonical": "一詮",
+    "sector": "Electronic Components"
+  },
+  "2488": {
+    "name": "漢平",
+    "canonical": "漢平",
+    "sector": "Consumer Electronics"
+  },
+  "2489": {
+    "name": "瑞軒",
+    "canonical": "瑞軒",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "2491": {
+    "name": "吉祥全",
+    "canonical": "吉祥全",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "2492": {
+    "name": "華新科",
+    "canonical": "華新科",
+    "sector": "Electronic Components"
+  },
+  "2493": {
+    "name": "揚博",
+    "canonical": "揚博",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "2495": {
+    "name": "普安",
+    "canonical": "普安",
+    "sector": "Computer Hardware"
+  },
+  "2496": {
+    "name": "卓越",
+    "canonical": "卓越",
+    "sector": "Education & Training Services"
+  },
+  "2497": {
+    "name": "怡利電",
+    "canonical": "怡利電",
+    "sector": "Auto Parts"
+  },
+  "2498": {
+    "name": "宏達電",
+    "canonical": "宏達電",
+    "sector": "Consumer Electronics"
+  },
+  "2501": {
+    "name": "國建",
+    "canonical": "國建",
+    "sector": "Real Estate - Development"
+  },
+  "2504": {
+    "name": "國產",
+    "canonical": "國產",
+    "sector": "Building Materials"
+  },
+  "2505": {
+    "name": "國揚",
+    "canonical": "國揚",
+    "sector": "Real Estate - Development"
+  },
+  "2506": {
+    "name": "太設",
+    "canonical": "太設",
+    "sector": "Real Estate - Development"
+  },
+  "2509": {
+    "name": "全坤建",
+    "canonical": "全坤建",
+    "sector": "Real Estate Services"
+  },
+  "2511": {
+    "name": "太子",
+    "canonical": "太子",
+    "sector": "Real Estate - Development"
+  },
+  "2514": {
+    "name": "龍邦",
+    "canonical": "龍邦",
+    "sector": "Engineering & Construction"
+  },
+  "2515": {
+    "name": "中工",
+    "canonical": "中工",
+    "sector": "Engineering & Construction"
+  },
+  "2516": {
+    "name": "新建",
+    "canonical": "新建",
+    "sector": "Engineering & Construction"
+  },
+  "2520": {
+    "name": "冠德",
+    "canonical": "冠德",
+    "sector": "Real Estate - Diversified"
+  },
+  "2524": {
+    "name": "京城",
+    "canonical": "京城",
+    "sector": "Real Estate - Development"
+  },
+  "2527": {
+    "name": "宏璟",
+    "canonical": "宏璟",
+    "sector": "Real Estate Services"
+  },
+  "2528": {
+    "name": "皇普",
+    "canonical": "皇普",
+    "sector": "Real Estate Services"
+  },
+  "2530": {
+    "name": "華建",
+    "canonical": "華建",
+    "sector": "Engineering & Construction"
+  },
+  "2534": {
+    "name": "宏盛",
+    "canonical": "宏盛",
+    "sector": "Real Estate - Development"
+  },
+  "2535": {
+    "name": "達欣工",
+    "canonical": "達欣工",
+    "sector": "Engineering & Construction"
+  },
+  "2536": {
+    "name": "宏普",
+    "canonical": "宏普",
+    "sector": "Real Estate - Development"
+  },
+  "2537": {
+    "name": "聯上發",
+    "canonical": "聯上發",
+    "sector": "Real Estate - Development"
+  },
+  "2538": {
+    "name": "基泰",
+    "canonical": "基泰",
+    "sector": "Real Estate - Development"
+  },
+  "2539": {
+    "name": "櫻花建",
+    "canonical": "櫻花建",
+    "sector": "Real Estate - Development"
+  },
+  "2540": {
+    "name": "愛山林",
+    "canonical": "愛山林",
+    "sector": "Real Estate Services"
+  },
+  "2542": {
+    "name": "興富發",
+    "canonical": "興富發",
+    "sector": "Real Estate - Development"
+  },
+  "2543": {
+    "name": "皇昌",
+    "canonical": "皇昌",
+    "sector": "Engineering & Construction"
+  },
+  "2545": {
+    "name": "皇翔",
+    "canonical": "皇翔",
+    "sector": "Real Estate - Diversified"
+  },
+  "2546": {
+    "name": "根基",
+    "canonical": "根基",
+    "sector": "Engineering & Construction"
+  },
+  "2547": {
+    "name": "日勝生",
+    "canonical": "日勝生",
+    "sector": "Conglomerates"
+  },
+  "2548": {
+    "name": "華固",
+    "canonical": "華固",
+    "sector": "Real Estate - Development"
+  },
+  "2596": {
+    "name": "綠意",
+    "canonical": "綠意",
+    "sector": "Real Estate - Development"
+  },
+  "2597": {
+    "name": "潤弘",
+    "canonical": "潤弘",
+    "sector": "Engineering & Construction"
+  },
+  "2603": {
+    "name": "長榮",
+    "canonical": "長榮",
+    "sector": "Marine Shipping"
+  },
+  "2605": {
+    "name": "新興",
+    "canonical": "新興",
+    "sector": "Marine Shipping"
+  },
+  "2606": {
+    "name": "裕民",
+    "canonical": "裕民",
+    "sector": "Marine Shipping"
+  },
+  "2607": {
+    "name": "榮運",
+    "canonical": "榮運",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "2608": {
+    "name": "嘉里大榮",
+    "canonical": "嘉里大榮",
+    "sector": "Trucking"
+  },
+  "2609": {
+    "name": "陽明",
+    "canonical": "陽明",
+    "sector": "Marine Shipping"
+  },
+  "2610": {
+    "name": "華航",
+    "canonical": "華航",
+    "sector": "Airlines"
+  },
+  "2611": {
+    "name": "志信",
+    "canonical": "志信",
+    "sector": "Marine Shipping"
+  },
+  "2612": {
+    "name": "中航",
+    "canonical": "中航",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "2613": {
+    "name": "中櫃",
+    "canonical": "中櫃",
+    "sector": "Marine Shipping"
+  },
+  "2614": {
+    "name": "東森",
+    "canonical": "東森",
+    "sector": "Conglomerates"
+  },
+  "2615": {
+    "name": "萬海",
+    "canonical": "萬海",
+    "sector": "Marine Shipping"
+  },
+  "2616": {
+    "name": "山隆",
+    "canonical": "山隆",
+    "sector": "Specialty Retail"
+  },
+  "2617": {
+    "name": "台航",
+    "canonical": "台航",
+    "sector": "Marine Shipping"
+  },
+  "2618": {
+    "name": "長榮航",
+    "canonical": "長榮航",
+    "sector": "Airlines"
+  },
+  "2630": {
+    "name": "亞航",
+    "canonical": "亞航",
+    "sector": "Aerospace & Defense"
+  },
+  "2633": {
+    "name": "台灣高鐵",
+    "canonical": "台灣高鐵",
+    "sector": "Railroads"
+  },
+  "2634": {
+    "name": "漢翔",
+    "canonical": "漢翔",
+    "sector": "Aerospace & Defense"
+  },
+  "2636": {
+    "name": "台驊控股",
+    "canonical": "台驊控股",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "2637": {
+    "name": "慧洋-KY",
+    "canonical": "慧洋-KY",
+    "sector": "Marine Shipping"
+  },
+  "2640": {
+    "name": "大車隊",
+    "canonical": "大車隊",
+    "sector": "Railroads"
+  },
+  "2641": {
+    "name": "正德",
+    "canonical": "正德",
+    "sector": "Marine Shipping"
+  },
+  "2642": {
+    "name": "宅配通",
+    "canonical": "宅配通",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "2643": {
+    "name": "捷迅",
+    "canonical": "捷迅",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "2644": {
+    "name": "中信造船",
+    "canonical": "中信造船",
+    "sector": "Aerospace & Defense"
+  },
+  "2645": {
+    "name": "長榮航太",
+    "canonical": "長榮航太",
+    "sector": "Aerospace & Defense"
+  },
+  "2646": {
+    "name": "星宇航空",
+    "canonical": "星宇航空",
+    "sector": "Airlines"
+  },
+  "2718": {
+    "name": "全心投控",
+    "canonical": "全心投控",
+    "sector": "Real Estate - Development"
+  },
+  "2724": {
+    "name": "藝舍-KY",
+    "canonical": "藝舍-KY",
+    "sector": "Lodging"
+  },
+  "2762": {
+    "name": "世界健身-KY",
+    "canonical": "世界健身-KY",
+    "sector": "Leisure"
+  },
+  "2801": {
+    "name": "彰銀",
+    "canonical": "彰銀",
+    "sector": "Banks - Regional"
+  },
+  "2812": {
+    "name": "台中銀",
+    "canonical": "台中銀",
+    "sector": "Banks"
+  },
+  "2816": {
+    "name": "旺旺保",
+    "canonical": "旺旺保",
+    "sector": "Insurance - Diversified"
+  },
+  "2820": {
+    "name": "華票",
+    "canonical": "華票",
+    "sector": "Capital Markets"
+  },
+  "2832": {
+    "name": "台產",
+    "canonical": "台產",
+    "sector": "Insurance - Property & Casualty"
+  },
+  "2834": {
+    "name": "臺企銀",
+    "canonical": "臺企銀",
+    "sector": "Banks"
+  },
+  "2836": {
+    "name": "高雄銀",
+    "canonical": "高雄銀",
+    "sector": "Banks - Regional"
+  },
+  "2838": {
+    "name": "聯邦銀",
+    "canonical": "聯邦銀",
+    "sector": "Banks - Regional"
+  },
+  "2845": {
+    "name": "遠東銀",
+    "canonical": "遠東銀",
+    "sector": "Banks - Regional"
+  },
+  "2849": {
+    "name": "安泰銀",
+    "canonical": "安泰銀",
+    "sector": "Banks - Regional"
+  },
+  "2850": {
+    "name": "新產",
+    "canonical": "新產",
+    "sector": "Insurance - Property & Casualty"
+  },
+  "2851": {
+    "name": "中再保",
+    "canonical": "中再保",
+    "sector": "Insurance - Reinsurance"
+  },
+  "2852": {
+    "name": "第一保",
+    "canonical": "第一保",
+    "sector": "Insurance - Property & Casualty"
+  },
+  "2855": {
+    "name": "統一證",
+    "canonical": "統一證",
+    "sector": "Capital Markets"
+  },
+  "2867": {
+    "name": "三商壽",
+    "canonical": "三商壽",
+    "sector": "Insurance - Life"
+  },
+  "2880": {
+    "name": "華南金",
+    "canonical": "華南金",
+    "sector": "Banks - Regional"
+  },
+  "2881": {
+    "name": "富邦金",
+    "canonical": "富邦金",
+    "sector": "Insurance - Life"
+  },
+  "2882": {
+    "name": "國泰金",
+    "canonical": "國泰金",
+    "sector": "Insurance - Life"
+  },
+  "2883": {
+    "name": "凱基金",
+    "canonical": "凱基金",
+    "sector": "Insurance - Life"
+  },
+  "2884": {
+    "name": "玉山金",
+    "canonical": "玉山金",
+    "sector": "Banks - Regional"
+  },
+  "2885": {
+    "name": "元大金",
+    "canonical": "元大金",
+    "sector": "Financial Conglomerates"
+  },
+  "2886": {
+    "name": "兆豐金",
+    "canonical": "兆豐金",
+    "sector": "Banks - Regional"
+  },
+  "2887": {
+    "name": "台新新光金",
+    "canonical": "台新新光金",
+    "sector": "Banks - Regional"
+  },
+  "2889": {
+    "name": "國票金",
+    "canonical": "國票金",
+    "sector": "Capital Markets"
+  },
+  "2890": {
+    "name": "永豐金",
+    "canonical": "永豐金",
+    "sector": "Banks - Regional"
+  },
+  "2891": {
+    "name": "中信金",
+    "canonical": "中信金",
+    "sector": "Banks - Regional"
+  },
+  "2892": {
+    "name": "第一金",
+    "canonical": "第一金",
+    "sector": "Banks - Regional"
+  },
+  "2897": {
+    "name": "王道銀行",
+    "canonical": "王道銀行",
+    "sector": "Banks - Regional"
+  },
+  "2904": {
+    "name": "匯僑",
+    "canonical": "匯僑",
+    "sector": "Oil & Gas Equipment & Services"
+  },
+  "2916": {
+    "name": "滿心",
+    "canonical": "滿心",
+    "sector": "Apparel Manufacturing"
+  },
+  "2923": {
+    "name": "鼎固-KY",
+    "canonical": "鼎固-KY",
+    "sector": "Real Estate - Development"
+  },
+  "2924": {
+    "name": "宏太-KY",
+    "canonical": "宏太-KY",
+    "sector": "Apparel Manufacturing"
+  },
+  "2937": {
+    "name": "集雅社",
+    "canonical": "集雅社",
+    "sector": "Specialty Retail"
+  },
+  "2938": {
+    "name": "床的世界",
+    "canonical": "床的世界",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "2941": {
+    "name": "米斯特",
+    "canonical": "米斯特",
+    "sector": "Internet Retail"
+  },
+  "2942": {
+    "name": "京站",
+    "canonical": "京站",
+    "sector": "Department Stores"
+  },
+  "2947": {
+    "name": "振宇五金",
+    "canonical": "振宇五金",
+    "sector": "Specialty Retail"
+  },
+  "2948": {
+    "name": "寶陞",
+    "canonical": "寶陞",
+    "sector": "Home Improvement Retail"
+  },
+  "2949": {
+    "name": "欣新網",
+    "canonical": "欣新網",
+    "sector": "Internet Retail"
+  },
+  "3002": {
+    "name": "歐格",
+    "canonical": "歐格",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3003": {
+    "name": "健和興",
+    "canonical": "健和興",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3004": {
+    "name": "豐達科",
+    "canonical": "豐達科",
+    "sector": "Tools & Accessories"
+  },
+  "3005": {
+    "name": "神基",
+    "canonical": "神基",
+    "sector": "Computer Hardware"
+  },
+  "3006": {
+    "name": "晶豪科",
+    "canonical": "晶豪科",
+    "sector": "Semiconductors"
+  },
+  "3008": {
+    "name": "大立光",
+    "canonical": "大立光",
+    "sector": "Electronic Components"
+  },
+  "3010": {
+    "name": "華立",
+    "canonical": "華立",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3011": {
+    "name": "今皓",
+    "canonical": "今皓",
+    "sector": "Electronic Components"
+  },
+  "3013": {
+    "name": "晟銘電",
+    "canonical": "晟銘電",
+    "sector": "Computer Hardware"
+  },
+  "3014": {
+    "name": "聯陽",
+    "canonical": "聯陽",
+    "sector": "Semiconductors"
+  },
+  "3015": {
+    "name": "全漢",
+    "canonical": "全漢",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3016": {
+    "name": "嘉晶",
+    "canonical": "嘉晶",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3017": {
+    "name": "奇鋐",
+    "canonical": "奇鋐",
+    "sector": "Electronic Components"
+  },
+  "3018": {
+    "name": "隆銘綠能",
+    "canonical": "隆銘綠能",
+    "sector": "Engineering & Construction"
+  },
+  "3019": {
+    "name": "亞光",
+    "canonical": "亞光",
+    "sector": "Electronic Components"
+  },
+  "3021": {
+    "name": "鴻名",
+    "canonical": "鴻名",
+    "sector": "Computer Hardware"
+  },
+  "3022": {
+    "name": "威強電",
+    "canonical": "威強電",
+    "sector": "Computer Hardware"
+  },
+  "3023": {
+    "name": "信邦",
+    "canonical": "信邦",
+    "sector": "Electronic Components"
+  },
+  "3024": {
+    "name": "憶聲",
+    "canonical": "憶聲",
+    "sector": "Consumer Electronics"
+  },
+  "3025": {
+    "name": "星通",
+    "canonical": "星通",
+    "sector": "Communication Equipment"
+  },
+  "3026": {
+    "name": "禾伸堂",
+    "canonical": "禾伸堂",
+    "sector": "Electronic Components"
+  },
+  "3027": {
+    "name": "盛達",
+    "canonical": "盛達",
+    "sector": "Conglomerates"
+  },
+  "3028": {
+    "name": "增你強",
+    "canonical": "增你強",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3029": {
+    "name": "零壹",
+    "canonical": "零壹",
+    "sector": "Computer Hardware"
+  },
+  "3030": {
+    "name": "德律",
+    "canonical": "德律",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "3031": {
+    "name": "佰鴻",
+    "canonical": "佰鴻",
+    "sector": "Electronic Components"
+  },
+  "3032": {
+    "name": "偉訓",
+    "canonical": "偉訓",
+    "sector": "Computer Hardware"
+  },
+  "3033": {
+    "name": "威健",
+    "canonical": "威健",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3034": {
+    "name": "聯詠",
+    "canonical": "聯詠",
+    "sector": "Semiconductors"
+  },
+  "3035": {
+    "name": "智原",
+    "canonical": "智原",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3036": {
+    "name": "文曄",
+    "canonical": "文曄",
+    "sector": "Electronic Components"
+  },
+  "3037": {
+    "name": "欣興",
+    "canonical": "欣興",
+    "sector": "Electronic Components"
+  },
+  "3038": {
+    "name": "全台",
+    "canonical": "全台",
+    "sector": "Electronic Components"
+  },
+  "3040": {
+    "name": "遠見",
+    "canonical": "遠見",
+    "sector": "Consumer Electronics"
+  },
+  "3041": {
+    "name": "揚智",
+    "canonical": "揚智",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3042": {
+    "name": "晶技",
+    "canonical": "晶技",
+    "sector": "Electronic Components"
+  },
+  "3043": {
+    "name": "科風",
+    "canonical": "科風",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3044": {
+    "name": "健鼎",
+    "canonical": "健鼎",
+    "sector": "Electronic Components"
+  },
+  "3045": {
+    "name": "台灣大",
+    "canonical": "台灣大",
+    "sector": "Specialty Retail"
+  },
+  "3046": {
+    "name": "建��",
+    "canonical": "建��",
+    "sector": "Computer Hardware"
+  },
+  "3047": {
+    "name": "訊舟",
+    "canonical": "訊舟",
+    "sector": "Communication Equipment"
+  },
+  "3048": {
+    "name": "益登",
+    "canonical": "益登",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3049": {
+    "name": "精金",
+    "canonical": "精金",
+    "sector": "Electronic Components"
+  },
+  "3050": {
+    "name": "鈺德",
+    "canonical": "鈺德",
+    "sector": "Consumer Electronics"
+  },
+  "3051": {
+    "name": "力特",
+    "canonical": "力特",
+    "sector": "Electronic Components"
+  },
+  "3052": {
+    "name": "夆典",
+    "canonical": "夆典",
+    "sector": "Engineering & Construction"
+  },
+  "3055": {
+    "name": "蔚華科",
+    "canonical": "蔚華科",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3056": {
+    "name": "富華新",
+    "canonical": "富華新",
+    "sector": "Real Estate - Development"
+  },
+  "3057": {
+    "name": "喬鼎",
+    "canonical": "喬鼎",
+    "sector": "Computer Hardware"
+  },
+  "3058": {
+    "name": "立德",
+    "canonical": "立德",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3059": {
+    "name": "華晶科",
+    "canonical": "華晶科",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "3060": {
+    "name": "銘異",
+    "canonical": "銘異",
+    "sector": "Electronic Components"
+  },
+  "3062": {
+    "name": "建漢",
+    "canonical": "建漢",
+    "sector": "Communication Equipment"
+  },
+  "3066": {
+    "name": "李洲",
+    "canonical": "李洲",
+    "sector": "Electronic Components"
+  },
+  "3067": {
+    "name": "全域",
+    "canonical": "全域",
+    "sector": "Consumer Electronics"
+  },
+  "3071": {
+    "name": "協禧",
+    "canonical": "協禧",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3073": {
+    "name": "天方能源",
+    "canonical": "天方能源",
+    "sector": "Semiconductors"
+  },
+  "3078": {
+    "name": "僑威",
+    "canonical": "僑威",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3081": {
+    "name": "聯亞",
+    "canonical": "聯亞",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3085": {
+    "name": "新零售",
+    "canonical": "新零售",
+    "sector": "Internet Content & Information"
+  },
+  "3088": {
+    "name": "艾訊",
+    "canonical": "艾訊",
+    "sector": "Computer Hardware"
+  },
+  "3090": {
+    "name": "日電貿",
+    "canonical": "日電貿",
+    "sector": "Electronic Components"
+  },
+  "3092": {
+    "name": "鴻碩",
+    "canonical": "鴻碩",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3093": {
+    "name": "港建",
+    "canonical": "港建",
+    "sector": "Electronic Components"
+  },
+  "3094": {
+    "name": "聯傑",
+    "canonical": "聯傑",
+    "sector": "Semiconductors"
+  },
+  "3095": {
+    "name": "及成",
+    "canonical": "及成",
+    "sector": "Electronic Components"
+  },
+  "3097": {
+    "name": "拍檔",
+    "canonical": "拍檔",
+    "sector": "Computer Hardware"
+  },
+  "3105": {
+    "name": "穩懋",
+    "canonical": "穩懋",
+    "sector": "Semiconductors"
+  },
+  "3114": {
+    "name": "好德",
+    "canonical": "好德",
+    "sector": "Industrial Distribution"
+  },
+  "3115": {
+    "name": "富榮綱",
+    "canonical": "富榮綱",
+    "sector": "Electronic Components"
+  },
+  "3117": {
+    "name": "年程",
+    "canonical": "年程",
+    "sector": "Electronic Components"
+  },
+  "3122": {
+    "name": "笙泉",
+    "canonical": "笙泉",
+    "sector": "Semiconductors"
+  },
+  "3128": {
+    "name": "昇銳",
+    "canonical": "昇銳",
+    "sector": "Electronic Components"
+  },
+  "3130": {
+    "name": "一零四",
+    "canonical": "一零四",
+    "sector": "Staffing & Employment Services"
+  },
+  "3131": {
+    "name": "弘塑",
+    "canonical": "弘塑",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3135": {
+    "name": "凌航",
+    "canonical": "凌航",
+    "sector": "Semiconductors"
+  },
+  "3138": {
+    "name": "耀登",
+    "canonical": "耀登",
+    "sector": "Communication Equipment"
+  },
+  "3141": {
+    "name": "晶宏",
+    "canonical": "晶宏",
+    "sector": "Semiconductors"
+  },
+  "3147": {
+    "name": "大綜",
+    "canonical": "大綜",
+    "sector": "Information Technology Services"
+  },
+  "3149": {
+    "name": "正達",
+    "canonical": "正達",
+    "sector": "Electronic Components"
+  },
+  "3150": {
+    "name": "鈺寶-創",
+    "canonical": "鈺寶-創",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3152": {
+    "name": "璟德",
+    "canonical": "璟德",
+    "sector": "Electronic Components"
+  },
+  "3158": {
+    "name": "嘉實",
+    "canonical": "嘉實",
+    "sector": "Information Technology Services"
+  },
+  "3162": {
+    "name": "精確",
+    "canonical": "精確",
+    "sector": "Auto Parts"
+  },
+  "3163": {
+    "name": "波若威",
+    "canonical": "波若威",
+    "sector": "Communication Equipment"
+  },
+  "3167": {
+    "name": "大量",
+    "canonical": "大量",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3168": {
+    "name": "眾福科",
+    "canonical": "眾福科",
+    "sector": "Electronic Components"
+  },
+  "3169": {
+    "name": "亞信",
+    "canonical": "亞信",
+    "sector": "Semiconductors"
+  },
+  "3171": {
+    "name": "炎洲流通",
+    "canonical": "炎洲流通",
+    "sector": "Packaging & Containers"
+  },
+  "3178": {
+    "name": "公準",
+    "canonical": "公準",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3188": {
+    "name": "鑫龍騰",
+    "canonical": "鑫龍騰",
+    "sector": "Real Estate - Development"
+  },
+  "3189": {
+    "name": "景碩",
+    "canonical": "景碩",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3191": {
+    "name": "雲嘉南",
+    "canonical": "雲嘉南",
+    "sector": "Electronic Components"
+  },
+  "3206": {
+    "name": "志豐",
+    "canonical": "志豐",
+    "sector": "Electronic Components"
+  },
+  "3207": {
+    "name": "耀勝",
+    "canonical": "耀勝",
+    "sector": "Electronic Components"
+  },
+  "3209": {
+    "name": "全科",
+    "canonical": "全科",
+    "sector": "Communication Equipment"
+  },
+  "3211": {
+    "name": "順達",
+    "canonical": "順達",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3213": {
+    "name": "茂訊",
+    "canonical": "茂訊",
+    "sector": "Computer Hardware"
+  },
+  "3217": {
+    "name": "優群",
+    "canonical": "優群",
+    "sector": "Electronic Components"
+  },
+  "3219": {
+    "name": "倚強科",
+    "canonical": "倚強科",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3221": {
+    "name": "台嘉碩",
+    "canonical": "台嘉碩",
+    "sector": "Communication Equipment"
+  },
+  "3224": {
+    "name": "三顧",
+    "canonical": "三顧",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3226": {
+    "name": "龍鋒",
+    "canonical": "龍鋒",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3227": {
+    "name": "原相",
+    "canonical": "原相",
+    "sector": "Semiconductors"
+  },
+  "3228": {
+    "name": "金麗科",
+    "canonical": "金麗科",
+    "sector": "Semiconductors"
+  },
+  "3229": {
+    "name": "晟鈦",
+    "canonical": "晟鈦",
+    "sector": "Electronic Components"
+  },
+  "3230": {
+    "name": "錦明",
+    "canonical": "錦明",
+    "sector": "Electronic Components"
+  },
+  "3231": {
+    "name": "緯創",
+    "canonical": "緯創",
+    "sector": "Computer Hardware"
+  },
+  "3232": {
+    "name": "昱捷",
+    "canonical": "昱捷",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3234": {
+    "name": "光環",
+    "canonical": "光環",
+    "sector": "Semiconductors"
+  },
+  "3236": {
+    "name": "千如",
+    "canonical": "千如",
+    "sector": "Electronic Components"
+  },
+  "3257": {
+    "name": "虹冠電",
+    "canonical": "虹冠電",
+    "sector": "Semiconductors"
+  },
+  "3259": {
+    "name": "鑫創",
+    "canonical": "鑫創",
+    "sector": "Semiconductors"
+  },
+  "3260": {
+    "name": "威剛",
+    "canonical": "威剛",
+    "sector": "Semiconductors"
+  },
+  "3264": {
+    "name": "欣銓",
+    "canonical": "欣銓",
+    "sector": "Semiconductors"
+  },
+  "3265": {
+    "name": "台星科",
+    "canonical": "台星科",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3266": {
+    "name": "昇陽",
+    "canonical": "昇陽",
+    "sector": "Real Estate Services"
+  },
+  "3268": {
+    "name": "海德威",
+    "canonical": "海德威",
+    "sector": "Semiconductors"
+  },
+  "3272": {
+    "name": "東碩",
+    "canonical": "東碩",
+    "sector": "Computer Hardware"
+  },
+  "3276": {
+    "name": "宇環",
+    "canonical": "宇環",
+    "sector": "Electronic Components"
+  },
+  "3284": {
+    "name": "太普高",
+    "canonical": "太普高",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3285": {
+    "name": "微端",
+    "canonical": "微端",
+    "sector": "Electronic Components"
+  },
+  "3287": {
+    "name": "廣寰科",
+    "canonical": "廣寰科",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3288": {
+    "name": "點晶",
+    "canonical": "點晶",
+    "sector": "Semiconductors"
+  },
+  "3289": {
+    "name": "宜特",
+    "canonical": "宜特",
+    "sector": "Semiconductors"
+  },
+  "3290": {
+    "name": "東浦",
+    "canonical": "東浦",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3294": {
+    "name": "英濟",
+    "canonical": "英濟",
+    "sector": "Electronic Components"
+  },
+  "3296": {
+    "name": "勝德",
+    "canonical": "勝德",
+    "sector": "Consumer Electronics"
+  },
+  "3297": {
+    "name": "杭特",
+    "canonical": "杭特",
+    "sector": "Security & Protection Services"
+  },
+  "3303": {
+    "name": "岱稜",
+    "canonical": "岱稜",
+    "sector": "Metal Fabrication"
+  },
+  "3305": {
+    "name": "昇貿",
+    "canonical": "昇貿",
+    "sector": "Electronic Components"
+  },
+  "3306": {
+    "name": "鼎天",
+    "canonical": "鼎天",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "3308": {
+    "name": "聯德",
+    "canonical": "聯德",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3310": {
+    "name": "佳穎",
+    "canonical": "佳穎",
+    "sector": "Electronic Components"
+  },
+  "3311": {
+    "name": "閎暉",
+    "canonical": "閎暉",
+    "sector": "Electronic Components"
+  },
+  "3312": {
+    "name": "弘憶股",
+    "canonical": "弘憶股",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3313": {
+    "name": "斐成",
+    "canonical": "斐成",
+    "sector": "Engineering & Construction"
+  },
+  "3317": {
+    "name": "尼克森",
+    "canonical": "尼克森",
+    "sector": "Semiconductors"
+  },
+  "3321": {
+    "name": "同泰",
+    "canonical": "同泰",
+    "sector": "Electronic Components"
+  },
+  "3322": {
+    "name": "建舜電",
+    "canonical": "建舜電",
+    "sector": "Electronic Components"
+  },
+  "3323": {
+    "name": "加百裕",
+    "canonical": "加百裕",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3324": {
+    "name": "雙鴻",
+    "canonical": "雙鴻",
+    "sector": "Computer Hardware"
+  },
+  "3325": {
+    "name": "旭品",
+    "canonical": "旭品",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3332": {
+    "name": "幸康",
+    "canonical": "幸康",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3338": {
+    "name": "泰碩",
+    "canonical": "泰碩",
+    "sector": "Electronic Components"
+  },
+  "3339": {
+    "name": "泰谷",
+    "canonical": "泰谷",
+    "sector": "Semiconductors"
+  },
+  "3346": {
+    "name": "麗清",
+    "canonical": "麗清",
+    "sector": "Auto Parts"
+  },
+  "3349": {
+    "name": "寶德",
+    "canonical": "寶德",
+    "sector": "Computer Hardware"
+  },
+  "3354": {
+    "name": "律勝",
+    "canonical": "律勝",
+    "sector": "Electronic Components"
+  },
+  "3356": {
+    "name": "奇偶",
+    "canonical": "奇偶",
+    "sector": "Security & Protection Services"
+  },
+  "3357": {
+    "name": "臺慶科",
+    "canonical": "臺慶科",
+    "sector": "Electronic Components"
+  },
+  "3360": {
+    "name": "尚立",
+    "canonical": "尚立",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3362": {
+    "name": "先進光",
+    "canonical": "先進光",
+    "sector": "Electronic Components"
+  },
+  "3363": {
+    "name": "上詮",
+    "canonical": "上詮",
+    "sector": "Communication Equipment"
+  },
+  "3372": {
+    "name": "典範",
+    "canonical": "典範",
+    "sector": "Semiconductors"
+  },
+  "3373": {
+    "name": "熱映",
+    "canonical": "熱映",
+    "sector": "Medical Devices"
+  },
+  "3374": {
+    "name": "精材",
+    "canonical": "精材",
+    "sector": "Semiconductors"
+  },
+  "3376": {
+    "name": "新日興",
+    "canonical": "新日興",
+    "sector": "Metal Fabrication"
+  },
+  "3379": {
+    "name": "彬台",
+    "canonical": "彬台",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3380": {
+    "name": "明泰",
+    "canonical": "明泰",
+    "sector": "Communication Equipment"
+  },
+  "3388": {
+    "name": "崇越電",
+    "canonical": "崇越電",
+    "sector": "Specialty Chemicals"
+  },
+  "3390": {
+    "name": "旭軟",
+    "canonical": "旭軟",
+    "sector": "Electronic Components"
+  },
+  "3402": {
+    "name": "漢科",
+    "canonical": "漢科",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3406": {
+    "name": "玉晶光",
+    "canonical": "玉晶光",
+    "sector": "Computer Hardware"
+  },
+  "3413": {
+    "name": "京鼎",
+    "canonical": "京鼎",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3416": {
+    "name": "融程電",
+    "canonical": "融程電",
+    "sector": "Electronic Components"
+  },
+  "3419": {
+    "name": "譁裕",
+    "canonical": "譁裕",
+    "sector": "Communication Equipment"
+  },
+  "3426": {
+    "name": "台興",
+    "canonical": "台興",
+    "sector": "Electronic Components"
+  },
+  "3430": {
+    "name": "奇鈦科",
+    "canonical": "奇鈦科",
+    "sector": "Specialty Chemicals"
+  },
+  "3432": {
+    "name": "台端",
+    "canonical": "台端",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3434": {
+    "name": "哲固",
+    "canonical": "哲固",
+    "sector": "Computer Hardware"
+  },
+  "3437": {
+    "name": "榮創",
+    "canonical": "榮創",
+    "sector": "Semiconductors"
+  },
+  "3438": {
+    "name": "類比科",
+    "canonical": "類比科",
+    "sector": "Semiconductors"
+  },
+  "3441": {
+    "name": "聯一光",
+    "canonical": "聯一光",
+    "sector": "Electronic Components"
+  },
+  "3443": {
+    "name": "創意",
+    "canonical": "創意",
+    "sector": "Semiconductors"
+  },
+  "3444": {
+    "name": "利機",
+    "canonical": "利機",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3447": {
+    "name": "展達",
+    "canonical": "展達",
+    "sector": "Communication Equipment"
+  },
+  "3450": {
+    "name": "聯鈞",
+    "canonical": "聯鈞",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3454": {
+    "name": "晶睿",
+    "canonical": "晶睿",
+    "sector": "Security & Protection Services"
+  },
+  "3455": {
+    "name": "由田",
+    "canonical": "由田",
+    "sector": "Electronic Components"
+  },
+  "3465": {
+    "name": "進泰電子",
+    "canonical": "進泰電子",
+    "sector": "Consumer Electronics"
+  },
+  "3466": {
+    "name": "德晉",
+    "canonical": "德晉",
+    "sector": "Communication Equipment"
+  },
+  "3467": {
+    "name": "台灣精材",
+    "canonical": "台灣精材",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3479": {
+    "name": "安勤",
+    "canonical": "安勤",
+    "sector": "Computer Hardware"
+  },
+  "3481": {
+    "name": "群創",
+    "canonical": "群創",
+    "sector": "Electronic Components"
+  },
+  "3483": {
+    "name": "力致",
+    "canonical": "力致",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3484": {
+    "name": "崧騰",
+    "canonical": "崧騰",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3485": {
+    "name": "敘豐",
+    "canonical": "敘豐",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3489": {
+    "name": "森寶",
+    "canonical": "森寶",
+    "sector": "Real Estate - Development"
+  },
+  "3490": {
+    "name": "單井",
+    "canonical": "單井",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3491": {
+    "name": "昇達科",
+    "canonical": "昇達科",
+    "sector": "Communication Equipment"
+  },
+  "3492": {
+    "name": "長盛",
+    "canonical": "長盛",
+    "sector": "Electronic Components"
+  },
+  "3494": {
+    "name": "誠研",
+    "canonical": "誠研",
+    "sector": "Computer Hardware"
+  },
+  "3498": {
+    "name": "陽程",
+    "canonical": "陽程",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3499": {
+    "name": "環天科",
+    "canonical": "環天科",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "3501": {
+    "name": "維熹",
+    "canonical": "維熹",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3504": {
+    "name": "揚明光",
+    "canonical": "揚明光",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3508": {
+    "name": "位速",
+    "canonical": "位速",
+    "sector": "Specialty Chemicals"
+  },
+  "3511": {
+    "name": "矽瑪",
+    "canonical": "矽瑪",
+    "sector": "Electronic Components"
+  },
+  "3512": {
+    "name": "皇龍",
+    "canonical": "皇龍",
+    "sector": "Real Estate Services"
+  },
+  "3515": {
+    "name": "華擎",
+    "canonical": "華擎",
+    "sector": "Computer Hardware"
+  },
+  "3516": {
+    "name": "亞帝歐",
+    "canonical": "亞帝歐",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "3518": {
+    "name": "柏騰",
+    "canonical": "柏騰",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3520": {
+    "name": "華盈",
+    "canonical": "華盈",
+    "sector": "Electronic Components"
+  },
+  "3521": {
+    "name": "台鋼建設",
+    "canonical": "台鋼建設",
+    "sector": "Engineering & Construction"
+  },
+  "3523": {
+    "name": "迎輝",
+    "canonical": "迎輝",
+    "sector": "Electronic Components"
+  },
+  "3526": {
+    "name": "凡甲",
+    "canonical": "凡甲",
+    "sector": "Electronic Components"
+  },
+  "3527": {
+    "name": "聚積",
+    "canonical": "聚積",
+    "sector": "Semiconductors"
+  },
+  "3528": {
+    "name": "安馳",
+    "canonical": "安馳",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3529": {
+    "name": "力旺",
+    "canonical": "力旺",
+    "sector": "Semiconductors"
+  },
+  "3530": {
+    "name": "晶相光",
+    "canonical": "晶相光",
+    "sector": "Semiconductors"
+  },
+  "3531": {
+    "name": "先益",
+    "canonical": "先益",
+    "sector": "Semiconductors"
+  },
+  "3532": {
+    "name": "台勝科",
+    "canonical": "台勝科",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3533": {
+    "name": "嘉澤",
+    "canonical": "嘉澤",
+    "sector": "Electronic Components"
+  },
+  "3535": {
+    "name": "晶彩科",
+    "canonical": "晶彩科",
+    "sector": "Computer Hardware"
+  },
+  "3537": {
+    "name": "堡達",
+    "canonical": "堡達",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3540": {
+    "name": "曜越",
+    "canonical": "曜越",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3541": {
+    "name": "西柏",
+    "canonical": "西柏",
+    "sector": "Consumer Electronics"
+  },
+  "3543": {
+    "name": "州巧",
+    "canonical": "州巧",
+    "sector": "Electronic Components"
+  },
+  "3545": {
+    "name": "敦泰",
+    "canonical": "敦泰",
+    "sector": "Semiconductors"
+  },
+  "3548": {
+    "name": "兆利",
+    "canonical": "兆利",
+    "sector": "Electronic Components"
+  },
+  "3550": {
+    "name": "聯穎",
+    "canonical": "聯穎",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3551": {
+    "name": "世禾",
+    "canonical": "世禾",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3552": {
+    "name": "同致",
+    "canonical": "同致",
+    "sector": "Auto Parts"
+  },
+  "3555": {
+    "name": "博士旺",
+    "canonical": "博士旺",
+    "sector": "Software - Infrastructure"
+  },
+  "3556": {
+    "name": "禾瑞亞",
+    "canonical": "禾瑞亞",
+    "sector": "Semiconductors"
+  },
+  "3557": {
+    "name": "嘉威",
+    "canonical": "嘉威",
+    "sector": "Household & Personal Products"
+  },
+  "3558": {
+    "name": "神準",
+    "canonical": "神準",
+    "sector": "Communication Equipment"
+  },
+  "3563": {
+    "name": "牧德",
+    "canonical": "牧德",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "3564": {
+    "name": "其陽",
+    "canonical": "其陽",
+    "sector": "Computer Hardware"
+  },
+  "3567": {
+    "name": "逸昌",
+    "canonical": "逸昌",
+    "sector": "Semiconductors"
+  },
+  "3570": {
+    "name": "大塚",
+    "canonical": "大塚",
+    "sector": "Software - Application"
+  },
+  "3576": {
+    "name": "聯合再生",
+    "canonical": "聯合再生",
+    "sector": "Solar"
+  },
+  "3577": {
+    "name": "泓格",
+    "canonical": "泓格",
+    "sector": "Communication Equipment"
+  },
+  "3580": {
+    "name": "友威科",
+    "canonical": "友威科",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3581": {
+    "name": "博磊",
+    "canonical": "博磊",
+    "sector": "Semiconductors"
+  },
+  "3583": {
+    "name": "辛耘",
+    "canonical": "辛耘",
+    "sector": "Semiconductors"
+  },
+  "3585": {
+    "name": "聯致",
+    "canonical": "聯致",
+    "sector": "Electronic Components"
+  },
+  "3587": {
+    "name": "閎康",
+    "canonical": "閎康",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "3588": {
+    "name": "通嘉",
+    "canonical": "通嘉",
+    "sector": "Semiconductors"
+  },
+  "3591": {
+    "name": "艾笛森",
+    "canonical": "艾笛森",
+    "sector": "Electronic Components"
+  },
+  "3592": {
+    "name": "瑞鼎",
+    "canonical": "瑞鼎",
+    "sector": "Semiconductors"
+  },
+  "3593": {
+    "name": "力銘",
+    "canonical": "力銘",
+    "sector": "Electronic Components"
+  },
+  "3594": {
+    "name": "磐儀",
+    "canonical": "磐儀",
+    "sector": "Computer Hardware"
+  },
+  "3595": {
+    "name": "山太士",
+    "canonical": "山太士",
+    "sector": "Electronic Components"
+  },
+  "3596": {
+    "name": "智易",
+    "canonical": "智易",
+    "sector": "Communication Equipment"
+  },
+  "3597": {
+    "name": "映興",
+    "canonical": "映興",
+    "sector": "Electronic Components"
+  },
+  "3603": {
+    "name": "建祥國際",
+    "canonical": "建祥國際",
+    "sector": "Electronic Components"
+  },
+  "3605": {
+    "name": "宏致",
+    "canonical": "宏致",
+    "sector": "Electronic Components"
+  },
+  "3607": {
+    "name": "谷崧",
+    "canonical": "谷崧",
+    "sector": "Packaging & Containers"
+  },
+  "3609": {
+    "name": "三一東林",
+    "canonical": "三一東林",
+    "sector": "Electronic Components"
+  },
+  "3611": {
+    "name": "鼎翰",
+    "canonical": "鼎翰",
+    "sector": "Computer Hardware"
+  },
+  "3615": {
+    "name": "安可",
+    "canonical": "安可",
+    "sector": "Electronic Components"
+  },
+  "3616": {
+    "name": "泓辰",
+    "canonical": "泓辰",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "3617": {
+    "name": "碩天",
+    "canonical": "碩天",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3622": {
+    "name": "洋華",
+    "canonical": "洋華",
+    "sector": "Electronic Components"
+  },
+  "3623": {
+    "name": "富晶通",
+    "canonical": "富晶通",
+    "sector": "Electronic Components"
+  },
+  "3624": {
+    "name": "光頡",
+    "canonical": "光頡",
+    "sector": "Electronic Components"
+  },
+  "3625": {
+    "name": "西勝",
+    "canonical": "西勝",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3628": {
+    "name": "盈正",
+    "canonical": "盈正",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3630": {
+    "name": "新鉅科",
+    "canonical": "新鉅科",
+    "sector": "Electronic Components"
+  },
+  "3631": {
+    "name": "晟楠",
+    "canonical": "晟楠",
+    "sector": "Metal Fabrication"
+  },
+  "3632": {
+    "name": "研勤",
+    "canonical": "研勤",
+    "sector": "Software - Application"
+  },
+  "3633": {
+    "name": "云光",
+    "canonical": "云光",
+    "sector": "Electronic Components"
+  },
+  "3645": {
+    "name": "達邁",
+    "canonical": "達邁",
+    "sector": "Electronic Components"
+  },
+  "3646": {
+    "name": "艾恩特",
+    "canonical": "艾恩特",
+    "sector": "Electronic Components"
+  },
+  "3652": {
+    "name": "精聯",
+    "canonical": "精聯",
+    "sector": "Computer Hardware"
+  },
+  "3653": {
+    "name": "健策",
+    "canonical": "健策",
+    "sector": "Electronic Components"
+  },
+  "3659": {
+    "name": "百辰",
+    "canonical": "百辰",
+    "sector": "Computer Hardware"
+  },
+  "3661": {
+    "name": "世芯-KY",
+    "canonical": "世芯-KY",
+    "sector": "Semiconductors"
+  },
+  "3663": {
+    "name": "鑫科",
+    "canonical": "鑫科",
+    "sector": "Metal Fabrication"
+  },
+  "3664": {
+    "name": "安瑞-KY",
+    "canonical": "安瑞-KY",
+    "sector": "Communication Equipment"
+  },
+  "3665": {
+    "name": "貿聯-KY",
+    "canonical": "貿聯-KY",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "3666": {
+    "name": "光耀",
+    "canonical": "光耀",
+    "sector": "Electronic Components"
+  },
+  "3669": {
+    "name": "圓展",
+    "canonical": "圓展",
+    "sector": "Consumer Electronics"
+  },
+  "3672": {
+    "name": "康聯訊",
+    "canonical": "康聯訊",
+    "sector": "Communication Equipment"
+  },
+  "3673": {
+    "name": "TPK-KY",
+    "canonical": "TPK-KY",
+    "sector": "Electronic Components"
+  },
+  "3675": {
+    "name": "德微",
+    "canonical": "德微",
+    "sector": "Electronic Components"
+  },
+  "3678": {
+    "name": "聯享",
+    "canonical": "聯享",
+    "sector": "Chemicals"
+  },
+  "3679": {
+    "name": "新至陞",
+    "canonical": "新至陞",
+    "sector": "Electronic Components"
+  },
+  "3680": {
+    "name": "家登",
+    "canonical": "家登",
+    "sector": "Semiconductors"
+  },
+  "3684": {
+    "name": "榮昌",
+    "canonical": "榮昌",
+    "sector": "Electronic Components"
+  },
+  "3685": {
+    "name": "元創精密",
+    "canonical": "元創精密",
+    "sector": "Auto Parts"
+  },
+  "3686": {
+    "name": "達能",
+    "canonical": "達能",
+    "sector": "Solar"
+  },
+  "3687": {
+    "name": "歐買尬",
+    "canonical": "歐買尬",
+    "sector": "Electronic Gaming & Multimedia"
+  },
+  "3689": {
+    "name": "湧德",
+    "canonical": "湧德",
+    "sector": "Electronic Components"
+  },
+  "3691": {
+    "name": "碩禾",
+    "canonical": "碩禾",
+    "sector": "Solar"
+  },
+  "3693": {
+    "name": "營邦",
+    "canonical": "營邦",
+    "sector": "Computer Hardware"
+  },
+  "3694": {
+    "name": "海華",
+    "canonical": "海華",
+    "sector": "Communication Equipment"
+  },
+  "3701": {
+    "name": "大眾控",
+    "canonical": "大眾控",
+    "sector": "Computer Hardware"
+  },
+  "3702": {
+    "name": "大聯大",
+    "canonical": "大聯大",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3703": {
+    "name": "欣陸",
+    "canonical": "欣陸",
+    "sector": "Engineering & Construction"
+  },
+  "3704": {
+    "name": "合勤控",
+    "canonical": "合勤控",
+    "sector": "Communication Equipment"
+  },
+  "3706": {
+    "name": "神達",
+    "canonical": "神達",
+    "sector": "Computer Hardware"
+  },
+  "3707": {
+    "name": "漢磊",
+    "canonical": "漢磊",
+    "sector": "Semiconductors"
+  },
+  "3708": {
+    "name": "上緯投控",
+    "canonical": "上緯投控",
+    "sector": "Specialty Chemicals"
+  },
+  "3709": {
+    "name": "鑫聯大投控",
+    "canonical": "鑫聯大投控",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "3710": {
+    "name": "連展投控",
+    "canonical": "連展投控",
+    "sector": "Electronic Components"
+  },
+  "3711": {
+    "name": "日月光投控",
+    "canonical": "日月光",
+    "sector": "Semiconductors"
+  },
+  "3712": {
+    "name": "永崴投控",
+    "canonical": "永崴投控",
+    "sector": "Semiconductors"
+  },
+  "3713": {
+    "name": "新晶投控",
+    "canonical": "新晶投控",
+    "sector": "Solar"
+  },
+  "3714": {
+    "name": "富采",
+    "canonical": "富采",
+    "sector": "Electronic Components"
+  },
+  "3715": {
+    "name": "定穎投控",
+    "canonical": "定穎投控",
+    "sector": "Electronic Components"
+  },
+  "3717": {
+    "name": "聯嘉投控",
+    "canonical": "聯嘉投控",
+    "sector": "Electronic Components"
+  },
+  "4113": {
+    "name": "聯上",
+    "canonical": "聯上",
+    "sector": "Engineering & Construction"
+  },
+  "4154": {
+    "name": "樂威科-KY",
+    "canonical": "樂威科-KY",
+    "sector": "Beverages - Non-Alcoholic"
+  },
+  "4171": {
+    "name": "瑞基",
+    "canonical": "瑞基",
+    "sector": "Biotechnology"
+  },
+  "4303": {
+    "name": "信立",
+    "canonical": "信立",
+    "sector": "Footwear & Accessories"
+  },
+  "4304": {
+    "name": "勝昱",
+    "canonical": "勝昱",
+    "sector": "Packaging & Containers"
+  },
+  "4305": {
+    "name": "世坤",
+    "canonical": "世坤",
+    "sector": "Auto Parts"
+  },
+  "4306": {
+    "name": "炎洲",
+    "canonical": "炎洲",
+    "sector": "Specialty Chemicals"
+  },
+  "4401": {
+    "name": "東隆興",
+    "canonical": "東隆興",
+    "sector": "Textile Manufacturing"
+  },
+  "4402": {
+    "name": "郡都開發",
+    "canonical": "郡都開發",
+    "sector": "Textile Manufacturing"
+  },
+  "4406": {
+    "name": "新昕纖",
+    "canonical": "新昕纖",
+    "sector": "Textile Manufacturing"
+  },
+  "4413": {
+    "name": "飛寶企業",
+    "canonical": "飛寶企業",
+    "sector": "Apparel Manufacturing"
+  },
+  "4414": {
+    "name": "如興",
+    "canonical": "如興",
+    "sector": "Apparel Manufacturing"
+  },
+  "4416": {
+    "name": "三圓",
+    "canonical": "三圓",
+    "sector": "Real Estate Services"
+  },
+  "4417": {
+    "name": "金洲",
+    "canonical": "金洲",
+    "sector": "Textile Manufacturing"
+  },
+  "4420": {
+    "name": "光明",
+    "canonical": "光明",
+    "sector": "Textile Manufacturing"
+  },
+  "4426": {
+    "name": "利勤",
+    "canonical": "利勤",
+    "sector": "Textile Manufacturing"
+  },
+  "4430": {
+    "name": "耀億",
+    "canonical": "耀億",
+    "sector": "Textile Manufacturing"
+  },
+  "4431": {
+    "name": "敏成健康",
+    "canonical": "敏成健康",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4432": {
+    "name": "銘旺實",
+    "canonical": "銘旺實",
+    "sector": "Apparel Manufacturing"
+  },
+  "4433": {
+    "name": "興采",
+    "canonical": "興采",
+    "sector": "Textile Manufacturing"
+  },
+  "4438": {
+    "name": "廣越",
+    "canonical": "廣越",
+    "sector": "Apparel Manufacturing"
+  },
+  "4439": {
+    "name": "冠星-KY",
+    "canonical": "冠星-KY",
+    "sector": "Textile Manufacturing"
+  },
+  "4440": {
+    "name": "宜新實業",
+    "canonical": "宜新實業",
+    "sector": "Textile Manufacturing"
+  },
+  "4441": {
+    "name": "振大環球",
+    "canonical": "振大環球",
+    "sector": "Textile Manufacturing"
+  },
+  "4442": {
+    "name": "竣邦-KY",
+    "canonical": "竣邦-KY",
+    "sector": "Textile Manufacturing"
+  },
+  "4502": {
+    "name": "健信",
+    "canonical": "健信",
+    "sector": "Metal Fabrication"
+  },
+  "4503": {
+    "name": "金雨",
+    "canonical": "金雨",
+    "sector": "Business Equipment & Supplies"
+  },
+  "4506": {
+    "name": "崇友",
+    "canonical": "崇友",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4510": {
+    "name": "高鋒",
+    "canonical": "高鋒",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4513": {
+    "name": "福裕",
+    "canonical": "福裕",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4523": {
+    "name": "永彰",
+    "canonical": "永彰",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "4526": {
+    "name": "東台",
+    "canonical": "東台",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4527": {
+    "name": "方土霖",
+    "canonical": "方土霖",
+    "sector": "Electronic Components"
+  },
+  "4528": {
+    "name": "江興鍛",
+    "canonical": "江興鍛",
+    "sector": "Auto Parts"
+  },
+  "4529": {
+    "name": "淳紳",
+    "canonical": "淳紳",
+    "sector": "Electronic Components"
+  },
+  "4532": {
+    "name": "瑞智",
+    "canonical": "瑞智",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4533": {
+    "name": "協易機",
+    "canonical": "協易機",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4534": {
+    "name": "慶騰",
+    "canonical": "慶騰",
+    "sector": "Metal Fabrication"
+  },
+  "4535": {
+    "name": "至興",
+    "canonical": "至興",
+    "sector": "Auto Parts"
+  },
+  "4536": {
+    "name": "拓凱",
+    "canonical": "拓凱",
+    "sector": "Leisure"
+  },
+  "4537": {
+    "name": "旭東",
+    "canonical": "旭東",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4538": {
+    "name": "大詠城",
+    "canonical": "大詠城",
+    "sector": "Metal Fabrication"
+  },
+  "4540": {
+    "name": "全球傳動",
+    "canonical": "全球傳動",
+    "sector": "Tools & Accessories"
+  },
+  "4541": {
+    "name": "晟田",
+    "canonical": "晟田",
+    "sector": "Aerospace & Defense"
+  },
+  "4542": {
+    "name": "科嶠",
+    "canonical": "科嶠",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4543": {
+    "name": "萬在",
+    "canonical": "萬在",
+    "sector": "Auto Parts"
+  },
+  "4544": {
+    "name": "春日",
+    "canonical": "春日",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4545": {
+    "name": "銘鈺",
+    "canonical": "銘鈺",
+    "sector": "Metal Fabrication"
+  },
+  "4546": {
+    "name": "長亨",
+    "canonical": "長亨",
+    "sector": "Aerospace & Defense"
+  },
+  "4549": {
+    "name": "桓達",
+    "canonical": "桓達",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "4550": {
+    "name": "長佳",
+    "canonical": "長佳",
+    "sector": "Engineering & Construction"
+  },
+  "4551": {
+    "name": "智伸科",
+    "canonical": "智伸科",
+    "sector": "Auto Parts"
+  },
+  "4552": {
+    "name": "力達-KY",
+    "canonical": "力達-KY",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4553": {
+    "name": "盛復",
+    "canonical": "盛復",
+    "sector": "Metal Fabrication"
+  },
+  "4554": {
+    "name": "橙的",
+    "canonical": "橙的",
+    "sector": "Electronic Components"
+  },
+  "4555": {
+    "name": "氣立",
+    "canonical": "氣立",
+    "sector": "Electronic Components"
+  },
+  "4556": {
+    "name": "旭然",
+    "canonical": "旭然",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "4557": {
+    "name": "永新-KY",
+    "canonical": "永新-KY",
+    "sector": "Auto Parts"
+  },
+  "4558": {
+    "name": "寶緯",
+    "canonical": "寶緯",
+    "sector": "Aluminum"
+  },
+  "4559": {
+    "name": "久裕興",
+    "canonical": "久裕興",
+    "sector": "Auto Parts"
+  },
+  "4560": {
+    "name": "強信-KY",
+    "canonical": "強信-KY",
+    "sector": "Tools & Accessories"
+  },
+  "4561": {
+    "name": "健椿",
+    "canonical": "健椿",
+    "sector": "Metal Fabrication"
+  },
+  "4562": {
+    "name": "穎漢",
+    "canonical": "穎漢",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4563": {
+    "name": "百德",
+    "canonical": "百德",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4564": {
+    "name": "元翎",
+    "canonical": "元翎",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "4565": {
+    "name": "宏偉",
+    "canonical": "宏偉",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4566": {
+    "name": "時碩工業",
+    "canonical": "時碩工業",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4568": {
+    "name": "科際精密",
+    "canonical": "科際精密",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4569": {
+    "name": "六方科-KY",
+    "canonical": "六方科-KY",
+    "sector": "Metal Fabrication"
+  },
+  "4571": {
+    "name": "鈞興-KY",
+    "canonical": "鈞興-KY",
+    "sector": "Tools & Accessories"
+  },
+  "4572": {
+    "name": "駐龍",
+    "canonical": "駐龍",
+    "sector": "Aerospace & Defense"
+  },
+  "4573": {
+    "name": "高明鐵",
+    "canonical": "高明鐵",
+    "sector": "Electronic Components"
+  },
+  "4575": {
+    "name": "銓寶",
+    "canonical": "銓寶",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4576": {
+    "name": "大銀微系統",
+    "canonical": "大銀微系統",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "4577": {
+    "name": "達航科技",
+    "canonical": "達航科技",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4580": {
+    "name": "捷流閥業",
+    "canonical": "捷流閥業",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4581": {
+    "name": "光隆精密-KY",
+    "canonical": "光隆精密-KY",
+    "sector": "Auto Parts"
+  },
+  "4582": {
+    "name": "聚恆",
+    "canonical": "聚恆",
+    "sector": "Solar"
+  },
+  "4583": {
+    "name": "台灣精銳",
+    "canonical": "台灣精銳",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4584": {
+    "name": "君帆",
+    "canonical": "君帆",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4585": {
+    "name": "達明",
+    "canonical": "達明",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4587": {
+    "name": "寶元數控",
+    "canonical": "寶元數控",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4588": {
+    "name": "玖鼎電力",
+    "canonical": "玖鼎電力",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "4590": {
+    "name": "富田-創",
+    "canonical": "富田-創",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "4609": {
+    "name": "唐鋒",
+    "canonical": "唐鋒",
+    "sector": "Consumer Electronics"
+  },
+  "4702": {
+    "name": "中美實",
+    "canonical": "中美實",
+    "sector": "Specialty Chemicals"
+  },
+  "4706": {
+    "name": "大恭",
+    "canonical": "大恭",
+    "sector": "Specialty Chemicals"
+  },
+  "4707": {
+    "name": "磐亞",
+    "canonical": "磐亞",
+    "sector": "Specialty Chemicals"
+  },
+  "4711": {
+    "name": "永純",
+    "canonical": "永純",
+    "sector": "Specialty Chemicals"
+  },
+  "4714": {
+    "name": "永捷",
+    "canonical": "永捷",
+    "sector": "Specialty Chemicals"
+  },
+  "4716": {
+    "name": "大立",
+    "canonical": "大立",
+    "sector": "Specialty Chemicals"
+  },
+  "4720": {
+    "name": "德淵",
+    "canonical": "德淵",
+    "sector": "Specialty Chemicals"
+  },
+  "4721": {
+    "name": "美琪瑪",
+    "canonical": "美琪瑪",
+    "sector": "Specialty Chemicals"
+  },
+  "4722": {
+    "name": "國精化",
+    "canonical": "國精化",
+    "sector": "Specialty Chemicals"
+  },
+  "4729": {
+    "name": "熒茂",
+    "canonical": "熒茂",
+    "sector": "Electronic Components"
+  },
+  "4738": {
+    "name": "大同精化",
+    "canonical": "大同精化",
+    "sector": "Specialty Chemicals"
+  },
+  "4739": {
+    "name": "康普",
+    "canonical": "康普",
+    "sector": "Specialty Chemicals"
+  },
+  "4741": {
+    "name": "泓瀚",
+    "canonical": "泓瀚",
+    "sector": "Specialty Chemicals"
+  },
+  "4749": {
+    "name": "新應材",
+    "canonical": "新應材",
+    "sector": "Consumer Electronics"
+  },
+  "4754": {
+    "name": "國碳科",
+    "canonical": "國碳科",
+    "sector": "Specialty Chemicals"
+  },
+  "4755": {
+    "name": "三福化",
+    "canonical": "三福化",
+    "sector": "Specialty Chemicals"
+  },
+  "4760": {
+    "name": "勤凱",
+    "canonical": "勤凱",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "4763": {
+    "name": "材料-KY",
+    "canonical": "材料-KY",
+    "sector": "Specialty Chemicals"
+  },
+  "4764": {
+    "name": "雙鍵",
+    "canonical": "雙鍵",
+    "sector": "Specialty Chemicals"
+  },
+  "4765": {
+    "name": "磐采",
+    "canonical": "磐采",
+    "sector": "Specialty Chemicals"
+  },
+  "4766": {
+    "name": "南寶",
+    "canonical": "南寶",
+    "sector": "Specialty Chemicals"
+  },
+  "4767": {
+    "name": "誠泰科技",
+    "canonical": "誠泰科技",
+    "sector": "Specialty Chemicals"
+  },
+  "4768": {
+    "name": "晶呈科技",
+    "canonical": "晶呈科技",
+    "sector": "Specialty Chemicals"
+  },
+  "4770": {
+    "name": "上品",
+    "canonical": "上品",
+    "sector": "Specialty Chemicals"
+  },
+  "4772": {
+    "name": "台特化",
+    "canonical": "台特化",
+    "sector": "Specialty Chemicals"
+  },
+  "4773": {
+    "name": "高福",
+    "canonical": "高福",
+    "sector": "Specialty Chemicals"
+  },
+  "4903": {
+    "name": "聯光通",
+    "canonical": "聯光通",
+    "sector": "Communication Equipment"
+  },
+  "4904": {
+    "name": "遠傳",
+    "canonical": "遠傳",
+    "sector": "Telecom Services"
+  },
+  "4905": {
+    "name": "台聯電",
+    "canonical": "台聯電",
+    "sector": "Communication Equipment"
+  },
+  "4906": {
+    "name": "正文",
+    "canonical": "正文",
+    "sector": "Communication Equipment"
+  },
+  "4907": {
+    "name": "富宇",
+    "canonical": "富宇",
+    "sector": "Real Estate - Development"
+  },
+  "4908": {
+    "name": "前鼎",
+    "canonical": "前鼎",
+    "sector": "Communication Equipment"
+  },
+  "4909": {
+    "name": "新復興",
+    "canonical": "新復興",
+    "sector": "Electronic Components"
+  },
+  "4911": {
+    "name": "德英",
+    "canonical": "德英",
+    "sector": "Biotech - Therapeutics"
+  },
+  "4912": {
+    "name": "聯德控股-KY",
+    "canonical": "聯德控股-KY",
+    "sector": "Metal Fabrication"
+  },
+  "4915": {
+    "name": "致伸",
+    "canonical": "致伸",
+    "sector": "Consumer Electronics"
+  },
+  "4916": {
+    "name": "事欣科",
+    "canonical": "事欣科",
+    "sector": "Computer Hardware"
+  },
+  "4919": {
+    "name": "新唐",
+    "canonical": "新唐",
+    "sector": "Semiconductors"
+  },
+  "4923": {
+    "name": "力士",
+    "canonical": "力士",
+    "sector": "Semiconductors"
+  },
+  "4924": {
+    "name": "欣厚-KY",
+    "canonical": "欣厚-KY",
+    "sector": "Computer Hardware"
+  },
+  "4925": {
+    "name": "智微",
+    "canonical": "智微",
+    "sector": "Semiconductors"
+  },
+  "4927": {
+    "name": "泰鼎-KY",
+    "canonical": "泰鼎-KY",
+    "sector": "Electronic Components"
+  },
+  "4930": {
+    "name": "燦星網",
+    "canonical": "燦星網",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "4931": {
+    "name": "新盛力",
+    "canonical": "新盛力",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "4933": {
+    "name": "友輝",
+    "canonical": "友輝",
+    "sector": "Electronic Components"
+  },
+  "4934": {
+    "name": "太極",
+    "canonical": "太極",
+    "sector": "Solar"
+  },
+  "4935": {
+    "name": "茂林-KY",
+    "canonical": "茂林-KY",
+    "sector": "Electronic Components"
+  },
+  "4938": {
+    "name": "和碩",
+    "canonical": "和碩",
+    "sector": "Computer Hardware"
+  },
+  "4939": {
+    "name": "亞電",
+    "canonical": "亞電",
+    "sector": "Electronic Components"
+  },
+  "4942": {
+    "name": "嘉彰",
+    "canonical": "嘉彰",
+    "sector": "Electronic Components"
+  },
+  "4943": {
+    "name": "康控-KY",
+    "canonical": "康控-KY",
+    "sector": "Electronic Components"
+  },
+  "4949": {
+    "name": "有成精密",
+    "canonical": "有成精密",
+    "sector": "Solar"
+  },
+  "4950": {
+    "name": "金耘國際",
+    "canonical": "金耘國際",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "4951": {
+    "name": "精拓科",
+    "canonical": "精拓科",
+    "sector": "Semiconductors"
+  },
+  "4952": {
+    "name": "凌通",
+    "canonical": "凌通",
+    "sector": "Semiconductors"
+  },
+  "4953": {
+    "name": "緯軟",
+    "canonical": "緯軟",
+    "sector": "Information Technology Services"
+  },
+  "4956": {
+    "name": "光鋐",
+    "canonical": "光鋐",
+    "sector": "Electronic Components"
+  },
+  "4958": {
+    "name": "臻鼎-KY",
+    "canonical": "臻鼎-KY",
+    "sector": "Electronic Components"
+  },
+  "4960": {
+    "name": "誠美材",
+    "canonical": "誠美材",
+    "sector": "Electronic Components"
+  },
+  "4961": {
+    "name": "天鈺",
+    "canonical": "天鈺",
+    "sector": "Semiconductors"
+  },
+  "4966": {
+    "name": "譜瑞-KY",
+    "canonical": "譜瑞-KY",
+    "sector": "Semiconductors"
+  },
+  "4967": {
+    "name": "十銓",
+    "canonical": "十銓",
+    "sector": "Computer Hardware"
+  },
+  "4968": {
+    "name": "立積",
+    "canonical": "立積",
+    "sector": "Semiconductors"
+  },
+  "4971": {
+    "name": "IET-KY",
+    "canonical": "IET-KY",
+    "sector": "Semiconductors"
+  },
+  "4972": {
+    "name": "湯石照明",
+    "canonical": "湯石照明",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "4973": {
+    "name": "廣穎",
+    "canonical": "廣穎",
+    "sector": "Computer Hardware"
+  },
+  "4974": {
+    "name": "亞泰",
+    "canonical": "亞泰",
+    "sector": "Electronic Components"
+  },
+  "4976": {
+    "name": "佳凌",
+    "canonical": "佳凌",
+    "sector": "Electronic Components"
+  },
+  "4977": {
+    "name": "眾達-KY",
+    "canonical": "眾達-KY",
+    "sector": "Computer Hardware"
+  },
+  "4979": {
+    "name": "華星光",
+    "canonical": "華星光",
+    "sector": "Semiconductors"
+  },
+  "4980": {
+    "name": "佐臻",
+    "canonical": "佐臻",
+    "sector": "Communication Equipment"
+  },
+  "4987": {
+    "name": "科誠",
+    "canonical": "科誠",
+    "sector": "Computer Hardware"
+  },
+  "4989": {
+    "name": "榮科",
+    "canonical": "榮科",
+    "sector": "Copper"
+  },
+  "4991": {
+    "name": "環宇-KY",
+    "canonical": "環宇-KY",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "4994": {
+    "name": "傳奇",
+    "canonical": "傳奇",
+    "sector": "Electronic Gaming & Multimedia"
+  },
+  "4995": {
+    "name": "晶達",
+    "canonical": "晶達",
+    "sector": "Electronic Components"
+  },
+  "4999": {
+    "name": "鑫禾",
+    "canonical": "鑫禾",
+    "sector": "Tools & Accessories"
+  },
+  "5007": {
+    "name": "三星",
+    "canonical": "三星",
+    "sector": "Tools & Accessories"
+  },
+  "5009": {
+    "name": "榮剛",
+    "canonical": "榮剛",
+    "sector": "Steel"
+  },
+  "5011": {
+    "name": "久陽",
+    "canonical": "久陽",
+    "sector": "Tools & Accessories"
+  },
+  "5013": {
+    "name": "強新",
+    "canonical": "強新",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "5014": {
+    "name": "建錩",
+    "canonical": "建錩",
+    "sector": "Steel"
+  },
+  "5015": {
+    "name": "華祺",
+    "canonical": "華祺",
+    "sector": "Tools & Accessories"
+  },
+  "5016": {
+    "name": "松和",
+    "canonical": "松和",
+    "sector": "Steel"
+  },
+  "5201": {
+    "name": "凱衛",
+    "canonical": "凱衛",
+    "sector": "Software - Application"
+  },
+  "5202": {
+    "name": "力新",
+    "canonical": "力新",
+    "sector": "Software - Application"
+  },
+  "5203": {
+    "name": "訊連",
+    "canonical": "訊連",
+    "sector": "Software - Application"
+  },
+  "5205": {
+    "name": "中茂",
+    "canonical": "中茂",
+    "sector": "Software - Application"
+  },
+  "5206": {
+    "name": "坤悅",
+    "canonical": "坤悅",
+    "sector": "Real Estate - Development"
+  },
+  "5209": {
+    "name": "新鼎",
+    "canonical": "新鼎",
+    "sector": "Information Technology Services"
+  },
+  "5210": {
+    "name": "寶碩",
+    "canonical": "寶碩",
+    "sector": "Software - Application"
+  },
+  "5211": {
+    "name": "蒙恬",
+    "canonical": "蒙恬",
+    "sector": "Software - Application"
+  },
+  "5212": {
+    "name": "凌網",
+    "canonical": "凌網",
+    "sector": "Software - Infrastructure"
+  },
+  "5213": {
+    "name": "亞昕",
+    "canonical": "亞昕",
+    "sector": "Real Estate Services"
+  },
+  "5215": {
+    "name": "科嘉-KY",
+    "canonical": "科嘉-KY",
+    "sector": "Computer Hardware"
+  },
+  "5220": {
+    "name": "萬達光電",
+    "canonical": "萬達光電",
+    "sector": "Electronic Components"
+  },
+  "5222": {
+    "name": "全訊",
+    "canonical": "全訊",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "5223": {
+    "name": "安力-KY",
+    "canonical": "安力-KY",
+    "sector": "Metal Fabrication"
+  },
+  "5225": {
+    "name": "東科-KY",
+    "canonical": "東科-KY",
+    "sector": "Consumer Electronics"
+  },
+  "5227": {
+    "name": "立凱-KY",
+    "canonical": "立凱-KY",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "5228": {
+    "name": "鈺鎧",
+    "canonical": "鈺鎧",
+    "sector": "Electronic Components"
+  },
+  "5230": {
+    "name": "雷笛克光學",
+    "canonical": "雷笛克光學",
+    "sector": "Electronic Components"
+  },
+  "5234": {
+    "name": "達興材料",
+    "canonical": "達興材料",
+    "sector": "Specialty Chemicals"
+  },
+  "5236": {
+    "name": "凌陽創新",
+    "canonical": "凌陽創新",
+    "sector": "Semiconductors"
+  },
+  "5240": {
+    "name": "建騰",
+    "canonical": "建騰",
+    "sector": "Security & Protection Services"
+  },
+  "5243": {
+    "name": "乙盛-KY",
+    "canonical": "乙盛-KY",
+    "sector": "Electronic Components"
+  },
+  "5244": {
+    "name": "弘凱",
+    "canonical": "弘凱",
+    "sector": "Electronic Components"
+  },
+  "5245": {
+    "name": "智晶",
+    "canonical": "智晶",
+    "sector": "Semiconductors"
+  },
+  "5248": {
+    "name": "景傳",
+    "canonical": "景傳",
+    "sector": "Electronic Components"
+  },
+  "5251": {
+    "name": "天鉞電",
+    "canonical": "天鉞電",
+    "sector": "Electronic Components"
+  },
+  "5254": {
+    "name": "欣訊科技",
+    "canonical": "欣訊科技",
+    "sector": "Electronic Components"
+  },
+  "5258": {
+    "name": "虹堡",
+    "canonical": "虹堡",
+    "sector": "Business Equipment & Supplies"
+  },
+  "5262": {
+    "name": "立達",
+    "canonical": "立達",
+    "sector": "Semiconductors"
+  },
+  "5263": {
+    "name": "智崴",
+    "canonical": "智崴",
+    "sector": "Entertainment"
+  },
+  "5267": {
+    "name": "龍翩",
+    "canonical": "龍翩",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "5269": {
+    "name": "祥碩",
+    "canonical": "祥碩",
+    "sector": "Semiconductors"
+  },
+  "5271": {
+    "name": "紘通",
+    "canonical": "紘通",
+    "sector": "Computer Hardware"
+  },
+  "5272": {
+    "name": "笙科",
+    "canonical": "笙科",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "5274": {
+    "name": "信驊",
+    "canonical": "信驊",
+    "sector": "Semiconductors"
+  },
+  "5278": {
+    "name": "尚凡",
+    "canonical": "尚凡",
+    "sector": "Internet Content & Information"
+  },
+  "5283": {
+    "name": "禾聯碩",
+    "canonical": "禾聯碩",
+    "sector": "Consumer Electronics"
+  },
+  "5284": {
+    "name": "jpp-KY",
+    "canonical": "jpp-KY",
+    "sector": "Electronic Components"
+  },
+  "5285": {
+    "name": "界霖",
+    "canonical": "界霖",
+    "sector": "Semiconductors"
+  },
+  "5287": {
+    "name": "數字",
+    "canonical": "數字",
+    "sector": "Internet Content & Information"
+  },
+  "5288": {
+    "name": "豐祥-KY",
+    "canonical": "豐祥-KY",
+    "sector": "Conglomerates"
+  },
+  "5289": {
+    "name": "宜鼎",
+    "canonical": "宜鼎",
+    "sector": "Computer Hardware"
+  },
+  "5291": {
+    "name": "邑昇",
+    "canonical": "邑昇",
+    "sector": "Electronic Components"
+  },
+  "5292": {
+    "name": "華懋",
+    "canonical": "華懋",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "5299": {
+    "name": "杰力",
+    "canonical": "杰力",
+    "sector": "Semiconductors"
+  },
+  "5302": {
+    "name": "太欣",
+    "canonical": "太欣",
+    "sector": "Semiconductors"
+  },
+  "5309": {
+    "name": "系統電",
+    "canonical": "系統電",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "5310": {
+    "name": "天剛",
+    "canonical": "天剛",
+    "sector": "Computer Hardware"
+  },
+  "5314": {
+    "name": "世紀",
+    "canonical": "世紀",
+    "sector": "Semiconductors"
+  },
+  "5315": {
+    "name": "光聯",
+    "canonical": "光聯",
+    "sector": "Electronic Components"
+  },
+  "5321": {
+    "name": "美而快",
+    "canonical": "美而快",
+    "sector": "Electronic Components"
+  },
+  "5324": {
+    "name": "士開",
+    "canonical": "士開",
+    "sector": "Lodging"
+  },
+  "5328": {
+    "name": "華容",
+    "canonical": "華容",
+    "sector": "Electronic Components"
+  },
+  "5340": {
+    "name": "建榮",
+    "canonical": "建榮",
+    "sector": "Textile Manufacturing"
+  },
+  "5344": {
+    "name": "立衛",
+    "canonical": "立衛",
+    "sector": "Semiconductors"
+  },
+  "5345": {
+    "name": "馥鴻",
+    "canonical": "馥鴻",
+    "sector": "Electronic Components"
+  },
+  "5347": {
+    "name": "世界",
+    "canonical": "世界",
+    "sector": "Semiconductors"
+  },
+  "5348": {
+    "name": "正能量智能",
+    "canonical": "正能量智能",
+    "sector": "Communication Equipment"
+  },
+  "5351": {
+    "name": "鈺創",
+    "canonical": "鈺創",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "5353": {
+    "name": "台林",
+    "canonical": "台林",
+    "sector": "Communication Equipment"
+  },
+  "5355": {
+    "name": "佳總",
+    "canonical": "佳總",
+    "sector": "Electronic Components"
+  },
+  "5356": {
+    "name": "協益",
+    "canonical": "協益",
+    "sector": "Electronic Components"
+  },
+  "5371": {
+    "name": "中光電",
+    "canonical": "中光電",
+    "sector": "Consumer Electronics"
+  },
+  "5381": {
+    "name": "合正",
+    "canonical": "合正",
+    "sector": "Electronic Components"
+  },
+  "5386": {
+    "name": "青雲",
+    "canonical": "青雲",
+    "sector": "Computer Hardware"
+  },
+  "5388": {
+    "name": "中磊",
+    "canonical": "中磊",
+    "sector": "Communication Equipment"
+  },
+  "5392": {
+    "name": "能率",
+    "canonical": "能率",
+    "sector": "Electronic Components"
+  },
+  "5398": {
+    "name": "慕康生醫",
+    "canonical": "慕康生醫",
+    "sector": "Drug Manufacturers - Specialty & Generic"
+  },
+  "5403": {
+    "name": "中菲",
+    "canonical": "中菲",
+    "sector": "Software - Application"
+  },
+  "5410": {
+    "name": "國眾",
+    "canonical": "國眾",
+    "sector": "Computer Hardware"
+  },
+  "5425": {
+    "name": "台半",
+    "canonical": "台半",
+    "sector": "Semiconductors"
+  },
+  "5426": {
+    "name": "振發",
+    "canonical": "振發",
+    "sector": "Metal Fabrication"
+  },
+  "5432": {
+    "name": "新門",
+    "canonical": "新門",
+    "sector": "Electronic Components"
+  },
+  "5434": {
+    "name": "崇越",
+    "canonical": "崇越",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "5438": {
+    "name": "東友",
+    "canonical": "東友",
+    "sector": "Business Equipment & Supplies"
+  },
+  "5439": {
+    "name": "高技",
+    "canonical": "高技",
+    "sector": "Electronic Components"
+  },
+  "5443": {
+    "name": "均豪",
+    "canonical": "均豪",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "5450": {
+    "name": "南良",
+    "canonical": "南良",
+    "sector": "Textile Manufacturing"
+  },
+  "5452": {
+    "name": "佶優",
+    "canonical": "佶優",
+    "sector": "Specialty Chemicals"
+  },
+  "5455": {
+    "name": "昇益",
+    "canonical": "昇益",
+    "sector": "Real Estate - Development"
+  },
+  "5457": {
+    "name": "宣德",
+    "canonical": "宣德",
+    "sector": "Electronic Components"
+  },
+  "5460": {
+    "name": "同協",
+    "canonical": "同協",
+    "sector": "Metal Fabrication"
+  },
+  "5464": {
+    "name": "霖宏",
+    "canonical": "霖宏",
+    "sector": "Electronic Components"
+  },
+  "5465": {
+    "name": "富驊",
+    "canonical": "富驊",
+    "sector": "Computer Hardware"
+  },
+  "5468": {
+    "name": "凱鈺",
+    "canonical": "凱鈺",
+    "sector": "Semiconductors"
+  },
+  "5469": {
+    "name": "瀚宇博",
+    "canonical": "瀚宇博",
+    "sector": "Electronic Components"
+  },
+  "5471": {
+    "name": "松翰",
+    "canonical": "松翰",
+    "sector": "Semiconductors"
+  },
+  "5474": {
+    "name": "聰泰",
+    "canonical": "聰泰",
+    "sector": "Electronic Components"
+  },
+  "5475": {
+    "name": "德宏",
+    "canonical": "德宏",
+    "sector": "Textile Manufacturing"
+  },
+  "5478": {
+    "name": "智冠",
+    "canonical": "智冠",
+    "sector": "Electronic Gaming & Multimedia"
+  },
+  "5481": {
+    "name": "新華",
+    "canonical": "新華",
+    "sector": "Education & Training Services"
+  },
+  "5483": {
+    "name": "中美晶",
+    "canonical": "中美晶",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "5484": {
+    "name": "慧友",
+    "canonical": "慧友",
+    "sector": "Security & Protection Services"
+  },
+  "5487": {
+    "name": "通泰",
+    "canonical": "通泰",
+    "sector": "Electronic Components"
+  },
+  "5488": {
+    "name": "松普",
+    "canonical": "松普",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "5489": {
+    "name": "彩富",
+    "canonical": "彩富",
+    "sector": "Consumer Electronics"
+  },
+  "5490": {
+    "name": "同亨",
+    "canonical": "同亨",
+    "sector": "Business Equipment & Supplies"
+  },
+  "5493": {
+    "name": "三聯",
+    "canonical": "三聯",
+    "sector": "Electronic Components"
+  },
+  "5498": {
+    "name": "凱崴",
+    "canonical": "凱崴",
+    "sector": "Tools & Accessories"
+  },
+  "5508": {
+    "name": "永信建",
+    "canonical": "永信建",
+    "sector": "Real Estate - Development"
+  },
+  "5511": {
+    "name": "德昌",
+    "canonical": "德昌",
+    "sector": "Engineering & Construction"
+  },
+  "5512": {
+    "name": "力麒",
+    "canonical": "力麒",
+    "sector": "Real Estate - Diversified"
+  },
+  "5514": {
+    "name": "三豐",
+    "canonical": "三豐",
+    "sector": "Real Estate Services"
+  },
+  "5515": {
+    "name": "建國",
+    "canonical": "建國",
+    "sector": "Engineering & Construction"
+  },
+  "5516": {
+    "name": "雙喜",
+    "canonical": "雙喜",
+    "sector": "Engineering & Construction"
+  },
+  "5519": {
+    "name": "隆大",
+    "canonical": "隆大",
+    "sector": "Engineering & Construction"
+  },
+  "5520": {
+    "name": "力泰",
+    "canonical": "力泰",
+    "sector": "Building Materials"
+  },
+  "5521": {
+    "name": "工信",
+    "canonical": "工信",
+    "sector": "Engineering & Construction"
+  },
+  "5522": {
+    "name": "遠雄",
+    "canonical": "遠雄",
+    "sector": "Real Estate - Development"
+  },
+  "5523": {
+    "name": "豐謙",
+    "canonical": "豐謙",
+    "sector": "Real Estate Services"
+  },
+  "5525": {
+    "name": "順天",
+    "canonical": "順天",
+    "sector": "Real Estate - Development"
+  },
+  "5529": {
+    "name": "鉅陞",
+    "canonical": "鉅陞",
+    "sector": "Real Estate Services"
+  },
+  "5530": {
+    "name": "龍巖",
+    "canonical": "龍巖",
+    "sector": "Personal Services"
+  },
+  "5531": {
+    "name": "鄉林",
+    "canonical": "鄉林",
+    "sector": "Engineering & Construction"
+  },
+  "5533": {
+    "name": "皇鼎",
+    "canonical": "皇鼎",
+    "sector": "Real Estate Services"
+  },
+  "5534": {
+    "name": "長虹",
+    "canonical": "長虹",
+    "sector": "Real Estate - Development"
+  },
+  "5536": {
+    "name": "聖暉",
+    "canonical": "聖暉",
+    "sector": "Engineering & Construction"
+  },
+  "5538": {
+    "name": "東明-KY",
+    "canonical": "東明-KY",
+    "sector": "Steel"
+  },
+  "5543": {
+    "name": "桓鼎-KY",
+    "canonical": "桓鼎-KY",
+    "sector": "Building Products & Equipment"
+  },
+  "5546": {
+    "name": "永固-KY",
+    "canonical": "永固-KY",
+    "sector": "Building Materials"
+  },
+  "5547": {
+    "name": "久舜",
+    "canonical": "久舜",
+    "sector": "Engineering & Construction"
+  },
+  "5601": {
+    "name": "台聯櫃",
+    "canonical": "台聯櫃",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "5603": {
+    "name": "陸海",
+    "canonical": "陸海",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "5604": {
+    "name": "中連",
+    "canonical": "中連",
+    "sector": "Trucking"
+  },
+  "5607": {
+    "name": "遠雄港",
+    "canonical": "遠雄港",
+    "sector": "Specialty Business Services"
+  },
+  "5608": {
+    "name": "四維航",
+    "canonical": "四維航",
+    "sector": "Marine Shipping"
+  },
+  "5609": {
+    "name": "中菲行",
+    "canonical": "中菲行",
+    "sector": "Integrated Freight & Logistics"
+  },
+  "5859": {
+    "name": "遠壽",
+    "canonical": "遠壽",
+    "sector": "Insurance - Life"
+  },
+  "5863": {
+    "name": "瑞興銀",
+    "canonical": "瑞興銀",
+    "sector": "Banks - Regional"
+  },
+  "5864": {
+    "name": "致和證",
+    "canonical": "致和證",
+    "sector": "Capital Markets"
+  },
+  "5871": {
+    "name": "中租-KY",
+    "canonical": "中租-KY",
+    "sector": "Credit Services"
+  },
+  "5876": {
+    "name": "上海商銀",
+    "canonical": "上海商銀",
+    "sector": "Banks - Regional"
+  },
+  "5878": {
+    "name": "台名",
+    "canonical": "台名",
+    "sector": "Insurance Brokers"
+  },
+  "5880": {
+    "name": "合庫金",
+    "canonical": "合庫金",
+    "sector": "Banks - Regional"
+  },
+  "5902": {
+    "name": "德記",
+    "canonical": "德記",
+    "sector": "Food Distribution"
+  },
+  "5903": {
+    "name": "全家",
+    "canonical": "全家",
+    "sector": "Department Stores"
+  },
+  "5904": {
+    "name": "寶雅",
+    "canonical": "寶雅",
+    "sector": "Department Stores"
+  },
+  "6005": {
+    "name": "群益證",
+    "canonical": "群益證",
+    "sector": "Capital Markets"
+  },
+  "6015": {
+    "name": "宏遠證",
+    "canonical": "宏遠證",
+    "sector": "Capital Markets"
+  },
+  "6016": {
+    "name": "康和證",
+    "canonical": "康和證",
+    "sector": "Capital Markets"
+  },
+  "6020": {
+    "name": "大展證",
+    "canonical": "大展證",
+    "sector": "Capital Markets"
+  },
+  "6021": {
+    "name": "美好證",
+    "canonical": "美好證",
+    "sector": "Capital Markets"
+  },
+  "6023": {
+    "name": "元大期",
+    "canonical": "元大期",
+    "sector": "Capital Markets"
+  },
+  "6024": {
+    "name": "群益期",
+    "canonical": "群益期",
+    "sector": "Capital Markets"
+  },
+  "6026": {
+    "name": "福邦證",
+    "canonical": "福邦證",
+    "sector": "Capital Markets"
+  },
+  "6027": {
+    "name": "德信",
+    "canonical": "德信",
+    "sector": "Capital Markets"
+  },
+  "6028": {
+    "name": "公勝保經",
+    "canonical": "公勝保經",
+    "sector": "Insurance Brokers"
+  },
+  "6035": {
+    "name": "悠遊卡",
+    "canonical": "悠遊卡",
+    "sector": "Software - Infrastructure"
+  },
+  "6103": {
+    "name": "合邦",
+    "canonical": "合邦",
+    "sector": "Semiconductors"
+  },
+  "6104": {
+    "name": "創惟",
+    "canonical": "創惟",
+    "sector": "Semiconductors"
+  },
+  "6108": {
+    "name": "競國",
+    "canonical": "競國",
+    "sector": "Electronic Components"
+  },
+  "6109": {
+    "name": "亞元",
+    "canonical": "亞元",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6112": {
+    "name": "邁達特",
+    "canonical": "邁達特",
+    "sector": "Information Technology Services"
+  },
+  "6113": {
+    "name": "亞矽",
+    "canonical": "亞矽",
+    "sector": "Semiconductors"
+  },
+  "6114": {
+    "name": "久威",
+    "canonical": "久威",
+    "sector": "Electronic Components"
+  },
+  "6115": {
+    "name": "鎰勝",
+    "canonical": "鎰勝",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6116": {
+    "name": "彩晶",
+    "canonical": "彩晶",
+    "sector": "Electronic Components"
+  },
+  "6117": {
+    "name": "迎廣",
+    "canonical": "迎廣",
+    "sector": "Computer Hardware"
+  },
+  "6118": {
+    "name": "建達",
+    "canonical": "建達",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6120": {
+    "name": "達運",
+    "canonical": "達運",
+    "sector": "Electronic Components"
+  },
+  "6121": {
+    "name": "新普",
+    "canonical": "新普",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6122": {
+    "name": "擎邦",
+    "canonical": "擎邦",
+    "sector": "Engineering & Construction"
+  },
+  "6123": {
+    "name": "上奇",
+    "canonical": "上奇",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6124": {
+    "name": "業強",
+    "canonical": "業強",
+    "sector": "Electronic Components"
+  },
+  "6125": {
+    "name": "廣運",
+    "canonical": "廣運",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6126": {
+    "name": "信音",
+    "canonical": "信音",
+    "sector": "Electronic Components"
+  },
+  "6127": {
+    "name": "九豪",
+    "canonical": "九豪",
+    "sector": "Semiconductors"
+  },
+  "6128": {
+    "name": "上福",
+    "canonical": "上福",
+    "sector": "Business Equipment & Supplies"
+  },
+  "6129": {
+    "name": "普誠",
+    "canonical": "普誠",
+    "sector": "Semiconductors"
+  },
+  "6133": {
+    "name": "金橋",
+    "canonical": "金橋",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6134": {
+    "name": "萬旭",
+    "canonical": "萬旭",
+    "sector": "Communication Equipment"
+  },
+  "6136": {
+    "name": "富爾特",
+    "canonical": "富爾特",
+    "sector": "Advertising Agencies"
+  },
+  "6138": {
+    "name": "茂達",
+    "canonical": "茂達",
+    "sector": "Semiconductors"
+  },
+  "6139": {
+    "name": "亞翔",
+    "canonical": "亞翔",
+    "sector": "Engineering & Construction"
+  },
+  "6140": {
+    "name": "訊達",
+    "canonical": "訊達",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6141": {
+    "name": "柏承",
+    "canonical": "柏承",
+    "sector": "Electronic Components"
+  },
+  "6142": {
+    "name": "友勁",
+    "canonical": "友勁",
+    "sector": "Communication Equipment"
+  },
+  "6143": {
+    "name": "振曜",
+    "canonical": "振曜",
+    "sector": "Communication Equipment"
+  },
+  "6146": {
+    "name": "耕興",
+    "canonical": "耕興",
+    "sector": "Specialty Business Services"
+  },
+  "6147": {
+    "name": "頎邦",
+    "canonical": "頎邦",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6148": {
+    "name": "驊宏資",
+    "canonical": "驊宏資",
+    "sector": "Communication Equipment"
+  },
+  "6150": {
+    "name": "撼訊",
+    "canonical": "撼訊",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6151": {
+    "name": "晉倫",
+    "canonical": "晉倫",
+    "sector": "Specialty Chemicals"
+  },
+  "6152": {
+    "name": "百一",
+    "canonical": "百一",
+    "sector": "Communication Equipment"
+  },
+  "6153": {
+    "name": "嘉聯益",
+    "canonical": "嘉聯益",
+    "sector": "Electronic Components"
+  },
+  "6154": {
+    "name": "順發",
+    "canonical": "順發",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6155": {
+    "name": "鈞寶",
+    "canonical": "鈞寶",
+    "sector": "Electronic Components"
+  },
+  "6156": {
+    "name": "松上",
+    "canonical": "松上",
+    "sector": "Electronic Components"
+  },
+  "6158": {
+    "name": "禾昌",
+    "canonical": "禾昌",
+    "sector": "Electronic Components"
+  },
+  "6160": {
+    "name": "欣技",
+    "canonical": "欣技",
+    "sector": "Business Equipment & Supplies"
+  },
+  "6161": {
+    "name": "捷波",
+    "canonical": "捷波",
+    "sector": "Computer Hardware"
+  },
+  "6163": {
+    "name": "華電網",
+    "canonical": "華電網",
+    "sector": "Telecom Services"
+  },
+  "6164": {
+    "name": "華興",
+    "canonical": "華興",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6165": {
+    "name": "浪凡",
+    "canonical": "浪凡",
+    "sector": "Electronic Components"
+  },
+  "6166": {
+    "name": "凌華",
+    "canonical": "凌華",
+    "sector": "Computer Hardware"
+  },
+  "6167": {
+    "name": "久正",
+    "canonical": "久正",
+    "sector": "Electronic Components"
+  },
+  "6168": {
+    "name": "宏齊",
+    "canonical": "宏齊",
+    "sector": "Semiconductors"
+  },
+  "6170": {
+    "name": "統振",
+    "canonical": "統振",
+    "sector": "Telecom Services"
+  },
+  "6171": {
+    "name": "大城地產",
+    "canonical": "大城地產",
+    "sector": "Real Estate - Development"
+  },
+  "6173": {
+    "name": "信昌電",
+    "canonical": "信昌電",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6174": {
+    "name": "安��",
+    "canonical": "安��",
+    "sector": "Electronic Components"
+  },
+  "6175": {
+    "name": "立敦",
+    "canonical": "立敦",
+    "sector": "Aluminum"
+  },
+  "6176": {
+    "name": "瑞儀",
+    "canonical": "瑞儀",
+    "sector": "Electronic Components"
+  },
+  "6177": {
+    "name": "達麗",
+    "canonical": "達麗",
+    "sector": "Real Estate - Development"
+  },
+  "6179": {
+    "name": "亞通",
+    "canonical": "亞通",
+    "sector": "Engineering & Construction"
+  },
+  "6182": {
+    "name": "合晶",
+    "canonical": "合晶",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6183": {
+    "name": "關貿",
+    "canonical": "關貿",
+    "sector": "Specialty Business Services"
+  },
+  "6184": {
+    "name": "大豐電",
+    "canonical": "大豐電",
+    "sector": "Entertainment"
+  },
+  "6185": {
+    "name": "幃翔",
+    "canonical": "幃翔",
+    "sector": "Electronic Components"
+  },
+  "6186": {
+    "name": "新潤",
+    "canonical": "新潤",
+    "sector": "Real Estate - Development"
+  },
+  "6187": {
+    "name": "萬潤",
+    "canonical": "萬潤",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6188": {
+    "name": "廣明",
+    "canonical": "廣明",
+    "sector": "Computer Hardware"
+  },
+  "6189": {
+    "name": "豐藝",
+    "canonical": "豐藝",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6190": {
+    "name": "萬泰科",
+    "canonical": "萬泰科",
+    "sector": "Communication Equipment"
+  },
+  "6191": {
+    "name": "精成科",
+    "canonical": "精成科",
+    "sector": "Electronic Components"
+  },
+  "6192": {
+    "name": "巨路",
+    "canonical": "巨路",
+    "sector": "Industrial Distribution"
+  },
+  "6194": {
+    "name": "育富",
+    "canonical": "育富",
+    "sector": "Electronic Components"
+  },
+  "6195": {
+    "name": "詩肯",
+    "canonical": "詩肯",
+    "sector": "Specialty Retail"
+  },
+  "6196": {
+    "name": "帆宣",
+    "canonical": "帆宣",
+    "sector": "Electronic Components"
+  },
+  "6197": {
+    "name": "佳必琪",
+    "canonical": "佳必琪",
+    "sector": "Computer Hardware"
+  },
+  "6198": {
+    "name": "瑞築",
+    "canonical": "瑞築",
+    "sector": "Semiconductors"
+  },
+  "6199": {
+    "name": "天品",
+    "canonical": "天品",
+    "sector": "Computer Hardware"
+  },
+  "6201": {
+    "name": "亞弘電",
+    "canonical": "亞弘電",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6202": {
+    "name": "盛群",
+    "canonical": "盛群",
+    "sector": "Semiconductors"
+  },
+  "6203": {
+    "name": "海韻電",
+    "canonical": "海韻電",
+    "sector": "Electronic Components"
+  },
+  "6204": {
+    "name": "艾華",
+    "canonical": "艾華",
+    "sector": "Electronic Components"
+  },
+  "6205": {
+    "name": "詮欣",
+    "canonical": "詮欣",
+    "sector": "Electronic Components"
+  },
+  "6206": {
+    "name": "飛捷",
+    "canonical": "飛捷",
+    "sector": "Computer Hardware"
+  },
+  "6207": {
+    "name": "雷科",
+    "canonical": "雷科",
+    "sector": "Electronic Components"
+  },
+  "6208": {
+    "name": "日揚",
+    "canonical": "日揚",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6209": {
+    "name": "今國光",
+    "canonical": "今國光",
+    "sector": "Electronic Components"
+  },
+  "6210": {
+    "name": "慶生",
+    "canonical": "慶生",
+    "sector": "Electronic Components"
+  },
+  "6212": {
+    "name": "理銘",
+    "canonical": "理銘",
+    "sector": "Real Estate - Development"
+  },
+  "6213": {
+    "name": "聯茂",
+    "canonical": "聯茂",
+    "sector": "Electronic Components"
+  },
+  "6214": {
+    "name": "精誠",
+    "canonical": "精誠",
+    "sector": "Information Technology Services"
+  },
+  "6215": {
+    "name": "和椿",
+    "canonical": "和椿",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6216": {
+    "name": "居易",
+    "canonical": "居易",
+    "sector": "Communication Equipment"
+  },
+  "6217": {
+    "name": "中探針",
+    "canonical": "中探針",
+    "sector": "Electronic Components"
+  },
+  "6218": {
+    "name": "豪勉",
+    "canonical": "豪勉",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6219": {
+    "name": "富旺",
+    "canonical": "富旺",
+    "sector": "Real Estate - Diversified"
+  },
+  "6220": {
+    "name": "岳豐",
+    "canonical": "岳豐",
+    "sector": "Communication Equipment"
+  },
+  "6221": {
+    "name": "晉泰",
+    "canonical": "晉泰",
+    "sector": "Information Technology Services"
+  },
+  "6222": {
+    "name": "立軒",
+    "canonical": "立軒",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6223": {
+    "name": "旺矽",
+    "canonical": "旺矽",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6224": {
+    "name": "聚鼎",
+    "canonical": "聚鼎",
+    "sector": "Electronic Components"
+  },
+  "6225": {
+    "name": "天瀚",
+    "canonical": "天瀚",
+    "sector": "Consumer Electronics"
+  },
+  "6226": {
+    "name": "光鼎",
+    "canonical": "光鼎",
+    "sector": "Electronic Components"
+  },
+  "6227": {
+    "name": "茂綸",
+    "canonical": "茂綸",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6228": {
+    "name": "全譜",
+    "canonical": "全譜",
+    "sector": "Computer Hardware"
+  },
+  "6229": {
+    "name": "研通",
+    "canonical": "研通",
+    "sector": "Semiconductors"
+  },
+  "6230": {
+    "name": "尼得科超眾",
+    "canonical": "尼得科超眾",
+    "sector": "Electronic Components"
+  },
+  "6231": {
+    "name": "系微",
+    "canonical": "系微",
+    "sector": "Software - Application"
+  },
+  "6233": {
+    "name": "旺玖",
+    "canonical": "旺玖",
+    "sector": "Semiconductors"
+  },
+  "6234": {
+    "name": "高僑",
+    "canonical": "高僑",
+    "sector": "Tools & Accessories"
+  },
+  "6235": {
+    "name": "華孚",
+    "canonical": "華孚",
+    "sector": "Metal Fabrication"
+  },
+  "6236": {
+    "name": "中湛",
+    "canonical": "中湛",
+    "sector": "Biotechnology"
+  },
+  "6237": {
+    "name": "驊訊",
+    "canonical": "驊訊",
+    "sector": "Semiconductors"
+  },
+  "6239": {
+    "name": "力成",
+    "canonical": "力成",
+    "sector": "Semiconductors"
+  },
+  "6240": {
+    "name": "松崗",
+    "canonical": "松崗",
+    "sector": "Publishing"
+  },
+  "6241": {
+    "name": "易通展",
+    "canonical": "易通展",
+    "sector": "Communication Equipment"
+  },
+  "6243": {
+    "name": "迅杰",
+    "canonical": "迅杰",
+    "sector": "Semiconductors"
+  },
+  "6244": {
+    "name": "茂迪",
+    "canonical": "茂迪",
+    "sector": "Solar"
+  },
+  "6245": {
+    "name": "立端",
+    "canonical": "立端",
+    "sector": "Communication Equipment"
+  },
+  "6246": {
+    "name": "臺龍",
+    "canonical": "臺龍",
+    "sector": "Electronic Components"
+  },
+  "6248": {
+    "name": "沛波",
+    "canonical": "沛波",
+    "sector": "Steel"
+  },
+  "6257": {
+    "name": "矽格",
+    "canonical": "矽格",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6259": {
+    "name": "百徽",
+    "canonical": "百徽",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6261": {
+    "name": "久元",
+    "canonical": "久元",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6263": {
+    "name": "普萊德",
+    "canonical": "普萊德",
+    "sector": "Communication Equipment"
+  },
+  "6264": {
+    "name": "富裔",
+    "canonical": "富裔",
+    "sector": "Real Estate Services"
+  },
+  "6265": {
+    "name": "方土昶",
+    "canonical": "方土昶",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6266": {
+    "name": "泰詠",
+    "canonical": "泰詠",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6269": {
+    "name": "台郡",
+    "canonical": "台郡",
+    "sector": "Electronic Components"
+  },
+  "6270": {
+    "name": "倍微",
+    "canonical": "倍微",
+    "sector": "Semiconductors"
+  },
+  "6271": {
+    "name": "同欣電",
+    "canonical": "同欣電",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6272": {
+    "name": "驊陞",
+    "canonical": "驊陞",
+    "sector": "Electronic Components"
+  },
+  "6274": {
+    "name": "台燿",
+    "canonical": "台燿",
+    "sector": "Electronic Components"
+  },
+  "6275": {
+    "name": "元山",
+    "canonical": "元山",
+    "sector": "Consumer Electronics"
+  },
+  "6276": {
+    "name": "安鈦克",
+    "canonical": "安鈦克",
+    "sector": "Electronic Components"
+  },
+  "6277": {
+    "name": "宏正",
+    "canonical": "宏正",
+    "sector": "Computer Hardware"
+  },
+  "6278": {
+    "name": "台表科",
+    "canonical": "台表科",
+    "sector": "Semiconductors"
+  },
+  "6281": {
+    "name": "全國電",
+    "canonical": "全國電",
+    "sector": "Specialty Retail"
+  },
+  "6282": {
+    "name": "康舒",
+    "canonical": "康舒",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6283": {
+    "name": "淳安",
+    "canonical": "淳安",
+    "sector": "Electronic Components"
+  },
+  "6284": {
+    "name": "佳邦",
+    "canonical": "佳邦",
+    "sector": "Electronic Components"
+  },
+  "6285": {
+    "name": "啟��",
+    "canonical": "啟��",
+    "sector": "Communication Equipment"
+  },
+  "6290": {
+    "name": "良維",
+    "canonical": "良維",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6291": {
+    "name": "沛亨",
+    "canonical": "沛亨",
+    "sector": "Semiconductors"
+  },
+  "6292": {
+    "name": "迅德",
+    "canonical": "迅德",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6405": {
+    "name": "悅城",
+    "canonical": "悅城",
+    "sector": "Electronic Components"
+  },
+  "6407": {
+    "name": "相互",
+    "canonical": "相互",
+    "sector": "Electronic Components"
+  },
+  "6409": {
+    "name": "旭隼",
+    "canonical": "旭隼",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6411": {
+    "name": "晶焱",
+    "canonical": "晶焱",
+    "sector": "Semiconductors"
+  },
+  "6412": {
+    "name": "群電",
+    "canonical": "群電",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6414": {
+    "name": "樺漢",
+    "canonical": "樺漢",
+    "sector": "Computer Hardware"
+  },
+  "6415": {
+    "name": "矽力-KY",
+    "canonical": "矽力-KY",
+    "sector": "Semiconductors"
+  },
+  "6416": {
+    "name": "瑞祺電通",
+    "canonical": "瑞祺電通",
+    "sector": "Communication Equipment"
+  },
+  "6417": {
+    "name": "韋僑",
+    "canonical": "韋僑",
+    "sector": "Communication Equipment"
+  },
+  "6418": {
+    "name": "詠昇",
+    "canonical": "詠昇",
+    "sector": "Electronic Components"
+  },
+  "6419": {
+    "name": "京晨科",
+    "canonical": "京晨科",
+    "sector": "Security & Protection Services"
+  },
+  "6423": {
+    "name": "億而得",
+    "canonical": "億而得",
+    "sector": "Semiconductors"
+  },
+  "6425": {
+    "name": "易發",
+    "canonical": "易發",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6426": {
+    "name": "統新",
+    "canonical": "統新",
+    "sector": "Communication Equipment"
+  },
+  "6432": {
+    "name": "今展科",
+    "canonical": "今展科",
+    "sector": "Electronic Components"
+  },
+  "6434": {
+    "name": "達輝光電",
+    "canonical": "達輝光電",
+    "sector": "Specialty Chemicals"
+  },
+  "6435": {
+    "name": "大中",
+    "canonical": "大中",
+    "sector": "Semiconductors"
+  },
+  "6438": {
+    "name": "迅得",
+    "canonical": "迅得",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6441": {
+    "name": "廣錠",
+    "canonical": "廣錠",
+    "sector": "Semiconductors"
+  },
+  "6442": {
+    "name": "光聖",
+    "canonical": "光聖",
+    "sector": "Electronic Components"
+  },
+  "6443": {
+    "name": "元晶",
+    "canonical": "元晶",
+    "sector": "Solar"
+  },
+  "6449": {
+    "name": "鈺邦",
+    "canonical": "鈺邦",
+    "sector": "Electronic Components"
+  },
+  "6451": {
+    "name": "訊芯-KY",
+    "canonical": "訊芯-KY",
+    "sector": "Semiconductors"
+  },
+  "6456": {
+    "name": "GIS-KY",
+    "canonical": "GIS-KY",
+    "sector": "Electronic Components"
+  },
+  "6462": {
+    "name": "神盾",
+    "canonical": "神盾",
+    "sector": "Software - Infrastructure"
+  },
+  "6464": {
+    "name": "台數科",
+    "canonical": "台數科",
+    "sector": "Entertainment"
+  },
+  "6465": {
+    "name": "威潤",
+    "canonical": "威潤",
+    "sector": "Communication Equipment"
+  },
+  "6470": {
+    "name": "宇智",
+    "canonical": "宇智",
+    "sector": "Communication Equipment"
+  },
+  "6473": {
+    "name": "美賣",
+    "canonical": "美賣",
+    "sector": "Electronic Gaming & Multimedia"
+  },
+  "6474": {
+    "name": "華豫寧",
+    "canonical": "華豫寧",
+    "sector": "Electronic Components"
+  },
+  "6477": {
+    "name": "安集",
+    "canonical": "安集",
+    "sector": "Solar"
+  },
+  "6485": {
+    "name": "點序",
+    "canonical": "點序",
+    "sector": "Computer Hardware"
+  },
+  "6486": {
+    "name": "互動",
+    "canonical": "互動",
+    "sector": "Software - Application"
+  },
+  "6488": {
+    "name": "環球晶",
+    "canonical": "環球晶",
+    "sector": "Semiconductors"
+  },
+  "6494": {
+    "name": "九齊",
+    "canonical": "九齊",
+    "sector": "Semiconductors"
+  },
+  "6498": {
+    "name": "久禾光",
+    "canonical": "久禾光",
+    "sector": "Electronic Components"
+  },
+  "6504": {
+    "name": "南六",
+    "canonical": "南六",
+    "sector": "Household & Personal Products"
+  },
+  "6505": {
+    "name": "台塑化",
+    "canonical": "台塑化",
+    "sector": "Oil & Gas Refining & Marketing"
+  },
+  "6506": {
+    "name": "雙邦",
+    "canonical": "雙邦",
+    "sector": "Specialty Chemicals"
+  },
+  "6508": {
+    "name": "惠光",
+    "canonical": "惠光",
+    "sector": "Agricultural Inputs"
+  },
+  "6509": {
+    "name": "聚和",
+    "canonical": "聚和",
+    "sector": "Specialty Chemicals"
+  },
+  "6510": {
+    "name": "精測",
+    "canonical": "精測",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6512": {
+    "name": "啟發電",
+    "canonical": "啟發電",
+    "sector": "Electronic Components"
+  },
+  "6515": {
+    "name": "穎崴",
+    "canonical": "穎崴",
+    "sector": "Semiconductors"
+  },
+  "6516": {
+    "name": "勤崴國際",
+    "canonical": "勤崴國際",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "6517": {
+    "name": "保勝光學",
+    "canonical": "保勝光學",
+    "sector": "Electronic Components"
+  },
+  "6525": {
+    "name": "捷敏-KY",
+    "canonical": "捷敏-KY",
+    "sector": "Semiconductors"
+  },
+  "6526": {
+    "name": "達發",
+    "canonical": "達發",
+    "sector": "Semiconductors"
+  },
+  "6530": {
+    "name": "創威",
+    "canonical": "創威",
+    "sector": "Communication Equipment"
+  },
+  "6531": {
+    "name": "愛普",
+    "canonical": "愛普",
+    "sector": "Semiconductors"
+  },
+  "6532": {
+    "name": "瑞耘",
+    "canonical": "瑞耘",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6533": {
+    "name": "晶心科",
+    "canonical": "晶心科",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6536": {
+    "name": "碩豐",
+    "canonical": "碩豐",
+    "sector": "Gambling"
+  },
+  "6538": {
+    "name": "倉和",
+    "canonical": "倉和",
+    "sector": "Electronic Components"
+  },
+  "6546": {
+    "name": "正基",
+    "canonical": "正基",
+    "sector": "Communication Equipment"
+  },
+  "6548": {
+    "name": "長科",
+    "canonical": "長科",
+    "sector": "Semiconductors"
+  },
+  "6552": {
+    "name": "易華電",
+    "canonical": "易華電",
+    "sector": "Semiconductors"
+  },
+  "6555": {
+    "name": "榮炭",
+    "canonical": "榮炭",
+    "sector": "Specialty Chemicals"
+  },
+  "6556": {
+    "name": "勝品",
+    "canonical": "勝品",
+    "sector": "Security & Protection Services"
+  },
+  "6558": {
+    "name": "興能高",
+    "canonical": "興能高",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6559": {
+    "name": "研晶",
+    "canonical": "研晶",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6560": {
+    "name": "欣普羅",
+    "canonical": "欣普羅",
+    "sector": "Electronic Components"
+  },
+  "6561": {
+    "name": "是方",
+    "canonical": "是方",
+    "sector": "Telecom Services"
+  },
+  "6565": {
+    "name": "物聯",
+    "canonical": "物聯",
+    "sector": "Software - Infrastructure"
+  },
+  "6568": {
+    "name": "宏觀",
+    "canonical": "宏觀",
+    "sector": "Semiconductors"
+  },
+  "6570": {
+    "name": "維田",
+    "canonical": "維田",
+    "sector": "Computer Hardware"
+  },
+  "6573": {
+    "name": "虹揚-KY",
+    "canonical": "虹揚-KY",
+    "sector": "Semiconductors"
+  },
+  "6577": {
+    "name": "勁豐",
+    "canonical": "勁豐",
+    "sector": "Electronic Components"
+  },
+  "6578": {
+    "name": "達邦蛋白",
+    "canonical": "達邦蛋白",
+    "sector": "Packaged Foods"
+  },
+  "6579": {
+    "name": "研揚",
+    "canonical": "研揚",
+    "sector": "Computer Hardware"
+  },
+  "6581": {
+    "name": "鋼聯",
+    "canonical": "鋼聯",
+    "sector": "Waste Management"
+  },
+  "6582": {
+    "name": "申豐",
+    "canonical": "申豐",
+    "sector": "Specialty Chemicals"
+  },
+  "6584": {
+    "name": "南俊國際",
+    "canonical": "南俊國際",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6585": {
+    "name": "鼎基",
+    "canonical": "鼎基",
+    "sector": "Specialty Chemicals"
+  },
+  "6588": {
+    "name": "東典光電",
+    "canonical": "東典光電",
+    "sector": "Semiconductors"
+  },
+  "6590": {
+    "name": "普鴻",
+    "canonical": "普鴻",
+    "sector": "Software - Application"
+  },
+  "6591": {
+    "name": "動力-KY",
+    "canonical": "動力-KY",
+    "sector": "Computer Hardware"
+  },
+  "6592": {
+    "name": "和潤企業",
+    "canonical": "和潤企業",
+    "sector": "Credit Services"
+  },
+  "6593": {
+    "name": "台灣銘板",
+    "canonical": "台灣銘板",
+    "sector": "Business Equipment & Supplies"
+  },
+  "6597": {
+    "name": "立誠",
+    "canonical": "立誠",
+    "sector": "Electronic Components"
+  },
+  "6599": {
+    "name": "普達系統",
+    "canonical": "普達系統",
+    "sector": "Computer Hardware"
+  },
+  "6603": {
+    "name": "富強鑫",
+    "canonical": "富強鑫",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6606": {
+    "name": "建德工業",
+    "canonical": "建德工業",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6609": {
+    "name": "瀧澤科",
+    "canonical": "瀧澤科",
+    "sector": "Electronic Components"
+  },
+  "6613": {
+    "name": "朋億",
+    "canonical": "朋億",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6614": {
+    "name": "資拓宏宇",
+    "canonical": "資拓宏宇",
+    "sector": "Information Technology Services"
+  },
+  "6616": {
+    "name": "特昇-KY",
+    "canonical": "特昇-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6618": {
+    "name": "永虹先進",
+    "canonical": "永虹先進",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6624": {
+    "name": "萬年清",
+    "canonical": "萬年清",
+    "sector": "Waste Management"
+  },
+  "6625": {
+    "name": "必應",
+    "canonical": "必應",
+    "sector": "Entertainment"
+  },
+  "6629": {
+    "name": "泰金-KY",
+    "canonical": "泰金-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6638": {
+    "name": "沅聖",
+    "canonical": "沅聖",
+    "sector": "Communication Equipment"
+  },
+  "6639": {
+    "name": "源大環能",
+    "canonical": "源大環能",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6640": {
+    "name": "均華",
+    "canonical": "均華",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6641": {
+    "name": "基士德-KY",
+    "canonical": "基士德-KY",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "6642": {
+    "name": "富致",
+    "canonical": "富致",
+    "sector": "Semiconductors"
+  },
+  "6643": {
+    "name": "M31",
+    "canonical": "M31",
+    "sector": "Semiconductors"
+  },
+  "6648": {
+    "name": "斯其大",
+    "canonical": "斯其大",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6651": {
+    "name": "全宇昕",
+    "canonical": "全宇昕",
+    "sector": "Electronic Components"
+  },
+  "6654": {
+    "name": "天正國際",
+    "canonical": "天正國際",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6655": {
+    "name": "科定",
+    "canonical": "科定",
+    "sector": "Lumber & Wood Production"
+  },
+  "6658": {
+    "name": "聯策",
+    "canonical": "聯策",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6664": {
+    "name": "群翊",
+    "canonical": "群翊",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6667": {
+    "name": "信紘科",
+    "canonical": "信紘科",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6668": {
+    "name": "中揚光",
+    "canonical": "中揚光",
+    "sector": "Electronic Components"
+  },
+  "6669": {
+    "name": "緯穎",
+    "canonical": "緯穎",
+    "sector": "Computer Hardware"
+  },
+  "6670": {
+    "name": "復盛應用",
+    "canonical": "復盛應用",
+    "sector": "Leisure"
+  },
+  "6671": {
+    "name": "三能-KY",
+    "canonical": "三能-KY",
+    "sector": "Household & Personal Products"
+  },
+  "6672": {
+    "name": "騰輝電子-KY",
+    "canonical": "騰輝電子-KY",
+    "sector": "Electronic Components"
+  },
+  "6673": {
+    "name": "和詮",
+    "canonical": "和詮",
+    "sector": "Electronic Components"
+  },
+  "6674": {
+    "name": "鋐寶科技",
+    "canonical": "鋐寶科技",
+    "sector": "Communication Equipment"
+  },
+  "6679": {
+    "name": "鈺太",
+    "canonical": "鈺太",
+    "sector": "Semiconductors"
+  },
+  "6680": {
+    "name": "鑫創電子",
+    "canonical": "鑫創電子",
+    "sector": "Computer Hardware"
+  },
+  "6682": {
+    "name": "華旭先進",
+    "canonical": "華旭先進",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6683": {
+    "name": "雍智科技",
+    "canonical": "雍智科技",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6684": {
+    "name": "安格",
+    "canonical": "安格",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6689": {
+    "name": "伊雲谷",
+    "canonical": "伊雲谷",
+    "sector": "Software - Infrastructure"
+  },
+  "6690": {
+    "name": "安�硌穈T",
+    "canonical": "安�硌穈T",
+    "sector": "Software - Infrastructure"
+  },
+  "6691": {
+    "name": "洋基工程",
+    "canonical": "洋基工程",
+    "sector": "Engineering & Construction"
+  },
+  "6692": {
+    "name": "進能服",
+    "canonical": "進能服",
+    "sector": "Solar"
+  },
+  "6693": {
+    "name": "廣閎科",
+    "canonical": "廣閎科",
+    "sector": "Semiconductors"
+  },
+  "6695": {
+    "name": "芯鼎",
+    "canonical": "芯鼎",
+    "sector": "Semiconductors"
+  },
+  "6697": {
+    "name": "東捷資訊",
+    "canonical": "東捷資訊",
+    "sector": "Information Technology Services"
+  },
+  "6698": {
+    "name": "旭暉應材",
+    "canonical": "旭暉應材",
+    "sector": "Electronic Components"
+  },
+  "6705": {
+    "name": "振躍精密",
+    "canonical": "振躍精密",
+    "sector": "Tools & Accessories"
+  },
+  "6706": {
+    "name": "惠特",
+    "canonical": "惠特",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6708": {
+    "name": "天擎",
+    "canonical": "天擎",
+    "sector": "Communication Equipment"
+  },
+  "6715": {
+    "name": "嘉基",
+    "canonical": "嘉基",
+    "sector": "Communication Equipment"
+  },
+  "6716": {
+    "name": "應廣",
+    "canonical": "應廣",
+    "sector": "Semiconductors"
+  },
+  "6719": {
+    "name": "力智",
+    "canonical": "力智",
+    "sector": "Semiconductors"
+  },
+  "6720": {
+    "name": "久昌",
+    "canonical": "久昌",
+    "sector": "Semiconductors"
+  },
+  "6721": {
+    "name": "信實",
+    "canonical": "信實",
+    "sector": "Specialty Business Services"
+  },
+  "6723": {
+    "name": "傑智環境",
+    "canonical": "傑智環境",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "6725": {
+    "name": "矽科宏晟",
+    "canonical": "矽科宏晟",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6727": {
+    "name": "亞泰金屬",
+    "canonical": "亞泰金屬",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6728": {
+    "name": "上洋",
+    "canonical": "上洋",
+    "sector": "Consumer Electronics"
+  },
+  "6729": {
+    "name": "機光科技",
+    "canonical": "機光科技",
+    "sector": "Chemicals"
+  },
+  "6732": {
+    "name": "昇佳電子",
+    "canonical": "昇佳電子",
+    "sector": "Electronic Components"
+  },
+  "6735": {
+    "name": "美達科技",
+    "canonical": "美達科技",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6737": {
+    "name": "秀育",
+    "canonical": "秀育",
+    "sector": "Computer Hardware"
+  },
+  "6738": {
+    "name": "鼎��",
+    "canonical": "鼎��",
+    "sector": "Software - Application"
+  },
+  "6739": {
+    "name": "竹陞科技",
+    "canonical": "竹陞科技",
+    "sector": "Semiconductors"
+  },
+  "6741": {
+    "name": "91APP-KY",
+    "canonical": "91APP-KY",
+    "sector": "Software - Infrastructure"
+  },
+  "6742": {
+    "name": "澤米",
+    "canonical": "澤米",
+    "sector": "Electronic Components"
+  },
+  "6743": {
+    "name": "安普新",
+    "canonical": "安普新",
+    "sector": "Consumer Electronics"
+  },
+  "6750": {
+    "name": "泰創工程",
+    "canonical": "泰創工程",
+    "sector": "Engineering & Construction"
+  },
+  "6751": {
+    "name": "智聯服務",
+    "canonical": "智聯服務",
+    "sector": "Information Technology Services"
+  },
+  "6752": {
+    "name": "叡揚",
+    "canonical": "叡揚",
+    "sector": "Software - Infrastructure"
+  },
+  "6753": {
+    "name": "龍德造船",
+    "canonical": "龍德造船",
+    "sector": "Aerospace & Defense"
+  },
+  "6754": {
+    "name": "匯僑設計",
+    "canonical": "匯僑設計",
+    "sector": "Consulting Services"
+  },
+  "6755": {
+    "name": "連鋐科技",
+    "canonical": "連鋐科技",
+    "sector": "Computer Hardware"
+  },
+  "6756": {
+    "name": "威鋒電子",
+    "canonical": "威鋒電子",
+    "sector": "Electronic Components"
+  },
+  "6757": {
+    "name": "台灣虎航",
+    "canonical": "台灣虎航",
+    "sector": "Airlines"
+  },
+  "6761": {
+    "name": "穩得",
+    "canonical": "穩得",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6763": {
+    "name": "綠界科技",
+    "canonical": "綠界科技",
+    "sector": "Software - Infrastructure"
+  },
+  "6768": {
+    "name": "志強-KY",
+    "canonical": "志強-KY",
+    "sector": "Footwear & Accessories"
+  },
+  "6770": {
+    "name": "力積電",
+    "canonical": "力積電",
+    "sector": "Semiconductors"
+  },
+  "6771": {
+    "name": "平和環保-創",
+    "canonical": "平和環保-創",
+    "sector": "Waste Management"
+  },
+  "6775": {
+    "name": "穎台科技",
+    "canonical": "穎台科技",
+    "sector": "Electronic Components"
+  },
+  "6776": {
+    "name": "展�眥篕�",
+    "canonical": "展�眥篕�",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "6781": {
+    "name": "AES-KY",
+    "canonical": "AES-KY",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6784": {
+    "name": "天凱科技",
+    "canonical": "天凱科技",
+    "sector": "Consumer Electronics"
+  },
+  "6786": {
+    "name": "芯測",
+    "canonical": "芯測",
+    "sector": "Semiconductors"
+  },
+  "6787": {
+    "name": "晶瑞光",
+    "canonical": "晶瑞光",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6788": {
+    "name": "華景電",
+    "canonical": "華景電",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6789": {
+    "name": "采鈺",
+    "canonical": "采鈺",
+    "sector": "Semiconductors"
+  },
+  "6791": {
+    "name": "虎門科技",
+    "canonical": "虎門科技",
+    "sector": "Software - Infrastructure"
+  },
+  "6792": {
+    "name": "詠業",
+    "canonical": "詠業",
+    "sector": "Electronic Components"
+  },
+  "6793": {
+    "name": "天力離岸",
+    "canonical": "天力離岸",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6799": {
+    "name": "來頡",
+    "canonical": "來頡",
+    "sector": "Semiconductors"
+  },
+  "6803": {
+    "name": "崑鼎",
+    "canonical": "崑鼎",
+    "sector": "Waste Management"
+  },
+  "6804": {
+    "name": "明係",
+    "canonical": "明係",
+    "sector": "Leisure"
+  },
+  "6805": {
+    "name": "富世達",
+    "canonical": "富世達",
+    "sector": "Computer Hardware"
+  },
+  "6806": {
+    "name": "森崴能源",
+    "canonical": "森崴能源",
+    "sector": "Utilities - Renewable"
+  },
+  "6807": {
+    "name": "峰源-KY",
+    "canonical": "峰源-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6811": {
+    "name": "宏�硌穈T",
+    "canonical": "宏�硌穈T",
+    "sector": "Information Technology Services"
+  },
+  "6812": {
+    "name": "梭特",
+    "canonical": "梭特",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6818": {
+    "name": "連騰",
+    "canonical": "連騰",
+    "sector": "Electronic Components"
+  },
+  "6819": {
+    "name": "眾智",
+    "canonical": "眾智",
+    "sector": "Semiconductors"
+  },
+  "6820": {
+    "name": "連訊",
+    "canonical": "連訊",
+    "sector": "Communication Equipment"
+  },
+  "6821": {
+    "name": "聯寶",
+    "canonical": "聯寶",
+    "sector": "Electronic Components"
+  },
+  "6823": {
+    "name": "濾能",
+    "canonical": "濾能",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "6825": {
+    "name": "和暢科技",
+    "canonical": "和暢科技",
+    "sector": "Computer Hardware"
+  },
+  "6826": {
+    "name": "和淞",
+    "canonical": "和淞",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6829": {
+    "name": "千附精密",
+    "canonical": "千附精密",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6830": {
+    "name": "汎銓",
+    "canonical": "汎銓",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6831": {
+    "name": "邁科",
+    "canonical": "邁科",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6832": {
+    "name": "金鼎科",
+    "canonical": "金鼎科",
+    "sector": "Textile Manufacturing"
+  },
+  "6833": {
+    "name": "太康精密",
+    "canonical": "太康精密",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6834": {
+    "name": "天二科技",
+    "canonical": "天二科技",
+    "sector": "Electronic Components"
+  },
+  "6835": {
+    "name": "圓裕",
+    "canonical": "圓裕",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6839": {
+    "name": "開陽能源",
+    "canonical": "開陽能源",
+    "sector": "Solar"
+  },
+  "6840": {
+    "name": "東研信超",
+    "canonical": "東研信超",
+    "sector": "Electronic Components"
+  },
+  "6854": {
+    "name": "錼創科技-KY創",
+    "canonical": "錼創科技-KY創",
+    "sector": "Electronic Components"
+  },
+  "6855": {
+    "name": "數泓科",
+    "canonical": "數泓科",
+    "sector": "Tools & Accessories"
+  },
+  "6858": {
+    "name": "愛比科技",
+    "canonical": "愛比科技",
+    "sector": "Communication Equipment"
+  },
+  "6859": {
+    "name": "伯特光",
+    "canonical": "伯特光",
+    "sector": "Metal Fabrication"
+  },
+  "6862": {
+    "name": "三集瑞-KY",
+    "canonical": "三集瑞-KY",
+    "sector": "Electronic Components"
+  },
+  "6863": {
+    "name": "永道-KY",
+    "canonical": "永道-KY",
+    "sector": "Electronic Components"
+  },
+  "6869": {
+    "name": "雲豹能源",
+    "canonical": "雲豹能源",
+    "sector": "Utilities - Renewable"
+  },
+  "6870": {
+    "name": "騰雲",
+    "canonical": "騰雲",
+    "sector": "Software - Infrastructure"
+  },
+  "6873": {
+    "name": "泓德能源",
+    "canonical": "泓德能源",
+    "sector": "Engineering & Construction"
+  },
+  "6874": {
+    "name": "倍力",
+    "canonical": "倍力",
+    "sector": "Software - Application"
+  },
+  "6877": {
+    "name": "鏵友益",
+    "canonical": "鏵友益",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6878": {
+    "name": "歐付寶",
+    "canonical": "歐付寶",
+    "sector": "Software - Infrastructure"
+  },
+  "6881": {
+    "name": "潤德",
+    "canonical": "潤德",
+    "sector": "Consulting Services"
+  },
+  "6882": {
+    "name": "甲尚",
+    "canonical": "甲尚",
+    "sector": "Software - Application"
+  },
+  "6884": {
+    "name": "海柏特",
+    "canonical": "海柏特",
+    "sector": "Computer Hardware"
+  },
+  "6887": {
+    "name": "寶綠特-KY",
+    "canonical": "寶綠特-KY",
+    "sector": "Waste Management"
+  },
+  "6890": {
+    "name": "來億-KY",
+    "canonical": "來億-KY",
+    "sector": "Footwear & Accessories"
+  },
+  "6894": {
+    "name": "衛司特",
+    "canonical": "衛司特",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "6895": {
+    "name": "宏碩系統",
+    "canonical": "宏碩系統",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6898": {
+    "name": "程曦資訊",
+    "canonical": "程曦資訊",
+    "sector": "Specialty Business Services"
+  },
+  "6899": {
+    "name": "創為精密",
+    "canonical": "創為精密",
+    "sector": "Electronic Components"
+  },
+  "6901": {
+    "name": "鑽石投資",
+    "canonical": "鑽石投資",
+    "sector": "Asset Management"
+  },
+  "6902": {
+    "name": "GOGOLOOK",
+    "canonical": "GOGOLOOK",
+    "sector": "Software - Application"
+  },
+  "6903": {
+    "name": "巨漢",
+    "canonical": "巨漢",
+    "sector": "Engineering & Construction"
+  },
+  "6904": {
+    "name": "伯鑫",
+    "canonical": "伯鑫",
+    "sector": "Tools & Accessories"
+  },
+  "6906": {
+    "name": "現觀科",
+    "canonical": "現觀科",
+    "sector": "Information Technology Services"
+  },
+  "6908": {
+    "name": "宏�砦C戲",
+    "canonical": "宏�砦C戲",
+    "sector": "Electronic Gaming & Multimedia"
+  },
+  "6909": {
+    "name": "創控",
+    "canonical": "創控",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6914": {
+    "name": "阜爾運通",
+    "canonical": "阜爾運通",
+    "sector": "Business Equipment & Supplies"
+  },
+  "6916": {
+    "name": "華凌",
+    "canonical": "華凌",
+    "sector": "Electronic Components"
+  },
+  "6920": {
+    "name": "恆勁科技",
+    "canonical": "恆勁科技",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6921": {
+    "name": "嘉雨思-創",
+    "canonical": "嘉雨思-創",
+    "sector": "Semiconductors"
+  },
+  "6922": {
+    "name": "宸曜",
+    "canonical": "宸曜",
+    "sector": "Computer Hardware"
+  },
+  "6923": {
+    "name": "中台",
+    "canonical": "中台",
+    "sector": "Waste Management"
+  },
+  "6924": {
+    "name": "榮惠-KY創",
+    "canonical": "榮惠-KY創",
+    "sector": "Electronic Components"
+  },
+  "6925": {
+    "name": "意藍",
+    "canonical": "意藍",
+    "sector": "Software - Infrastructure"
+  },
+  "6927": {
+    "name": "聯合聚晶",
+    "canonical": "聯合聚晶",
+    "sector": "Electronic Components"
+  },
+  "6928": {
+    "name": "攸泰科技",
+    "canonical": "攸泰科技",
+    "sector": "Computer Hardware"
+  },
+  "6933": {
+    "name": "AMAX-KY",
+    "canonical": "AMAX-KY",
+    "sector": "Computer Hardware"
+  },
+  "6937": {
+    "name": "天虹",
+    "canonical": "天虹",
+    "sector": "Semiconductors"
+  },
+  "6940": {
+    "name": "格斯科技",
+    "canonical": "格斯科技",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "6944": {
+    "name": "兆聯實業",
+    "canonical": "兆聯實業",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "6947": {
+    "name": "台鎔科技",
+    "canonical": "台鎔科技",
+    "sector": "Waste Management"
+  },
+  "6951": {
+    "name": "青新-創",
+    "canonical": "青新-創",
+    "sector": "Waste Management"
+  },
+  "6952": {
+    "name": "大武山",
+    "canonical": "大武山",
+    "sector": "Farm Products"
+  },
+  "6953": {
+    "name": "家碩",
+    "canonical": "家碩",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "6957": {
+    "name": "裕慶-KY",
+    "canonical": "裕慶-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "6958": {
+    "name": "日盛台駿",
+    "canonical": "日盛台駿",
+    "sector": "Credit Services"
+  },
+  "6959": {
+    "name": "兆捷科技",
+    "canonical": "兆捷科技",
+    "sector": "Specialty Chemicals"
+  },
+  "6962": {
+    "name": "奕力-KY",
+    "canonical": "奕力-KY",
+    "sector": "Electronic Components"
+  },
+  "6965": {
+    "name": "中傑-KY",
+    "canonical": "中傑-KY",
+    "sector": "Footwear & Accessories"
+  },
+  "6968": {
+    "name": "萬達寵物",
+    "canonical": "萬達寵物",
+    "sector": "Packaged Foods"
+  },
+  "6969": {
+    "name": "成信實業-創",
+    "canonical": "成信實業-創",
+    "sector": "Conglomerates"
+  },
+  "6977": {
+    "name": "聯純",
+    "canonical": "聯純",
+    "sector": "Utilities - Regulated Water"
+  },
+  "6982": {
+    "name": "大井泵浦",
+    "canonical": "大井泵浦",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "6988": {
+    "name": "威力暘-創",
+    "canonical": "威力暘-創",
+    "sector": "Electronic Components"
+  },
+  "6994": {
+    "name": "富威電力",
+    "canonical": "富威電力",
+    "sector": "Utilities - Renewable"
+  },
+  "6997": {
+    "name": "博弘",
+    "canonical": "博弘",
+    "sector": "Information Technology Services"
+  },
+  "7402": {
+    "name": "邑錡",
+    "canonical": "邑錡",
+    "sector": "Security & Protection Services"
+  },
+  "7419": {
+    "name": "達勝",
+    "canonical": "達勝",
+    "sector": "Electronic Components"
+  },
+  "7507": {
+    "name": "環拓科技",
+    "canonical": "環拓科技",
+    "sector": "Waste Management"
+  },
+  "7516": {
+    "name": "清淨海",
+    "canonical": "清淨海",
+    "sector": "Household & Personal Products"
+  },
+  "7547": {
+    "name": "碩網",
+    "canonical": "碩網",
+    "sector": "Software - Infrastructure"
+  },
+  "7551": {
+    "name": "知識科技",
+    "canonical": "知識科技",
+    "sector": "Internet Content & Information"
+  },
+  "7556": {
+    "name": "意德士",
+    "canonical": "意德士",
+    "sector": "Electronic Components"
+  },
+  "7558": {
+    "name": "群利",
+    "canonical": "群利",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "7578": {
+    "name": "利百景",
+    "canonical": "利百景",
+    "sector": "Waste Management"
+  },
+  "7590": {
+    "name": "怡和國際",
+    "canonical": "怡和國際",
+    "sector": "Engineering & Construction"
+  },
+  "7610": {
+    "name": "聯友金屬-創",
+    "canonical": "聯友金屬-創",
+    "sector": "Other Industrial Metals & Mining"
+  },
+  "7702": {
+    "name": "前端風電",
+    "canonical": "前端風電",
+    "sector": "Metal Fabrication"
+  },
+  "7704": {
+    "name": "明遠精密",
+    "canonical": "明遠精密",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "7711": {
+    "name": "永擎",
+    "canonical": "永擎",
+    "sector": "Computer Hardware"
+  },
+  "7721": {
+    "name": "微程式",
+    "canonical": "微程式",
+    "sector": "Software - Infrastructure"
+  },
+  "7722": {
+    "name": "LINEPAY",
+    "canonical": "LINEPAY",
+    "sector": "Software - Infrastructure"
+  },
+  "7728": {
+    "name": "光焱科技",
+    "canonical": "光焱科技",
+    "sector": "Semiconductors"
+  },
+  "7730": {
+    "name": "暉盛-創",
+    "canonical": "暉盛-創",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "7740": {
+    "name": "熙特爾-創",
+    "canonical": "熙特爾-創",
+    "sector": "Utilities - Regulated Electric"
+  },
+  "7742": {
+    "name": "天弘化",
+    "canonical": "天弘化",
+    "sector": "Specialty Chemicals"
+  },
+  "7749": {
+    "name": "意騰-KY",
+    "canonical": "意騰-KY",
+    "sector": "Software - Infrastructure"
+  },
+  "7750": {
+    "name": "新代",
+    "canonical": "新代",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "7765": {
+    "name": "中華資安",
+    "canonical": "中華資安",
+    "sector": "Information Technology Services"
+  },
+  "7769": {
+    "name": "鴻勁",
+    "canonical": "鴻勁",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "7786": {
+    "name": "東方風能",
+    "canonical": "東方風能",
+    "sector": "Specialty Business Services"
+  },
+  "7788": {
+    "name": "松川精密",
+    "canonical": "松川精密",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "7795": {
+    "name": "長廣",
+    "canonical": "長廣",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "7812": {
+    "name": "稜研科技",
+    "canonical": "稜研科技",
+    "sector": "Communication Equipment"
+  },
+  "7815": {
+    "name": "新特",
+    "canonical": "新特",
+    "sector": "Semiconductors"
+  },
+  "7819": {
+    "name": "精誠金融",
+    "canonical": "精誠金融",
+    "sector": "Software - Infrastructure"
+  },
+  "7823": {
+    "name": "奧義賽博-KY創",
+    "canonical": "奧義賽博-KY創",
+    "sector": "Software - Infrastructure"
+  },
+  "7828": {
+    "name": "創新服務",
+    "canonical": "創新服務",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "7833": {
+    "name": "綠岩能源",
+    "canonical": "綠岩能源",
+    "sector": "Utilities - Renewable"
+  },
+  "7861": {
+    "name": "貝爾威勒",
+    "canonical": "貝爾威勒",
+    "sector": "Electronic Components"
+  },
+  "8011": {
+    "name": "台通",
+    "canonical": "台通",
+    "sector": "Communication Equipment"
+  },
+  "8016": {
+    "name": "矽創",
+    "canonical": "矽創",
+    "sector": "Semiconductors"
+  },
+  "8021": {
+    "name": "尖點",
+    "canonical": "尖點",
+    "sector": "Tools & Accessories"
+  },
+  "8024": {
+    "name": "佑華",
+    "canonical": "佑華",
+    "sector": "Semiconductors"
+  },
+  "8027": {
+    "name": "鈦昇",
+    "canonical": "鈦昇",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "8028": {
+    "name": "昇陽半導體",
+    "canonical": "半導體",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "8032": {
+    "name": "光菱",
+    "canonical": "光菱",
+    "sector": "Computer Hardware"
+  },
+  "8033": {
+    "name": "雷虎",
+    "canonical": "雷虎",
+    "sector": "Leisure"
+  },
+  "8034": {
+    "name": "榮群",
+    "canonical": "榮群",
+    "sector": "Communication Equipment"
+  },
+  "8038": {
+    "name": "長園科",
+    "canonical": "長園科",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "8039": {
+    "name": "台虹",
+    "canonical": "台虹",
+    "sector": "Electronic Components"
+  },
+  "8040": {
+    "name": "九暘",
+    "canonical": "九暘",
+    "sector": "Semiconductors"
+  },
+  "8042": {
+    "name": "金山電",
+    "canonical": "金山電",
+    "sector": "Electronic Components"
+  },
+  "8043": {
+    "name": "蜜望實",
+    "canonical": "蜜望實",
+    "sector": "Electronic Components"
+  },
+  "8044": {
+    "name": "網家",
+    "canonical": "網家",
+    "sector": "Internet Retail"
+  },
+  "8045": {
+    "name": "達運光電",
+    "canonical": "達運光電",
+    "sector": "Communication Equipment"
+  },
+  "8046": {
+    "name": "南電",
+    "canonical": "南電",
+    "sector": "Electronic Components"
+  },
+  "8047": {
+    "name": "星雲",
+    "canonical": "星雲",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "8048": {
+    "name": "德勝",
+    "canonical": "德勝",
+    "sector": "Communication Equipment"
+  },
+  "8049": {
+    "name": "晶采",
+    "canonical": "晶采",
+    "sector": "Electronic Components"
+  },
+  "8050": {
+    "name": "廣積",
+    "canonical": "廣積",
+    "sector": "Computer Hardware"
+  },
+  "8054": {
+    "name": "安國",
+    "canonical": "安國",
+    "sector": "Computer Hardware"
+  },
+  "8059": {
+    "name": "凱碩",
+    "canonical": "凱碩",
+    "sector": "Communication Equipment"
+  },
+  "8064": {
+    "name": "東捷",
+    "canonical": "東捷",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "8066": {
+    "name": "來思達",
+    "canonical": "來思達",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "8067": {
+    "name": "志旭",
+    "canonical": "志旭",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "8068": {
+    "name": "全達",
+    "canonical": "全達",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "8069": {
+    "name": "元太",
+    "canonical": "元太",
+    "sector": "Electronic Components"
+  },
+  "8070": {
+    "name": "長華",
+    "canonical": "長華",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "8071": {
+    "name": "能率網通",
+    "canonical": "網通",
+    "sector": "Computer Hardware"
+  },
+  "8072": {
+    "name": "陞泰",
+    "canonical": "陞泰",
+    "sector": "Electronics & Computer Distribution"
+  },
+  "8074": {
+    "name": "鉅橡",
+    "canonical": "鉅橡",
+    "sector": "Electronic Components"
+  },
+  "8076": {
+    "name": "伍豐",
+    "canonical": "伍豐",
+    "sector": "Computer Hardware"
+  },
+  "8080": {
+    "name": "泰霖",
+    "canonical": "泰霖",
+    "sector": "Electronic Components"
+  },
+  "8081": {
+    "name": "致新",
+    "canonical": "致新",
+    "sector": "Semiconductors"
+  },
+  "8084": {
+    "name": "巨虹",
+    "canonical": "巨虹",
+    "sector": "Semiconductors"
+  },
+  "8085": {
+    "name": "福華",
+    "canonical": "福華",
+    "sector": "Electronic Components"
+  },
+  "8086": {
+    "name": "宏捷科",
+    "canonical": "宏捷科",
+    "sector": "Semiconductors"
+  },
+  "8087": {
+    "name": "麗升能源",
+    "canonical": "麗升能源",
+    "sector": "Utilities - Renewable"
+  },
+  "8088": {
+    "name": "品安",
+    "canonical": "品安",
+    "sector": "Computer Hardware"
+  },
+  "8089": {
+    "name": "康全電訊",
+    "canonical": "康全電訊",
+    "sector": "Communication Equipment"
+  },
+  "8091": {
+    "name": "翔名",
+    "canonical": "翔名",
+    "sector": "Semiconductors"
+  },
+  "8092": {
+    "name": "建暐",
+    "canonical": "建暐",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "8093": {
+    "name": "保銳",
+    "canonical": "保銳",
+    "sector": "Computer Hardware"
+  },
+  "8096": {
+    "name": "擎亞",
+    "canonical": "擎亞",
+    "sector": "Semiconductors"
+  },
+  "8097": {
+    "name": "常珵",
+    "canonical": "常珵",
+    "sector": "Communication Equipment"
+  },
+  "8099": {
+    "name": "大世科",
+    "canonical": "大世科",
+    "sector": "Information Technology Services"
+  },
+  "8101": {
+    "name": "華冠",
+    "canonical": "華冠",
+    "sector": "Communication Equipment"
+  },
+  "8102": {
+    "name": "傑霖科技",
+    "canonical": "傑霖科技",
+    "sector": "Semiconductors"
+  },
+  "8103": {
+    "name": "瀚荃",
+    "canonical": "瀚荃",
+    "sector": "Electronic Components"
+  },
+  "8104": {
+    "name": "錸寶",
+    "canonical": "錸寶",
+    "sector": "Electronic Components"
+  },
+  "8105": {
+    "name": "凌巨",
+    "canonical": "凌巨",
+    "sector": "Electronic Components"
+  },
+  "8109": {
+    "name": "博大",
+    "canonical": "博大",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "8110": {
+    "name": "華東",
+    "canonical": "華東",
+    "sector": "Semiconductor Equipment & Materials"
+  },
+  "8111": {
+    "name": "立��",
+    "canonical": "立��",
+    "sector": "Electronic Components"
+  },
+  "8112": {
+    "name": "至上",
+    "canonical": "至上",
+    "sector": "Semiconductors"
+  },
+  "8114": {
+    "name": "振樺電",
+    "canonical": "振樺電",
+    "sector": "Business Equipment & Supplies"
+  },
+  "8119": {
+    "name": "公信",
+    "canonical": "公信",
+    "sector": "Computer Hardware"
+  },
+  "8121": {
+    "name": "越峰",
+    "canonical": "越峰",
+    "sector": "Electronic Components"
+  },
+  "8131": {
+    "name": "福懋科",
+    "canonical": "福懋科",
+    "sector": "Semiconductors"
+  },
+  "8147": {
+    "name": "正淩",
+    "canonical": "正淩",
+    "sector": "Electronic Components"
+  },
+  "8150": {
+    "name": "南茂",
+    "canonical": "南茂",
+    "sector": "Semiconductors"
+  },
+  "8155": {
+    "name": "博智",
+    "canonical": "博智",
+    "sector": "Electronic Components"
+  },
+  "8162": {
+    "name": "微矽電子-創",
+    "canonical": "微矽電子-創",
+    "sector": "Semiconductors"
+  },
+  "8163": {
+    "name": "達方",
+    "canonical": "達方",
+    "sector": "Electronic Components"
+  },
+  "8171": {
+    "name": "天宇",
+    "canonical": "天宇",
+    "sector": "Electronic Components"
+  },
+  "8176": {
+    "name": "智捷",
+    "canonical": "智捷",
+    "sector": "Communication Equipment"
+  },
+  "8182": {
+    "name": "加高",
+    "canonical": "加高",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "8183": {
+    "name": "精星",
+    "canonical": "精星",
+    "sector": "Electronic Components"
+  },
+  "8201": {
+    "name": "無敵",
+    "canonical": "無敵",
+    "sector": "Consumer Electronics"
+  },
+  "8210": {
+    "name": "勤誠",
+    "canonical": "勤誠",
+    "sector": "Computer Hardware"
+  },
+  "8213": {
+    "name": "志超",
+    "canonical": "志超",
+    "sector": "Electronic Components"
+  },
+  "8215": {
+    "name": "明基材",
+    "canonical": "明基材",
+    "sector": "Electronic Components"
+  },
+  "8222": {
+    "name": "寶一",
+    "canonical": "寶一",
+    "sector": "Aerospace & Defense"
+  },
+  "8227": {
+    "name": "巨有科技",
+    "canonical": "巨有科技",
+    "sector": "Semiconductors"
+  },
+  "8234": {
+    "name": "新漢",
+    "canonical": "新漢",
+    "sector": "Computer Hardware"
+  },
+  "8240": {
+    "name": "華宏",
+    "canonical": "華宏",
+    "sector": "Electronic Components"
+  },
+  "8249": {
+    "name": "菱光",
+    "canonical": "菱光",
+    "sector": "Electrical Equipment & Parts"
+  },
+  "8261": {
+    "name": "富鼎",
+    "canonical": "富鼎",
+    "sector": "Semiconductors"
+  },
+  "8271": {
+    "name": "宇瞻",
+    "canonical": "宇瞻",
+    "sector": "Semiconductors"
+  },
+  "8277": {
+    "name": "商丞",
+    "canonical": "商丞",
+    "sector": "Semiconductors"
+  },
+  "8284": {
+    "name": "三竹",
+    "canonical": "三竹",
+    "sector": "Software - Application"
+  },
+  "8289": {
+    "name": "泰藝",
+    "canonical": "泰藝",
+    "sector": "Scientific & Technical Instruments"
+  },
+  "8291": {
+    "name": "尚茂",
+    "canonical": "尚茂",
+    "sector": "Electronic Components"
+  },
+  "8298": {
+    "name": "威睿",
+    "canonical": "威睿",
+    "sector": "Software - Infrastructure"
+  },
+  "8299": {
+    "name": "群聯",
+    "canonical": "群聯",
+    "sector": "Semiconductors"
+  },
+  "8341": {
+    "name": "日友",
+    "canonical": "日友",
+    "sector": "Waste Management"
+  },
+  "8342": {
+    "name": "益張",
+    "canonical": "益張",
+    "sector": "Business Equipment & Supplies"
+  },
+  "8345": {
+    "name": "超秦",
+    "canonical": "超秦",
+    "sector": "Farm Products"
+  },
+  "8349": {
+    "name": "�矬�",
+    "canonical": "�矬�",
+    "sector": "Tools & Accessories"
+  },
+  "8354": {
+    "name": "冠好",
+    "canonical": "冠好",
+    "sector": "Specialty Chemicals"
+  },
+  "8358": {
+    "name": "金居",
+    "canonical": "金居",
+    "sector": "Electronic Components"
+  },
+  "8367": {
+    "name": "建新國際",
+    "canonical": "建新國際",
+    "sector": "Marine Shipping"
+  },
+  "8374": {
+    "name": "羅昇",
+    "canonical": "羅昇",
+    "sector": "Industrial Distribution"
+  },
+  "8383": {
+    "name": "千附",
+    "canonical": "千附",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "8390": {
+    "name": "金益鼎",
+    "canonical": "金益鼎",
+    "sector": "Waste Management"
+  },
+  "8401": {
+    "name": "白紗科",
+    "canonical": "白紗科",
+    "sector": "Specialty Business Services"
+  },
+  "8404": {
+    "name": "百和興業-KY",
+    "canonical": "百和興業-KY",
+    "sector": "Footwear & Accessories"
+  },
+  "8410": {
+    "name": "森田",
+    "canonical": "森田",
+    "sector": "Specialty Chemicals"
+  },
+  "8411": {
+    "name": "福貞-KY",
+    "canonical": "福貞-KY",
+    "sector": "Packaging & Containers"
+  },
+  "8415": {
+    "name": "大國鋼",
+    "canonical": "大國鋼",
+    "sector": "Tools & Accessories"
+  },
+  "8416": {
+    "name": "實威",
+    "canonical": "實威",
+    "sector": "Software - Application"
+  },
+  "8421": {
+    "name": "旭源",
+    "canonical": "旭源",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "8422": {
+    "name": "可寧衛",
+    "canonical": "可寧衛",
+    "sector": "Waste Management"
+  },
+  "8424": {
+    "name": "惠普",
+    "canonical": "惠普",
+    "sector": "Building Materials"
+  },
+  "8426": {
+    "name": "紅木-KY",
+    "canonical": "紅木-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "8431": {
+    "name": "匯鑽科",
+    "canonical": "匯鑽科",
+    "sector": "Specialty Chemicals"
+  },
+  "8433": {
+    "name": "弘帆",
+    "canonical": "弘帆",
+    "sector": "Specialty Retail"
+  },
+  "8435": {
+    "name": "鉅邁",
+    "canonical": "鉅邁",
+    "sector": "Chemicals"
+  },
+  "8437": {
+    "name": "大地-KY",
+    "canonical": "大地-KY",
+    "sector": "Education & Training Services"
+  },
+  "8438": {
+    "name": "昶昕",
+    "canonical": "昶昕",
+    "sector": "Chemicals"
+  },
+  "8440": {
+    "name": "綠電",
+    "canonical": "綠電",
+    "sector": "Waste Management"
+  },
+  "8442": {
+    "name": "威宏-KY",
+    "canonical": "威宏-KY",
+    "sector": "Leisure"
+  },
+  "8444": {
+    "name": "綠河-KY",
+    "canonical": "綠河-KY",
+    "sector": "Lumber & Wood Production"
+  },
+  "8454": {
+    "name": "富邦媒",
+    "canonical": "富邦媒",
+    "sector": "Internet Retail"
+  },
+  "8455": {
+    "name": "大拓-KY",
+    "canonical": "大拓-KY",
+    "sector": "Computer Hardware"
+  },
+  "8462": {
+    "name": "柏文",
+    "canonical": "柏文",
+    "sector": "Leisure"
+  },
+  "8463": {
+    "name": "潤泰材",
+    "canonical": "潤泰材",
+    "sector": "Building Materials"
+  },
+  "8464": {
+    "name": "億豐",
+    "canonical": "億豐",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "8466": {
+    "name": "美吉吉-KY",
+    "canonical": "美吉吉-KY",
+    "sector": "Building Products & Equipment"
+  },
+  "8467": {
+    "name": "波力-KY",
+    "canonical": "波力-KY",
+    "sector": "Leisure"
+  },
+  "8472": {
+    "name": "夠麻吉",
+    "canonical": "夠麻吉",
+    "sector": "Internet Retail"
+  },
+  "8473": {
+    "name": "山林水",
+    "canonical": "山林水",
+    "sector": "Waste Management"
+  },
+  "8476": {
+    "name": "台境",
+    "canonical": "台境",
+    "sector": "Waste Management"
+  },
+  "8477": {
+    "name": "創業家",
+    "canonical": "創業家",
+    "sector": "Internet Retail"
+  },
+  "8478": {
+    "name": "東哥遊艇",
+    "canonical": "東哥遊艇",
+    "sector": "Recreational Vehicles"
+  },
+  "8481": {
+    "name": "政伸",
+    "canonical": "政伸",
+    "sector": "Specialty Business Services"
+  },
+  "8482": {
+    "name": "商億-KY",
+    "canonical": "商億-KY",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "8487": {
+    "name": "愛爾達-創",
+    "canonical": "愛爾達-創",
+    "sector": "Entertainment"
+  },
+  "8488": {
+    "name": "吉源-KY",
+    "canonical": "吉源-KY",
+    "sector": "Packaging & Containers"
+  },
+  "8489": {
+    "name": "三貝德",
+    "canonical": "三貝德",
+    "sector": "Education & Training Services"
+  },
+  "8499": {
+    "name": "鼎炫-KY",
+    "canonical": "鼎炫-KY",
+    "sector": "Electronic Components"
+  },
+  "8905": {
+    "name": "裕國",
+    "canonical": "裕國",
+    "sector": "Packaged Foods"
+  },
+  "8906": {
+    "name": "花王",
+    "canonical": "花王",
+    "sector": "Specialty Business Services"
+  },
+  "8908": {
+    "name": "欣雄",
+    "canonical": "欣雄",
+    "sector": "Utilities - Regulated Gas"
+  },
+  "8916": {
+    "name": "光隆",
+    "canonical": "光隆",
+    "sector": "Textile Manufacturing"
+  },
+  "8917": {
+    "name": "欣泰",
+    "canonical": "欣泰",
+    "sector": "Utilities - Regulated Gas"
+  },
+  "8921": {
+    "name": "沈氏",
+    "canonical": "沈氏",
+    "sector": "Specialty Business Services"
+  },
+  "8924": {
+    "name": "大田",
+    "canonical": "大田",
+    "sector": "Leisure"
+  },
+  "8926": {
+    "name": "台汽電",
+    "canonical": "台汽電",
+    "sector": "Engineering & Construction"
+  },
+  "8927": {
+    "name": "北基",
+    "canonical": "北基",
+    "sector": "Specialty Retail"
+  },
+  "8928": {
+    "name": "鉅明",
+    "canonical": "鉅明",
+    "sector": "Leisure"
+  },
+  "8929": {
+    "name": "富堡",
+    "canonical": "富堡",
+    "sector": "Household & Personal Products"
+  },
+  "8930": {
+    "name": "青鋼",
+    "canonical": "青鋼",
+    "sector": "Building Products & Equipment"
+  },
+  "8931": {
+    "name": "大汽電",
+    "canonical": "大汽電",
+    "sector": "Utilities - Regulated Electric"
+  },
+  "8932": {
+    "name": "智通",
+    "canonical": "智通",
+    "sector": "Apparel Manufacturing"
+  },
+  "8933": {
+    "name": "愛地雅",
+    "canonical": "愛地雅",
+    "sector": "Leisure"
+  },
+  "8935": {
+    "name": "邦泰",
+    "canonical": "邦泰",
+    "sector": "Specialty Chemicals"
+  },
+  "8936": {
+    "name": "國統",
+    "canonical": "國統",
+    "sector": "Building Products & Equipment"
+  },
+  "8937": {
+    "name": "合騏",
+    "canonical": "合騏",
+    "sector": "Recreational Vehicles"
+  },
+  "8938": {
+    "name": "明安",
+    "canonical": "明安",
+    "sector": "Leisure"
+  },
+  "8941": {
+    "name": "關中",
+    "canonical": "關中",
+    "sector": "Household & Personal Products"
+  },
+  "8942": {
+    "name": "森鉅",
+    "canonical": "森鉅",
+    "sector": "Aluminum"
+  },
+  "8996": {
+    "name": "高力",
+    "canonical": "高力",
+    "sector": "Specialty Industrial Machinery"
+  },
+  "9802": {
+    "name": "鈺齊-KY",
+    "canonical": "鈺齊-KY",
+    "sector": "Footwear & Accessories"
+  },
+  "9902": {
+    "name": "台火",
+    "canonical": "台火",
+    "sector": "Real Estate Services"
+  },
+  "9904": {
+    "name": "寶成",
+    "canonical": "寶成",
+    "sector": "Footwear & Accessories"
+  },
+  "9905": {
+    "name": "大華",
+    "canonical": "大華",
+    "sector": "Packaging & Containers"
+  },
+  "9906": {
+    "name": "欣巴巴",
+    "canonical": "欣巴巴",
+    "sector": "Engineering & Construction"
+  },
+  "9907": {
+    "name": "統一實",
+    "canonical": "統一實",
+    "sector": "Packaging & Containers"
+  },
+  "9908": {
+    "name": "大台北",
+    "canonical": "大台北",
+    "sector": "Utilities - Regulated Gas"
+  },
+  "9910": {
+    "name": "豐泰",
+    "canonical": "豐泰",
+    "sector": "Footwear & Accessories"
+  },
+  "9911": {
+    "name": "櫻花",
+    "canonical": "櫻花",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "9912": {
+    "name": "偉聯",
+    "canonical": "偉聯",
+    "sector": "Electronic Components"
+  },
+  "9914": {
+    "name": "美利達",
+    "canonical": "美利達",
+    "sector": "Leisure"
+  },
+  "9917": {
+    "name": "中保科",
+    "canonical": "中保科",
+    "sector": "Security & Protection Services"
+  },
+  "9918": {
+    "name": "欣天然",
+    "canonical": "欣天然",
+    "sector": "Utilities - Regulated Gas"
+  },
+  "9919": {
+    "name": "康那香",
+    "canonical": "康那香",
+    "sector": "Household & Personal Products"
+  },
+  "9921": {
+    "name": "巨大",
+    "canonical": "巨大",
+    "sector": "Leisure"
+  },
+  "9924": {
+    "name": "福興",
+    "canonical": "福興",
+    "sector": "Building Products & Equipment"
+  },
+  "9925": {
+    "name": "新保",
+    "canonical": "新保",
+    "sector": "Security & Protection Services"
+  },
+  "9926": {
+    "name": "新海",
+    "canonical": "新海",
+    "sector": "Utilities - Regulated Gas"
+  },
+  "9927": {
+    "name": "泰銘",
+    "canonical": "泰銘",
+    "sector": "Other Industrial Metals & Mining"
+  },
+  "9928": {
+    "name": "中視",
+    "canonical": "中視",
+    "sector": "Broadcasting"
+  },
+  "9929": {
+    "name": "秋雨",
+    "canonical": "秋雨",
+    "sector": "Specialty Business Services"
+  },
+  "9930": {
+    "name": "中聯資源",
+    "canonical": "中聯資源",
+    "sector": "Building Materials"
+  },
+  "9931": {
+    "name": "欣高",
+    "canonical": "欣高",
+    "sector": "Utilities - Regulated Gas"
+  },
+  "9933": {
+    "name": "中鼎",
+    "canonical": "中鼎",
+    "sector": "Engineering & Construction"
+  },
+  "9934": {
+    "name": "成霖",
+    "canonical": "成霖",
+    "sector": "Building Products & Equipment"
+  },
+  "9935": {
+    "name": "慶豐富",
+    "canonical": "慶豐富",
+    "sector": "Furnishings, Fixtures & Appliances"
+  },
+  "9937": {
+    "name": "全國",
+    "canonical": "全國",
+    "sector": "Specialty Retail"
+  },
+  "9938": {
+    "name": "百和",
+    "canonical": "百和",
+    "sector": "Textile Manufacturing"
+  },
+  "9939": {
+    "name": "宏全",
+    "canonical": "宏全",
+    "sector": "Packaging & Containers"
+  },
+  "9940": {
+    "name": "信義",
+    "canonical": "信義",
+    "sector": "Real Estate Services"
+  },
+  "9941": {
+    "name": "裕融",
+    "canonical": "裕融",
+    "sector": "Credit Services"
+  },
+  "9944": {
+    "name": "新麗",
+    "canonical": "新麗",
+    "sector": "Textile Manufacturing"
+  },
+  "9945": {
+    "name": "潤泰新",
+    "canonical": "潤泰新",
+    "sector": "Engineering & Construction"
+  },
+  "9946": {
+    "name": "三發地產",
+    "canonical": "三發地產",
+    "sector": "Real Estate - Diversified"
+  },
+  "9950": {
+    "name": "萬國通",
+    "canonical": "萬國通",
+    "sector": "Footwear & Accessories"
+  },
+  "9955": {
+    "name": "佳龍",
+    "canonical": "佳龍",
+    "sector": "Pollution & Treatment Controls"
+  },
+  "9957": {
+    "name": "燁聯",
+    "canonical": "燁聯",
+    "sector": "Steel"
+  },
+  "9958": {
+    "name": "世紀鋼",
+    "canonical": "世紀鋼",
+    "sector": "Metal Fabrication"
+  },
+  "9960": {
+    "name": "邁達康",
+    "canonical": "邁達康",
+    "sector": "Specialty Retail"
+  },
+  "9962": {
+    "name": "有益",
+    "canonical": "有益",
+    "sector": "Steel"
+  }
+}

@@ -280,6 +280,45 @@ Every report is validated against 8 quality rules (defined in `CLAUDE.md`):
 
 Current audit score: **1,733/1,733 (100%)** pass all quality checks.
 
+## Theme Momentum App
+
+A Streamlit dashboard that joins the wikilink graph with daily price action — surfaces which themes (`[[CoWoS]]`, `[[HBM]]`, `[[低軌衛星]]`, `[[Apple]]` supply chain, …) are leading or lagging the market.
+
+```bash
+pip install -r requirements.txt
+
+# 1. Build the theme index from the .md reports (no network)
+python -m momentum.cli build-index
+
+# 2. Fetch prices + compute momentum metrics
+python -m momentum.cli daily            # production: real yfinance fetch
+python -m momentum.cli daily --mock     # local: synthetic OHLCV for UI dev
+
+# 3. Launch the dashboard
+streamlit run app/streamlit_app.py
+```
+
+Daily refresh is automated by `.github/workflows/daily-momentum.yml` (cron 07:30 UTC, ~30 min after TWSE close). It rebuilds the index, fetches prices, computes momentum, and commits the snapshot under `data/daily/YYYY-MM-DD/`.
+
+### Modules
+
+| Path | Purpose |
+|---|---|
+| `momentum/indexer.py` | Scan `Pilot_Reports/*.md`, build theme ↔ ticker graph |
+| `momentum/prices.py` | yfinance OHLCV fetcher with `.TW`/`.TWO` fallback + CSV cache |
+| `momentum/momentum.py` | Per-ticker metrics: returns, RS Rating (1–99), volume surge, new highs |
+| `momentum/themes.py` | Per-theme aggregation + week-over-week rotation score |
+| `momentum/relations.py` | Theme-to-theme Jaccard similarity for the network graph |
+| `momentum/fundamentals.py` | Monthly revenue from TWSE / TPEx open data → YoY acceleration |
+| `momentum/alert.py` | Markdown daily summary + webhook push (Slack/Discord/generic) |
+| `momentum/mock_prices.py` | Synthetic OHLCV for sandboxes without market data access |
+| `app/streamlit_app.py` | Dashboard entry — hot/cold theme ranking with rotation scores |
+| `app/pages/` | Theme browser · Ticker detail · Daily movers · Theme network graph |
+
+### Daily alert
+
+Set the GitHub Actions secret `MOMENTUM_WEBHOOK_URL` to a Slack incoming webhook, Discord webhook, or any endpoint that accepts `{"text": "..."}` POSTs. The workflow's `Push daily alert` step will send the markdown summary after each snapshot. Leave the secret unset to disable.
+
 ## Data Sources
 
 - **Financial data**: [yfinance](https://github.com/ranaroussi/yfinance) (Yahoo Finance Taiwan)
