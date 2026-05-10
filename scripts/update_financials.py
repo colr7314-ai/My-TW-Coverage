@@ -25,7 +25,10 @@ import pandas as pd
 import yfinance as yf
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from utils import find_ticker_files, parse_scope_args
+from utils import (
+    find_ticker_files, parse_scope_args, setup_stdout,
+    fetch_valuation_data, build_valuation_table, update_metadata,
+)
 
 # Financial metrics to extract
 METRICS_KEYS = {
@@ -173,9 +176,12 @@ def fetch_financials(ticker):
                 else None
             )
 
+            valuation = fetch_valuation_data(info)
+
             return {
                 "annual": df_annual,
                 "quarterly": df_quarterly,
+                "valuation": valuation,
                 "market_cap": market_cap,
                 "enterprise_value": enterprise_value,
                 "sector": info.get("sector", "N/A"),
@@ -196,13 +202,18 @@ def df_to_clean_markdown(df):
     md = md.replace(" nan|", " -|")
     md = md.replace("|nan ", "|- ")
     # Also handle edge cases with padding
-    import re
     md = re.sub(r'\bnan\b', '-', md)
     return md
 
 
 def build_financial_section(data):
     section = "## 財務概況 (單位: 百萬台幣, 只有 Margin 為 %)\n"
+
+    # Valuation snapshot
+    v = data.get("valuation", {})
+    if v:
+        section += build_valuation_table(v) + "\n\n"
+
     section += "### 年度關鍵財務數據 (近 3 年)\n"
     if data["annual"] is not None and not data["annual"].empty:
         section += df_to_clean_markdown(data["annual"]) + "\n\n"
@@ -233,18 +244,7 @@ def update_file(filepath, ticker, dry_run=False):
         new_content = content.rstrip() + "\n\n" + new_fin
 
     # Update metadata
-    if data.get("market_cap"):
-        new_content = re.sub(
-            r"(\*\*市值:\*\*) .+?百萬台幣",
-            rf"\1 {data['market_cap']} 百萬台幣",
-            new_content,
-        )
-    if data.get("enterprise_value"):
-        new_content = re.sub(
-            r"(\*\*企業價值:\*\*) .+?百萬台幣",
-            rf"\1 {data['enterprise_value']} 百萬台幣",
-            new_content,
-        )
+    new_content = update_metadata(new_content, data.get("market_cap"), data.get("enterprise_value"))
 
     if dry_run:
         print(f"  {ticker}: WOULD UPDATE ({data['suffix']})")
@@ -257,10 +257,9 @@ def update_file(filepath, ticker, dry_run=False):
 
 
 def main():
-    if sys.platform == "win32":
-        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    setup_stdout()
 
-    args = [a for a in sys.argv[1:]]
+    args = list(sys.argv[1:])
     dry_run = "--dry-run" in args
     if dry_run:
         args.remove("--dry-run")

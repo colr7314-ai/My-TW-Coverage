@@ -53,10 +53,15 @@ Each report follows a consistent structure:
 ### 主要客戶
 - [[Apple]], [[NVIDIA]], [[AMD]], [[Qualcomm]]...
 ### 主要供應商
-- [[ASML]], [[Tokyo Electron]], [[信越化學]]...
+- [[ASML]], [[Tokyo Electron]], [[Shin-Etsu]]...
 
 ## 財務概況
-[Annual (3yr) and Quarterly (4Q) financial tables]
+### 估值指標
+| P/E (TTM) | Forward P/E | P/S (TTM) | P/B | EV/EBITDA |
+[Valuation multiples from yfinance]
+
+### 年度/季度財務數據
+[Annual (3yr) and Quarterly (4Q) financial tables with 14 metrics]
 ```
 
 ### Add a New Ticker
@@ -74,6 +79,17 @@ python scripts/update_financials.py 2330 2454 3034              # Multiple ticke
 python scripts/update_financials.py --batch 101                 # By batch
 python scripts/update_financials.py --sector Semiconductors     # By sector
 python scripts/update_financials.py                             # ALL tickers
+```
+
+### Update Valuation Only (Fast)
+
+Refreshes only the 估值指標 table (P/E, Forward P/E, P/S, P/B, EV/EBITDA, stock price) without re-fetching full financial statements. ~3x faster than `update_financials`.
+
+```bash
+python scripts/update_valuation.py 2330                         # Single ticker
+python scripts/update_valuation.py --batch 101                  # By batch
+python scripts/update_valuation.py --sector Semiconductors      # By sector
+python scripts/update_valuation.py                              # ALL tickers
 ```
 
 ### Update Enrichment Content
@@ -107,21 +123,92 @@ python scripts/audit_batch.py --all -v    # All batches
 
 The audit checks: minimum 8 wikilinks, no generic terms in brackets, no placeholders, no English text, metadata completeness, and section depth.
 
-## Using with Claude Code
+### Rebuild Wikilink Index
 
-This project includes [Claude Code](https://claude.ai/claude-code) skill definitions for interactive use:
+```bash
+python scripts/build_wikilink_index.py
+```
 
-| Command | Description |
-|---|---|
-| `/add-ticker 2330 台積電` | Generate report + fetch financials + research & enrich |
-| `/update-financials 2330` | Refresh financial tables from yfinance |
-| `/update-enrichment 2330` | Re-research and update business content |
+Regenerates [WIKILINKS.md](WIKILINKS.md) — a browsable index of all 4,900+ wikilinks categorized by type (Technologies, Materials, Applications, Companies). Run after any enrichment update.
 
-All commands support scope: single ticker, multiple tickers, `--batch N`, `--sector Name`, or all.
+### Discover Companies by Buzzword
+
+Hear a buzzword on the news? Find every related Taiwan-listed company instantly.
+
+```bash
+python scripts/discover.py "液冷散熱"                    # Search all sectors
+python scripts/discover.py "液冷散熱" --smart            # Auto-detect relevant sectors
+python scripts/discover.py "液冷散熱" --apply            # Tag [[wikilinks]] in reports
+python scripts/discover.py "液冷散熱" --apply --rebuild  # Also rebuild themes + network
+python scripts/discover.py "液冷散熱" --sector Semiconductors  # Limit to specific sector
+```
+
+Results show companies grouped by relationship type (core business, supply chain, customer/supplier) with context snippets. Use `--smart` to auto-filter irrelevant sectors (tech buzzwords skip banks/insurance/real estate).
+
+### Generate Wikilink Network Graph
+
+Interactive D3.js force-directed graph showing wikilink co-occurrences across all tickers. Hover to highlight neighbors, search by name, adjust edge weight threshold.
+
+```bash
+python scripts/build_network.py                    # Default: min 5 co-occurrences
+python scripts/build_network.py --min-weight 10    # Fewer edges, cleaner view
+python scripts/build_network.py --top 200          # Only top 200 nodes
+```
+
+Open `network/index.html` in your browser. Node colors: red = Taiwan company, blue = international, green = technology, orange = material, purple = application.
+
+### Generate Thematic Investment Screens
+
+```bash
+python scripts/build_themes.py               # Build all 20 themes
+python scripts/build_themes.py "CoWoS"       # Single theme
+python scripts/build_themes.py --list        # List available themes
+```
+
+Generates [themes/](themes/) — supply chain maps for key investment themes. Each page shows companies grouped by upstream/midstream/downstream role. See [themes/README.md](themes/README.md) for the full index.
+
+## Token Usage & Cost Guide
+
+Tools fall into two categories: **Python scripts** (free, run locally) and **Claude Code skills** (consume API tokens for AI research).
+
+### Free — Python Scripts (No Tokens)
+
+These run 100% locally with Python + yfinance. No AI, no API cost.
+
+| Script | Command | What it does |
+|---|---|---|
+| Update Financials | `python scripts/update_financials.py [scope]` | Refresh financial tables from yfinance |
+| Update Valuation | `python scripts/update_valuation.py [scope]` | Refresh P/E, P/B, EV/EBITDA only (fast) |
+| Update Enrichment | `python scripts/update_enrichment.py --data <json> [scope]` | Apply pre-prepared enrichment data |
+| Audit | `python scripts/audit_batch.py <batch> -v` | Quality check reports |
+| Discover (search) | `python scripts/discover.py "<buzzword>"` | Scan reports for keyword matches |
+| Build Themes | `python scripts/build_themes.py` | Generate thematic supply chain pages |
+| Build Network | `python scripts/build_network.py` | Generate interactive D3.js graph |
+| Build Wikilink Index | `python scripts/build_wikilink_index.py` | Rebuild WIKILINKS.md |
+
+### Consumes Tokens — Claude Code Skills (Requires AI)
+
+These use Claude AI for web research, content generation, and intelligent enrichment. They require [Claude Code](https://claude.ai/claude-code) and consume API tokens.
+
+| Slash Command | Token Usage | What it does |
+|---|---|---|
+| `/add-ticker 2330 台積電` | Medium | Generate .md + fetch financials + **AI researches** business desc, supply chain, customers |
+| `/update-enrichment 2330` | Medium | **AI re-researches** and rewrites business content (preserves financials) |
+| `/discover 液冷散熱` | Low-High | Scans database (free) → if no results, **AI researches** online and enriches reports |
+
+**Token cost drivers:**
+- `/add-ticker`: ~1 web search + content generation per ticker
+- `/update-enrichment`: ~3-5 web searches + content synthesis per ticker
+- `/discover` with results: **zero tokens** (Python scan only)
+- `/discover` without results: varies by research depth (web searches + file edits)
+
+**Tip:** For bulk operations, use Python scripts directly. Use slash commands for individual tickers or when AI research is needed.
 
 ## Wikilink Graph
 
-The database contains **4,941 unique wikilinks** across three categories:
+Browse the full index: **[WIKILINKS.md](WIKILINKS.md)**
+
+The database contains **4,900+ unique wikilinks** across three categories:
 
 | Category | Examples | Purpose |
 |---|---|---|
@@ -145,19 +232,35 @@ The database contains **4,941 unique wikilinks** across three categories:
 
 ```
 ├── CLAUDE.md                  # Project rules and quality standards
+├── WIKILINKS.md               # Browsable wikilink index (auto-generated)
 ├── task.md                    # Batch definitions and progress tracking
+├── requirements.txt           # Python dependencies
 ├── README.md
 ├── scripts/
-│   ├── utils.py               # Shared utilities (file discovery, scope parsing)
+│   ├── utils.py               # Shared utilities (file discovery, wikilink normalization)
 │   ├── add_ticker.py          # Generate new ticker reports
-│   ├── update_financials.py   # Refresh financial tables from yfinance
+│   ├── update_financials.py   # Refresh financial tables + valuation multiples
 │   ├── update_enrichment.py   # Update business descriptions from JSON
 │   ├── audit_batch.py         # Quality auditing
+│   ├── update_valuation.py     # Refresh valuation multiples only (fast)
+│   ├── discover.py            # Reverse search: buzzword → related companies
+│   ├── build_wikilink_index.py # Rebuild WIKILINKS.md index
+│   ├── build_themes.py        # Generate thematic investment screens
+│   ├── build_network.py       # Generate interactive network graph
 │   └── generators/            # Historical base report generators
 ├── Pilot_Reports/             # 1,735 ticker reports across 99 sectors
 │   ├── Semiconductors/
 │   ├── Electronic Components/
 │   └── ... (99 folders)
+├── network/                   # Interactive wikilink network graph (auto-generated)
+│   ├── index.html             # D3.js visualization (open in browser)
+│   └── graph_data.json        # Raw graph data (339 nodes, 1,452 edges)
+├── themes/                    # Thematic investment screens (auto-generated)
+│   ├── README.md              # Theme index
+│   ├── CoWoS.md               # 39 companies in CoWoS supply chain
+│   ├── AI_伺服器.md            # 148 companies in AI server ecosystem
+│   ├── NVIDIA.md              # 104 companies in NVIDIA supply chain
+│   └── ... (20 themes)
 └── .claude/
     └── skills/                # Claude Code skill definitions
 ```
@@ -228,6 +331,17 @@ Set the GitHub Actions secret `MOMENTUM_WEBHOOK_URL` to a Slack incoming webhook
 - Business descriptions reflect research as of the enrichment date — they don't auto-update
 - Wikilinks are manually curated — new technologies or companies need manual addition
 - Content is in Traditional Chinese — English speakers will need translation
+
+## Wikilink Naming Convention
+
+| Category | Canonical form | Examples |
+|---|---|---|
+| Taiwan companies | Chinese | `[[台積電]]`, `[[鴻海]]`, `[[聯發科]]` |
+| Foreign companies | English | `[[NVIDIA]]`, `[[Samsung]]`, `[[Micron]]` |
+| Materials/substrates | Chinese | `[[碳化矽]]`, `[[氮化鎵]]`, `[[電動車]]` |
+| Industry acronyms | Acronym | `[[PCB]]`, `[[CPO]]`, `[[HBM]]`, `[[CoWoS]]` |
+
+Wikilink normalization is built into the enrichment pipeline — aliases are automatically merged to canonical form on every write.
 
 ## Contributing
 
