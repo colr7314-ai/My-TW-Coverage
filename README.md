@@ -284,6 +284,10 @@ Current audit score: **1,733/1,733 (100%)** pass all quality checks.
 
 A Streamlit dashboard that joins the wikilink graph with daily price action — surfaces which themes (`[[CoWoS]]`, `[[HBM]]`, `[[低軌衛星]]`, `[[Apple]]` supply chain, …) are leading or lagging the market.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=colr7314-ai%2FMy-TW-Coverage&branch=master&mainModule=app%2Fstreamlit_app.py)
+
+Click the badge above for a one-click deploy to Streamlit Cloud (signs you in with GitHub, pre-fills the repo / branch / entry file — you just press **Deploy**).
+
 ```bash
 pip install -r requirements.txt
 
